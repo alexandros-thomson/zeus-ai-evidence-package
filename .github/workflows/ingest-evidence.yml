@@ -21,11 +21,14 @@ jobs:
       - name: Parse PDFs to CSV
         run: python scripts/parse_statements.py
       - name: Validate Totals
-        run: |
-          # Placeholder for tax total validation script
-          echo "Validating tax totals..."
+        run: python scripts/validate_tax_totals.py
       - name: Upload processed CSVs
         uses: actions/upload-artifact@v4
         with:
           name: processed-csvs
           path: evidence/processed/
+                - name: Upload validation report
+        uses: actions/upload-artifact@v4
+        with:
+          name: validation-report
+          path: evidence/reports/
