@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  parse:
+  parse_and_validate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
