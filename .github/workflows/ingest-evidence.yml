@@ -1,0 +1,31 @@
+name: Ingest Evidence PDFs
+on:
+  push:
+    paths:
+      - 'evidence/raw/**'
+  workflow_dispatch:
+
+jobs:
+  parse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: |
+          sudo apt-get update && sudo apt-get install -y default-jre
+          pip install tabula-py pandas python-dotenv
+      - name: Parse PDFs to CSV
+        run: python scripts/parse_statements.py
+      - name: Validate Totals
+        run: |
+          # Placeholder for tax total validation script
+          echo "Validating tax totals..."
+      - name: Upload processed CSVs
+        uses: actions/upload-artifact@v4
+        with:
+          name: processed-csvs
+          path: evidence/processed/

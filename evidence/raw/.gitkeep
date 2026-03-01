@@ -1,0 +1,3 @@
+# Evidence repository placeholder
+Keep raw PDFs in /evidence/raw/
+Processed CSVs will appear in /evidence/processed/ via GitHub Actions.
