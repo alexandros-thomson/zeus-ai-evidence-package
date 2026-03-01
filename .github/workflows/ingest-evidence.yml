@@ -27,7 +27,7 @@ jobs:
         with:
           name: processed-csvs
           path: evidence/processed/
-                - name: Upload validation report
+      - name: Upload validation report
         uses: actions/upload-artifact@v4
         with:
           name: validation-report
