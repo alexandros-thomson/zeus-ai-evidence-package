@@ -15,10 +15,16 @@ Central GitHub repository integrating all tax/legal evidence for Stamatina/John 
 - Εκκαθαριστικά (2022-2024)
 - AADE tax proofs (`01_2021-01_2026AADE.pdf`)
 
+### Accountant History
+- **[ACCOUNTANT-HISTORY.md](evidence/ACCOUNTANT-HISTORY.md)** — Full transition record
+- **Original:** Χρήστος Αιβαλιώτης (Λογιστής) — Office phone: 2298074375 — **RETIRED**
+- **Current:** Ρένια Βλάχου (Λογιστής) — **Purchased the business** from Αιβαλιώτης — **ACTIVE**
+- All client files/papers transferred upon retirement & sale
+
 ### Protocol Tracker
 - **MASTER-PROTOCOL-TRACKER.csv** - Live tracker with **250 protocols** across 30+ agencies
 - **DEADLINE-DIGEST.md** - Snapshot of critical deadlines and session outcomes
-- Real-time sync with Notion [Deadline Digest](https://www.notion.so/30ffe5f31cb881db96bcda4e7254bc2e)
+- Real-time sync with Notion [⚖️ Justice for John — Deadline Digest](https://www.notion.so/30ffe5f31cb881db96bcda4e7254bc2e)
 
 ## 🤖 Zeus AI Integration
 
@@ -142,7 +148,7 @@ git push origin main
 - **Agency:** ΕΑΔ (National Transparency Authority)
 - **Strategic Impact:** Master correlation + AFCOS EU fraud nexus established
 
-## 🏛️ Agency Breakdown
+## 🏡 Agency Breakdown
 
 ### Top Agencies (Active Cases)
 1. **AEAD (Εθνική Αρχή Διαφάνειας)** - **13 protocols** (↑ from 9) ⚡
@@ -159,9 +165,21 @@ git push origin main
 - **Property Fraud:** Ktimatologio, EAD transparency complaints
 - **National Transparency:** EAD 17-protocol correlation + AFCOS fraud referral
 
+## 👥 Key Contacts
+
+### Accountant History
+| Role | Name | Phone | Status |
+|---|---|---|---|
+| Original Accountant | Χρήστος Αιβαλιώτης (Christos Aivaliotis) | 2298074375 | ❌ Retired |
+| Current Accountant | Ρένια Βλάχου (Renia Vlachou) | — | ✅ Active |
+
+> Ρένια Βλάχου purchased the accounting business from Χρήστος Αιβαλιώτης upon his retirement. All Kyprianos family papers were transferred.
+> 📄 Full details: [evidence/ACCOUNTANT-HISTORY.md](evidence/ACCOUNTANT-HISTORY.md)
+
 ## 🔗 Connected Systems
 
 - **Notion:** [⚖️ Justice for John — Deadline Digest](https://www.notion.so/30ffe5f31cb881db96bcda4e7254bc2e)
+- **Notion:** [📋 Accountant History](https://www.notion.so/317fe5f31cb8817c91eef177878ad106)
 - **GitHub:** [alexandros-thomson/zeus-ai-evidence-package](https://github.com/alexandros-thomson/zeus-ai-evidence-package)
 - **Drive:** Evidence sync via Google Drive/OneDrive/Box
 - **Email:** Automated protocol tracking via Gmail API
@@ -196,7 +214,7 @@ git push origin main
 
 ---
 
-*Last Updated: March 2, 2026 4:46 AM EST via Zeus AI*
+*Last Updated: March 2, 2026 3:24 PM EST via Zeus AI*
 
 ---
 
