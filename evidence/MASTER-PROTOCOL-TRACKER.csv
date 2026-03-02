@@ -61,7 +61,7 @@ Row,Date Filed,Date Received,Status,Protocol Number,Agency,Description,Deadline,
 244,02/28/2026,12:53 AM,SENT,568/10267/3,Cybercrime Direct,Follow-up Φάκελος - ND0113 delivered PK370 preservation order,N/A,Digital forensics per PK370 §VIII,CRITICAL,Row 47 PK370,Cybercrime
 245,02/28/2026,12:57 AM,SENT,A 12460 / A 12529,EAD Direct,Status inquiry N. 4557/2018 - ND0113 incorporation Ktimatologio 24-day,03/18/2026,Monitor response,HIGH,Rows 45-46 ND0113,Transparency
 246,02/28/2026,1:14 AM,SENT,Supplementary,EAD + Attachments (Corrected),3 attachments forwarded to grammateia@aead.gr after complaints@ bounce,03/18/2026,Track response,HIGH,Row 245 Ticket 4384023,Transparency
-247,02/28/2026,1:21 AM,CONFIRMED,5995 EI 2026,AEAD (ΑΕΑΔ),19-day statutory demand to AEAD,03/03/2026,Follow up if no response,HIGH,Rows 245-246,Transparency
-248,02/28/2026,1:21 AM,PENDING,Pending,AEAD Email,AEAD 19-day demand email (duplicate tracking),03/03/2026,Follow up if no response,HIGH,Row 247,Transparency
-249,02/28/2026,N/A,PENDING,Pending,Notarial Association,19-day demand,03/18/2026,Monitor deadline,NORMAL,Row 25,Professional Misconduct
-250,02/28/2026,N/A,PENDING,Pending,DESYP AADE,19-day demand,03/18/2026,Monitor deadline,NORMAL,Row 36,Tax Dispute
+247,03/02/2026,02/03/2026,CONFIRMED,13278 EI 2026,AEAD (ΑΕΑΔ),ΣΥΝΕΧΕΙΑ Α 12460 / Α 12529 ΕΙ 2026 - Ν. 4557/2018 - Εκκρεμότητα ND0113/2606549 (24+ ημέρες),N/A,Monitor for response,HIGH,Rows 45-46-48 ND0113,Transparency
+248,03/02/2026,02/03/2026,CONFIRMED,13280 EI 2026,AEAD (ΑΕΑΔ),ΣΥΝΕΧΕΙΑ Α 12460 / Α 12529 - Ν. 4557/2018 - Εκκρεμότητα ND0113 (Duplicate routing),N/A,Track internal registry,HIGH,Row 247,Transparency
+249,03/02/2026,02/03/2026,CONFIRMED,13286 EI 2026,AEAD (ΑΕΑΔ),ΑΙΤΗΜΑ ΣΥΣΧΕΤΙΣΗΣ 17 Πρωτοκόλλων ΕΑΔ (ΕΙ 2026 / Α 2026) - ΑΦΜ 044594747 / 051422558,N/A,CRITICAL master correlation request - forces case consolidation,CRITICAL,Rows 45-46-247-248 + all 17 EAD protocols,Transparency
+250,03/02/2026,02/03/2026,CONFIRMED,13305 EI 2026,AEAD (ΑΕΑΔ),ΑΝΑΦΟΡΑ AFCOS - Υπόνοια απάτης σε βάρος κοινοτικών & εθνικών πόρων - Κτηματολόγιο/ΑΑΔΕ,N/A,AFCOS EU anti-fraud report - opens nexus with OLAF FNS-25098,CRITICAL,OLAF FNS-25098 + EPPO cases + EAD 13286,EU Fraud
