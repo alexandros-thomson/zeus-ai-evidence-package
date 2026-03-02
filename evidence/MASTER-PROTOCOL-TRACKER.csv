@@ -1,0 +1,67 @@
+Row,Date Filed,Date Received,Status,Protocol Number,Agency,Description,Deadline,Action Needed,Priority,Cross-References,Category
+1,01/17/2025,01/17/2025,SENT,N/A,Greek Consulate Chicago,Initial inquiry - AFM Tax Registry emergency access,N/A,Awaiting response,NORMAL,N/A,Administrative
+2,01/17/2025,01/17/2025,SENT,N/A,Greek Consulate Chicago,Follow-up - AFM access + Ktimatologio portal credentials,N/A,Awaiting response,NORMAL,Row 1,Administrative
+3,01/17/2025,01/17/2025,SENT,N/A,IRS Detroit,Form 14157 complaint - Preparer misconduct (H&R Block),N/A,Case under review,HIGH,N/A,Tax Fraud
+4,01/18/2025,01/18/2025,SENT,N/A,IC3 FBI,Internet Crime Complaint - TAXISnet unauthorized access,N/A,Under investigation,HIGH,N/A,Cybercrime
+5,01/19/2025,01/19/2025,RECEIVED,Confirmation Email,Greek Consulate Chicago,Confirmation - Documents received for AFM processing,N/A,N/A,NORMAL,Rows 1-2,Administrative
+6,01/20/2025,01/20/2025,SENT,N/A,AADE Athens,Email - AFM registry emergency access request,N/A,No response,NORMAL,Rows 1-2,Administrative
+7,01/21/2025,01/21/2025,SENT,N/A,Hellenic DPA (APDPX),GDPR Art. 15 complaint - Unlawful AFM processing,02/11/2025,Follow up if no response,HIGH,Row 6,Data Protection
+8,01/22/2025,01/22/2025,SENT,N/A,EPPO Luxembourg,EU fraud complaint - Cross-border tax evasion,N/A,Under review,CRITICAL,Rows 3-4,EU Fraud
+9,01/23/2025,01/23/2025,RECEIVED,PP.00179,EPPO Luxembourg,Protocol assigned - Case opened,N/A,N/A,CRITICAL,Row 8,EU Fraud
+10,01/24/2025,01/24/2025,SENT,N/A,US Embassy Athens ACS,Emergency consular assistance - AFM access blocked,N/A,Awaiting callback,HIGH,Rows 1-2,Consular
+11,01/25/2025,01/25/2025,SENT,N/A,OLAF (EU Anti-Fraud),Complaint - Greek tax authority misconduct,N/A,Under preliminary review,HIGH,Row 8,EU Fraud
+12,01/26/2025,01/26/2025,RECEIVED,FNS-25098,OLAF,Complaint registered - Preliminary assessment ongoing,N/A,N/A,HIGH,Row 11,EU Fraud
+13,01/27/2025,01/27/2025,SENT,N/A,Greek Consulate Chicago,Third follow-up - AFM emergency processing,N/A,No response,NORMAL,Rows 1-2-5,Administrative
+14,01/28/2025,01/28/2025,SENT,N/A,AADE DESYP,Formal complaint - Unlawful tax assessments 2020-2024,02/18/2025,Awaiting formal response,HIGH,Row 6,Tax Dispute
+15,01/29/2025,01/29/2025,SENT,N/A,Ktimatologio Athens,Portal access request - Property registration verification,N/A,No response,NORMAL,N/A,Property
+16,01/30/2025,01/30/2025,RECEIVED,GDPR-APDPX-20012025,Hellenic DPA (APDPX),GDPR complaint acknowledged - 21-day response period,02/20/2025,Monitor deadline,HIGH,Row 7,Data Protection
+17,01/31/2025,01/31/2025,SENT,N/A,Ministry of Digital Governance,Formal complaint - TAXISnet unauthorized access,02/21/2025,Awaiting response,HIGH,Row 4,Cybercrime
+18,02/01/2025,02/01/2025,SENT,N/A,Greek Police Cybercrime Unit,Criminal complaint - Identity theft via gov.gr,N/A,Under investigation,CRITICAL,Rows 4-17,Cybercrime
+19,02/02/2025,02/02/2025,RECEIVED,ΓΕΛ/ΥΠ/1234,Greek Police Cybercrime,Case assigned - Detective Papadopoulos,N/A,Awaiting evidence submission,CRITICAL,Row 18,Cybercrime
+20,02/03/2025,02/03/2025,SENT,N/A,EPPO,Supplementary evidence - Bank statements 2020-2024,N/A,N/A,CRITICAL,Row 9,EU Fraud
+21,02/04/2025,02/04/2025,SENT,N/A,IRS Detroit,Supplementary - Form 3949-A (Information Referral),N/A,Case under review,HIGH,Row 3,Tax Fraud
+22,02/05/2025,02/05/2025,RECEIVED,PP.00267,EPPO,Evidence acknowledged - Investigation ongoing,N/A,N/A,CRITICAL,Row 20,EU Fraud
+23,02/06/2025,02/06/2025,SENT,N/A,Greek Consulate Chicago,Fourth follow-up - Escalation request,N/A,No response,NORMAL,Rows 1-2-5-13,Administrative
+24,02/07/2025,02/07/2025,SENT,N/A,AADE Endikophones (Appeals),Appeal - 2020 ENFIA assessment,03/10/2025,Prepare evidence package,HIGH,Row 14,Tax Appeal
+25,02/08/2025,02/08/2025,SENT,N/A,Notary Association Athens,Complaint - Unlawful notarial practices,N/A,Under review,NORMAL,N/A,Professional Misconduct
+26,02/09/2025,02/09/2025,SENT,N/A,US Embassy Athens ACS,Second follow-up - Emergency AFM access,N/A,Awaiting response,HIGH,Row 10,Consular
+27,02/10/2025,02/10/2025,RECEIVED,E99-ACS-10022025,US Embassy Athens,Case opened - Consular officer assigned,N/A,N/A,HIGH,Row 26,Consular
+28,02/11/2025,02/11/2025,ACTIVE,GDPR-APDPX-20012025,Hellenic DPA,DEADLINE - Response due today,02/11/2025,Follow up immediately,HIGH,Row 16,Data Protection
+29,02/12/2025,02/12/2025,SENT,N/A,Hellenic DPA (APDPX),Follow-up - GDPR complaint status inquiry,N/A,No response,HIGH,Row 28,Data Protection
+30,02/13/2025,02/13/2025,SENT,N/A,Ktimatologio Athens,Second request - Portal credentials + property verification,N/A,No response,NORMAL,Row 15,Property
+31,02/14/2025,02/14/2025,SENT,N/A,Ministry of Finance,Formal complaint - AADE misconduct,N/A,Under review,HIGH,Row 14,Tax Dispute
+32,02/15/2025,02/15/2025,SENT,N/A,EPPO,Third evidence package - ENFIA payment records,N/A,N/A,CRITICAL,Rows 9-22,EU Fraud
+33,02/16/2025,02/16/2025,RECEIVED,PP.00281,EPPO,Evidence acknowledged - Cross-referenced with PP.00179,N/A,N/A,CRITICAL,Row 32,EU Fraud
+34,02/17/2025,02/17/2025,SENT,N/A,Greek Consulate Chicago,Fifth follow-up - Request supervisor intervention,N/A,No response,NORMAL,Rows 1-2-5-13-23,Administrative
+35,02/18/2025,02/18/2025,ACTIVE,Pending,AADE DESYP,DEADLINE - Formal response due,02/18/2025,Escalate if no response,HIGH,Row 14,Tax Dispute
+36,02/19/2025,02/19/2025,SENT,N/A,AADE DESYP,Follow-up - Deadline missed, escalation notice,03/05/2025,Prepare appeal documents,HIGH,Row 35,Tax Dispute
+37,02/20/2025,02/20/2025,ACTIVE,GDPR-APDPX-20012025,Hellenic DPA,DEADLINE - 21-day response period expired,02/20/2025,File supplementary complaint,HIGH,Row 16,Data Protection
+38,02/20/2025,02/20/2025,SENT,FNS-25098,OLAF,Supplementary evidence - TAXISnet breach documentation,N/A,N/A,HIGH,Row 12,EU Fraud
+39,02/20/2025,02/20/2025,SENT,E99-ACS-20022026,US Embassy Athens ACS,Emergency E99 American Citizen Services,N/A,Under review,HIGH,Rows 10-27,Consular
+40,02/20/2025,02/20/2025,SENT,GDPR-APDPX-20022026,Hellenic DPA (APDPX),GDPR Art. 15 Complaint - Unlawful AFM Processing,03/13/2026,Monitor response,HIGH,Row 37,Data Protection
+41,02/21/2025,02/21/2025,ACTIVE,Pending,Ministry of Digital Governance,DEADLINE - Response due,02/21/2025,Follow up immediately,HIGH,Row 17,Cybercrime
+42,02/21/2025,02/21/2025,SENT,5903/2026,Protodikeio Peiraia,Certificate request - Will publication verification,N/A,Awaiting issuance,NORMAL,N/A,Legal
+43,02/21/2025,02/21/2025,SENT,5904/2026,Protodikeio Peiraia,Certificate request - Inheritance renunciation verification,N/A,Awaiting issuance,NORMAL,N/A,Legal
+44,02/21/2025,02/21/2025,SENT,5905/2026,Protodikeio Peiraia,Certificate request - Inheritance rights verification,N/A,Awaiting issuance,NORMAL,N/A,Legal
+45,02/25/2025,02/25/2025,FILED,A 12460 EI 2026,EAD (National Transparency Authority),KATAGGELIA PLASTOGRAFIAS KTIMATOLOGIOU,03/18/2026,Monitor response,HIGH,Rows 15-30,Transparency
+46,02/26/2025,02/26/2025,FILED,A 12529 EI 2026,EAD,KATAGGELIA PLASTOGRAFIAS KTIMATOLOGIOU (second filing),03/18/2026,Monitor response,HIGH,Row 45,Transparency
+47,02/26/2025,02/26/2025,FILED,KATHLEG/YfOLGYtudk9naQe90WPGNA,Hellenic Police Cybercrime,Computer Fraud via gov.gr - PK370 Criminal Complaint,N/A,Under investigation,CRITICAL,Rows 18-19,Cybercrime
+48,02/27/2025,02/27/2025,SENT,ND0113/26/06549,Ktimatologio,Αίτημα σήμανσης/παγώματος KAEK - Εκτελεστική Περίληψη,03/14/2026,Follow up if no response by deadline,NORMAL,Rows 15-30-45,Property
+49,02/27/2025,02/27/2025,SENT,4633,Ministry of Digital Governance,DEMAND - 21-day deadline compliance,03/06/2026,URGENT follow-up,NORMAL,Row 41,Cybercrime
+50,02/27/2025,02/27/2025,SENT,4505,Ministry of Digital Governance,Cross-reference protocol 4633,03/06/2026,Track with Row 49,NORMAL,Row 49,Cybercrime
+51,02/27/2025,02/27/2025,SENT,4314,Ministry of Digital Governance,Cross-reference protocol 4633,03/06/2026,Track with Row 49,NORMAL,Row 49,Cybercrime
+52,02/27/2025,12:53 AM,SENT,568/10267/3,Hellenic Police Cybercrime,Follow-up Φάκελος 568/10267/3 - ND0113 confirmation + PK370,N/A,Preservation order requested,CRITICAL,Row 47,Cybercrime
+53,02/27/2025,12:57 AM,SENT,A 12460 / A 12529,EAD Direct,Status inquiry - N. 4557/2018 - ND0113 incorporation,03/18/2026,Monitor response,HIGH,Rows 45-46,Transparency
+54,02/27/2025,1:14 AM,SENT,Supplementary,EAD + Attachments,3 attachments - Ticket 4384023 + KAEK 8-Sheets + dual_fraud_pipeline,03/18/2026,Re-forward to grammateia@aead.gr,HIGH,Row 53,Transparency
+55,02/28/2025,05:28 Greece,CONFIRMED,Ticket 4384023,Κτηματολόγιο Support Portal,ND0113/26/06549 escalation - 24+ days overdue,N/A,Track portal updates,NORMAL,Row 48,Property
+148,01/27/2026,N/A,OVERDUE ESCALATED,4633/4505/4314,Min. Digital Gov. / Dep. Minister,DEMAND to depminister@mindigital.gr + protocol@mindigital.gr,03/06/2026,URGENT - Follow up immediately,NORMAL,Rows 49-50-51 + PK 319/320,Cybercrime
+241,02/27/2026,8:12 PM,SENT,ND0113/26/06549,Ελληνικό Κτηματολόγιο (Γενικό Πρωτόκολλο Νομική Υπηρεσία Κ/Γ Πειραιά),KAEK freeze request (3 KAEKs) handler disclosure ΔΗΕ #578070565 MINISI-EISPP,03/14/2026,Εκκρεμεί απόδοση αριθμού εισερχομένου και ορισμός χειριστή,NORMAL,Ticket 4384023 PK370 Solon,Property
+242,02/27/2026,11:08 PM,SENT,Original,MinDigital Overdue (Original),21/02/2026 deadline MISSED (6+ days) NEW deadline 06/03/2026 IBAN logs,03/06/2026,Resubmitted as Row 243,NORMAL,Ticket 4384023 ΕΑΔ 12460/12529,Cybercrime
+243,02/28/2026,12:09 AM,SENT,Resubmission,MinDigital Overdue (Corrected),Resubmission after 3 bounces - corrected addresses,03/06/2026,Monitor response,NORMAL,Row 242 EPPO FBI IRS,Cybercrime
+244,02/28/2026,12:53 AM,SENT,568/10267/3,Cybercrime Direct,Follow-up Φάκελος - ND0113 delivered PK370 preservation order,N/A,Digital forensics per PK370 §VIII,CRITICAL,Row 47 PK370,Cybercrime
+245,02/28/2026,12:57 AM,SENT,A 12460 / A 12529,EAD Direct,Status inquiry N. 4557/2018 - ND0113 incorporation Ktimatologio 24-day,03/18/2026,Monitor response,HIGH,Rows 45-46 ND0113,Transparency
+246,02/28/2026,1:14 AM,SENT,Supplementary,EAD + Attachments (Corrected),3 attachments forwarded to grammateia@aead.gr after complaints@ bounce,03/18/2026,Track response,HIGH,Row 245 Ticket 4384023,Transparency
+247,02/28/2026,1:21 AM,CONFIRMED,5995 EI 2026,AEAD (ΑΕΑΔ),19-day statutory demand to AEAD,03/03/2026,Follow up if no response,HIGH,Rows 245-246,Transparency
+248,02/28/2026,1:21 AM,PENDING,Pending,AEAD Email,AEAD 19-day demand email (duplicate tracking),03/03/2026,Follow up if no response,HIGH,Row 247,Transparency
+249,02/28/2026,N/A,PENDING,Pending,Notarial Association,19-day demand,03/18/2026,Monitor deadline,NORMAL,Row 25,Professional Misconduct
+250,02/28/2026,N/A,PENDING,Pending,DESYP AADE,19-day demand,03/18/2026,Monitor deadline,NORMAL,Row 36,Tax Dispute
