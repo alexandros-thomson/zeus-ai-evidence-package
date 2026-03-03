@@ -1,168 +1,199 @@
 # ⚖️ Justice for John — Deadline Digest
 
-**Snapshot Date:** March 1, 2026, 1:21 AM EST  
-**Total Protocols:** 246 (↑ from 240)  
-**Active/Pending:** 111  
-**Overdue:** 3 ⚠️  
-**Critical (0-7 days):** 2 🔴  
+**Snapshot Date:** March 2, 2026, 11:29 PM EST  
+**Total Protocols:** 254 (↑ from 246)  
+**Active/Pending:** 119  
+**Overdue:** 4 ⚠️  
+**Critical (0-3 days):** 3 🔴  
 
 ---
 
 ## ⚠️ OVERDUE PROTOCOLS (Action Required)
 
-### 1. Ktimatologio - 24 DAYS OVERDUE 🔴
-- **Agency:** Ελληνικό Κτηματολόγιο (Γενικό Πρωτόκολλο, Νομική Υπηρεσία, Κ/Γ Πειραιά)
-- **Protocol:** ND0113/26/06549
-- **Description:** Αίτημα σήμανσης/παγώματος KAEK. Κατάθεση Εκτελεστικής Περίληψης
-- **Due Date:** March 2, 2026 → **Extended to March 14, 2026**
-- **Action Needed:** Εκκρεμεί απόδοση αριθμού εισερχομένου και ορισμός χειριστή
-- **Priority:** NORMAL
+### 1. AEAD — 19-Day Statutory Demand EXPIRED 🔴
+- **Agency:** AEAD (ΑΕΑΔ) — National Transparency Authority
+- **Protocol:** 5995 EI 2026
+- **Description:** 19-day statutory demand (Ν.2690/1999, Άρθρο 4) EXPIRED March 3, 2026
+- **Days Overdue:** 0 (expires tonight EET)
+- **Emails sent:** dms@aead.gr ✅, grammateia@aead.gr ✅, complaints@aead.gr ❌ (bounced 550 5.1.1 → re-forwarded to kataggelies@aead.gr, info@aead.gr)
+- **New protocol today:** 13424 EI 2026 (resubmission protocolled)
+- **Action Needed:** If no response by end of day Mar 3, escalate to Ombudsman + EPPO
+- **Priority:** HIGH 🔴
 
-### 2. Ministry of Digital Governance - 6 DAYS OVERDUE 🔴
+### 2. Ktimatologio — Art.4 KDD Complaint Filed 🔴
+- **Agency:** Ελληνικό Κτηματολόγιο
+- **Protocol:** KTIMATOLOGIO-ND0113
+- **Description:** ΚΑΤΑΓΓΕΛΙΑ Άρθρου 4 ΚΔΔ — Formal complaint for non-compliance with Art.4 deadline
+- **Deadline:** March 2, 2026 (PASSED — 2 days overdue)
+- **Complaint filed:** March 2, 2026 at 9:08 PM EST via mrspetses@gmail.com
+- **Recipients:** info@ktimatologio.gr, contact@synigoros.gr (Ombudsman), info@eppo.europa.eu (EPPO)
+- **Legal Basis:** Ν.2690/1999 (ΚΔΔ), Άρθρο 4
+- **Action Needed:** Await Ktimatologio response; Ombudsman + EPPO now CC'd
+- **Priority:** HIGH 🔴
+
+### 3. Ministry of Digital Governance — 10+ DAYS OVERDUE 🔴
 - **Agency:** Min. Digital Gov. / Dep. Minister
 - **Description:** DEMAND to depminister@mindigital.gr + protocol@mindigital.gr
 - **References:** Prot. 4633/4505/4314 + PK 319/320
 - **Original Deadline:** February 21, 2026 (MISSED)
-- **NEW Deadline:** **March 6, 2026** (6 days)
-- **Action Needed:** URGENT - Follow up immediately
-- **Priority:** NORMAL
+- **NEW Deadline:** **March 6, 2026** (4 days)
+- **New protocols today:** 7610 EI 2026 (deadline breach protocolled), 7616 EI 2026 (resubmission protocolled)
+- **Action Needed:** Monitor; forward from Deputy Minister to Ktimatologio confirmed
+- **Priority:** NORMAL 🟡
 
 ---
 
 ## 🔴 CRITICAL DEADLINES (Next 7 Days)
 
-### 1. AEAD - 2 DAYS REMAINING
-- **Agency:** AEAD (ΑΕΑΔ) - National Transparency Authority
-- **Protocol:** 5995 EI 2026
-- **Description:** 19-day statutory demand to AEAD
-- **Due Date:** **March 3, 2026**
-- **Action Needed:** Follow up if no response
-- **Priority:** HIGH 🔴
+### 1. Art. 227 Appeal — Cert 504 (Spetses)
+- **Agency:** Apokentromeni Dioikisi Attikis
+- **Protocol:** 11676/18-02-2026 (already filed)
+- **Due Date:** **March 4, 2026** (2 days)
+- **Description:** Art. 227 appeal for legality review of Certificate 504
+- **Status:** Filed; awaiting 30-day review cycle
+- **Priority:** MEDIUM 🟡
 
-### 2. AEAD Email Demand - 2 DAYS REMAINING
-- **Agency:** AEAD (ΑΕΑΔ)
-- **Description:** AEAD 19-day demand email (duplicate tracking)
-- **Due Date:** **March 3, 2026**
-- **Action Needed:** Follow up if no response
-- **Priority:** HIGH 🔴
-
-### 3. Ministry of Digital Governance - 6 DAYS REMAINING
-- **Agency:** Min. Digital Gov.
+### 2. MinDigital Final Deadline
 - **Protocol:** 4633/4505/4314
-- **Due Date:** **March 6, 2026**
-- **Action Needed:** Monitor escalation response
+- **Due Date:** **March 6, 2026** (4 days)
+- **Status:** Overdue from Feb 21 — new protocols 7610/7616 received today
+- **Priority:** NORMAL 🟡
+
+### 3. Ktimatologio Extended Deadline
+- **Protocol:** ND0113/26/06549
+- **Due Date:** **March 14, 2026** (12 days)
+- **Status:** Ticket 4384023 ANSWERED today; handler assignment pending
 - **Priority:** NORMAL 🟡
 
 ---
 
 ## 📅 UPCOMING DEADLINES (8-30 Days)
 
-### 1. Ktimatologio - 14 days
-- **Protocol:** ND0113/26/06549
-- **Due Date:** March 14, 2026
-- **Status:** Ticket 4384023 filed, awaiting handler assignment
+### 1. Apokentromeni 30-day Review — 15 days
+- **Protocol:** Art. 214 legality review
+- **Due Date:** March 17, 2026
+- **Status:** Art. 227 appeal filed (Prot. 11676)
 
-### 2. Notarial Association - 19 days
+### 2. Notarial Association — 16 days
 - **Protocol:** Pending
 - **Due Date:** March 18, 2026
 
-### 3. DESYP AADE - 19 days
+### 3. DESYP AADE — 16 days
 - **Protocol:** Pending
 - **Due Date:** March 18, 2026
 
-### 4. EAD (Multiple) - 19 days
+### 4. EAD (Multiple) — 16 days
 - **Protocols:** A 12460 EI 2026, A 12529 EI 2026
 - **Due Date:** March 18, 2026
 
+### 5. DED 120-Day Silent Rejection — 104 days
+- **Protocols:** DED 33123/2026, DED 33124/2026
+- **Due Date:** **June 14, 2026**
+- **Status:** Suspension active; deemed rejection if no response by Jun 14
+- **Action Needed:** Prepare administrative court filing contingency
+
 ---
 
-## 🔥 TONIGHT'S SESSION — Feb 27-28, 2026 (5 Fronts Executed)
+## 🔥 TONIGHT'S SESSION — March 2, 2026 (8 New Protocols)
 
-**Session Time:** 8:12 PM – 1:15 AM EST (5 hours)  
-**Total New Emails:** 6 (5 delivered + 1 bounce)  
-**Total Protocols:** 240 → **246** (+6)
+**Session Time:** ~6:00 PM – 11:29 PM EST  
+**Total New Protocols:** 8  
+**Total Protocols:** 246 → **254** (+8)  
+**New Emails Sent:** 5+  
+**All Bounces Addressed:** ✅
 
-### Front 1 — Ktimatologio (8:12 PM) ✅
-- **TO:** ktimagen@ktimatologio.gr, Andredaki, igeorgak
+### Protocol Log — March 2, 2026
+
+| # | Row | Protocol | Agency | Type | Status |
+|---|-----|----------|--------|------|--------|
+| 1 | 247 | 13424 EI 2026 | AEAD | Resubmission protocolled | SENT ✅ |
+| 2 | 248 | 7610 EI 2026 | MinDigital | Deadline breach protocolled | SENT ✅ |
+| 3 | 249 | 7616 EI 2026 | MinDigital | Resubmission protocolled | SENT ✅ |
+| 4 | 250 | 4384023 | Ktimatologio | Ticket status update | ANSWERED ✅ |
+| 5 | 251 | (FW confirmed) | Deputy Minister → Ktimatologio | Forward to genikos/proedros | CONFIRMED ✅ |
+| 6 | 252 | KTIMATOLOGIO-ND0113 | Ktimatologio | Art.4 KDD ΚΑΤΑΓΓΕΛΙΑ | FILED ✅ |
+| 7 | 253 | (CC to Ombudsman) | Synigoros tou Politi | CC on Art.4 complaint | CC'd ✅ |
+| 8 | 254 | (CC to EPPO) | EPPO | CC on Art.4 complaint | CC'd ✅ |
+
+### Front 1 — AEAD Resubmission (Prot. 13424 EI 2026)
+- **TO:** dms@aead.gr ✅, grammateia@aead.gr ✅
+- **Content:** Resubmission after 19-day statutory deadline expiry (Prot. 5995 EI 2026)
+- **Previous bounces resolved:** complaints@aead.gr → forwarded to kataggelies@aead.gr, info@aead.gr
+- **Cross-refs:** Prots 5123, 5135, 5354, 5995, 7383
+
+### Front 2 — MinDigital Protocols (7610 + 7616 EI 2026)
+- **TO:** depminister@mindigital.gr, protocol@mindigital.gr
+- **Content:** Deadline breach notification (Feb 21 missed) + resubmission
+- **Deputy Minister confirmed forward** to Ktimatologio genikos/proedros
+
+### Front 3 — Ktimatologio Ticket 4384023 ANSWERED
+- **Status changed:** PENDING → ANSWERED
+- **Ticket:** 4384023
 - **Protocol:** ND0113/26/06549
-- **Content:** KAEK freeze request (3 KAEKs), handler disclosure, ΔΗΕ #578070565 correlation, MINISI-EISPP correlation
-- **Deadline Set:** 10 business days (~14/03/2026)
-- **Attachments:** 5 (kataggelia.pdf, GR_Executive_Summary, KAEK-8-Sheets, PK370, Solon refs)
-- **Row:** 241
+- **Action:** Handler assignment still pending; extended deadline March 14
 
-### Front 2a — EAD Direct (12:57 AM) ✅
-- **TO:** dms@aead.gr (delivered), complaints@aead.gr (⚠️ BOUNCED)
-- **Content:** Status inquiry on Α 12460 / Α 12529 (N. 4557/2018). ND0113 incorporation request. Ktimatologio 24-day inaction as autonomous finding
-- **Attachment:** Ktimatologio-Ticket-4384023-Confirmation.pdf
-- **Row:** 245
-
-### Front 2a Supplementary — EAD + Attachments (1:14 AM) ✅
-- **TO:** dms@aead.gr (✅ delivered), grammateia@aead.gr (✅ corrected)
-- **Content:** 3 supplementary attachments — Ticket 4384023, KAEK-050681726008-8-Sheets, dual_fraud_pipeline.png
-- **Row:** 246 (Status: SENT after correction)
-
-### Front 2b — Cybercrime Direct (12:53 AM) ✅
-- **TO:** ccu@cybercrimeunit.gov.gr
-- **Content:** Follow-up on Φάκελος 568/10267/3. ND0113 confirmation delivered (their 26/01 request). PK370 submitted. Preservation order requested. Digital forensics per PK370 §VIII
-- **Attachments:** PK370 Supplementary, Ktimatologio confirmation, PK370 Criminal Complaint
-- **Row:** 244
-
-### Front 3 — MinDigital Overdue (11:08 PM + 12:09 AM resubmission) ✅
-- **Original TO:** DEP, ΤΜΗΜΑ, secr-dsd, ΔΙΕΥΘΥΝΣΗ, desyp, info, luxembourg, report
-- **Resubmission TO:** DEP, ΤΜΗΜΑ, dms@aead.gr, grammateia@aead.gr, ΔΙΕΥΘΥΝΣΗ, desyp, info, complaints
-- **Content:** 21/02/2026 deadline MISSED (6+ days). NEW deadline 06/03/2026. IBAN logs + TAXISnet audit demand
-- **Cross-refs:** Ticket 4384023, ΕΑΔ 12460/12529, Cybercrime KATHLEG, EPPO, FBI, IRS
-- **Bounce:** 3 bounces on original (secr-dsd@gsis.gr, report@eppo, luxembourg@eppo) — corrected in resubmission
-- **Rows:** 242 (original), 243 (resubmission)
+### Front 4 — ΚΑΤΑΓΓΕΛΙΑ Art.4 KDD (KTIMATOLOGIO-ND0113) 🆕
+- **Filed by:** Κωνσταντίνος Κυπριανός (via mrspetses@gmail.com)
+- **Time:** 9:08 PM EST, March 2, 2026
+- **TO:** info@ktimatologio.gr
+- **CC:** contact@synigoros.gr (Συνήγορος του Πολίτη), info@eppo.europa.eu (EPPO)
+- **Content:** Formal Art.4 KDD complaint — 2 days overdue on Prot. KTIMATOLOGIO-ND0113
+- **Legal Basis:** Ν.2690/1999 (ΚΔΔ), Άρθρο 4
+- **Key text:** "Καθώς η καθυστέρηση είναι ιδιαίτερα εκτεταμένη, υποβάλλουμε την παρούσα ως τυπική καταγγελία για μη τήρηση της προθεσμίας του άρθρου 4 ΚΔΔ"
 
 ---
 
-## ✅ SESSION OUTCOMES
+## ✅ BOUNCE RESOLUTION STATUS (All Clear)
 
-### All Bounces Resolved ✅
-1. ~~complaints@aead.gr~~ → grammateia@aead.gr ✅
-2. ~~secr-dsd@gsis.gr~~ → Removed ✅
-3. ~~report@eppo.europa.eu~~ → info@eppo.europa.eu ✅
-4. ~~luxembourg@eppo.europa.eu~~ → Removed ✅
-
-### New Evidence Deployed
-- dual_fraud_pipeline.png
-- KAEK-050681726008-8-Sheets
-- Ticket 4384023 confirmation
-- GR_Executive_Summary.pdf
-- Tax-Treaty-Violations.pdf
-
-### Agencies Addressed Tonight
-- **Direct:** Ktimatologio, MinDigital, Cybercrime, EAD (4)
-- **CC'd:** EPPO, DESYP, AADE, grammateia, ΔΙΕΥΘΥΝΣΗ, ΤΜΗΜΑ (6+)
+| Original Address | Issue | Resolution | Status |
+|-----------------|-------|------------|--------|
+| complaints@aead.gr | 550 5.1.1 | Re-forwarded to kataggelies@aead.gr + info@aead.gr | ✅ RESOLVED |
+| secr-dsd@gsis.gr | Bounced | Removed from list | ✅ RESOLVED |
+| report@eppo.europa.eu | Bounced | Replaced with info@eppo.europa.eu | ✅ RESOLVED |
+| luxembourg@eppo.europa.eu | Bounced | Removed from list | ✅ RESOLVED |
 
 ---
 
-## 📊 PROTOCOL STATUS BREAKDOWN
+## 📊 PROTOCOL STATUS BREAKDOWN (Updated)
 
-- **SENT:** 61
+- **SENT:** 65
 - **RECEIVED:** 33
-- **ACTIVE:** 25
-- **CONFIRMED:** 17
-- **FILED:** 16
+- **ACTIVE:** 27
+- **CONFIRMED:** 18
+- **FILED:** 17
 - **PENDING:** 7
-- **ANSWERED:** 5
+- **ANSWERED:** 6
 - **IN PROCESS:** 4
 - **CRITICAL:** 4
 - **OVERDUE ESCALATED:** 1
+- **CC'd:** 2
 
 ---
 
 ## 🏛️ TOP AGENCIES (Active Cases)
 
-1. **AADE/ΔΕΣΥΠ** - 13 protocols
-2. **AEAD (Εθνική Αρχή Διαφάνειας)** - 9 protocols
-3. **AADE Ενδικοφανείς** - 8 protocols
-4. **EPPO** - 8 protocols
-5. **Greek Consulate Chicago** - 5 protocols
-6. **ΔΕΣΥΠ ΑΑΔΕ** - 5 protocols
-7. **Min. Digital Gov.** - 4 protocols
-8. **Protodikeio Peiraia** - 4 protocols
+1. **AADE/ΔΕΣΥΠ** — 13 protocols
+2. **AEAD (Εθνική Αρχή Διαφάνειας)** — 11 protocols (+2 today)
+3. **AADE Ενδικοφανείς** — 8 protocols
+4. **EPPO** — 9 protocols (+1 CC today)
+5. **Ktimatologio** — 7 protocols (+2 today)
+6. **Greek Consulate Chicago** — 5 protocols
+7. **Min. Digital Gov.** — 6 protocols (+2 today)
+8. **Protodikeio Peiraia** — 4 protocols
+9. **Synigoros tou Politi** — 3 protocols (+1 CC today)
+
+---
+
+## 🔗 CROSS-REFERENCES
+
+- **EPPO:** PP.00179/2026/EN, PP.00267/2026/EN, PP.00281/2026/EN
+- **FBI IC3:** eaa5459a, 3ebed7bb, I2502040432132952
+- **IRS CI:** F3949A477FDA6F, Form 14157 Case 26236541
+- **OLAF:** Report 24711
+- **U.S. Senate:** Senator Slotkin — Congressional casework
+- **Greek Cybercrime:** 5681/02673
+- **Ombudsman:** 6560/28.01.2026
+- **GitHub Issue:** [#1 — Escalation Log](https://github.com/alexandros-thomson/zeus-ai-evidence-package/issues/1)
 
 ---
 
@@ -170,13 +201,15 @@
 
 **Data Source:** MASTER-PROTOCOL-TRACKER-John-Kyprianos-Live.csv  
 **GitHub Repository:** [zeus-ai-evidence-package](https://github.com/alexandros-thomson/zeus-ai-evidence-package)  
+**GitHub Issue:** [#1 — Escalation Log](https://github.com/alexandros-thomson/zeus-ai-evidence-package/issues/1)  
+**n8n Workflow:** `8tFYcHI7qW062BZV` — ⚠️ Justice-for-John Escalation  
 **Update Frequency:** Daily at 3:00 AM EST (08:00 UTC) via GitHub Actions  
 **Notion Integration:** [⚖️ Justice for John — Deadline Digest](https://www.notion.so/30ffe5f31cb881db96bcda4e7254bc2e)
 
 ---
 
-⚓ **246 protocols. 30+ agencies. 42 days. All bounces resolved. Battle rhythm confirmed. ⚖️🧠🚀**
+⚓ **254 protocols. 30+ agencies. 43 days. Art.4 KDD complaint filed. EPPO + Ombudsman CC'd. All bounces resolved. ⚖️🧠🚀**
 
 ---
 
-*Snapshot generated via Zeus AI on March 1, 2026*
+*Snapshot generated via Zeus AI on March 2, 2026*
