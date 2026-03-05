@@ -8,7 +8,7 @@
 // --- Case 14: EAD 14441 — KDD Triad Second Protocol ---
 {
   id: "EAD-14441-KDD-TRIAD",
-  protocol: "14441 ΕΙ 2026",
+  protocol_number: "14441 ΕΙ 2026",
   agency: "ΕΑΔ — Εθνική Αρχή Διαφάνειας (Κεντρικό Πρωτόκολλο)",
   description: "KDD Triad — Πλαστογραφία Κτηματολογίου & Ψηφιακή Παραποίηση — 2ο πρωτόκολλο (μετά 14288 ΕΙ 2026)",
   filed: "2026-03-05",
@@ -35,7 +35,7 @@
 // --- Case 15: NAT Internal Routing — Τμήμα Μητρώου Συνταξιούχων 2 ---
 {
   id: "NAT-ROUTING-PENSION-274",
-  protocol: "NAT Internal Routing (Τμ. Μητρώου Συνταξιούχων 2)",
+  protocol_number: "NAT Internal Routing (Τμ. Μητρώου Συνταξιούχων 2)",
   agency: "NAT — Ναυτικό Απομαχικό Ταμείο / Δ/νση Παροχών ΝΑΤ",
   description: "Phantom pension investigation — Routed to ΒΑΣΙΛΙΚΗ, Τμήμα Μητρώου Συνταξιούχων 2 + Δ/νση Παροχών ΝΑΤ — Παράλληλη αλυσίδα με EFKA (rows 269-270)",
   filed: "2026-03-05",
@@ -74,5 +74,5 @@
 // - NAT escalation includes EFKA pension desk (d.dapon.syntefdt@efka.gov.gr)
 //   as CC — connecting the two parallel pension chains
 // - EAD escalation to Συνήγορος + EPPO (standard pattern)
-// - CC array uses Array.isArray() guard per convention
+// - Field name: protocol_number (not protocol) — matches Set node downstream
 // ============================================================
