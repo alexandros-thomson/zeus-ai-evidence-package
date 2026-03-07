@@ -1,7 +1,8 @@
-// Check Status + Parse — v2.4-EFKA-419690-REPLY
-// Last updated: 2026-03-04
-// Added: EFKA-419690-REPLY (Case 10) — Reply to ΑΠ 419690/03-03-2026 with identification docs
-// Total tracked protocols: 261
+// Check Status + Parse — v2.5-GDPR-AADE-deadline
+// Last updated: 2026-03-07
+// Added: AADE-GDPR-ART15-13256 (Case 11) — CRITICAL GDPR deadline 12/03/2026
+// Previous: v2.4 added EFKA-419690-REPLY (Case 10)
+// Total tracked cases: 11 | Total protocols: 273+
 
 const now = new Date();
 
@@ -167,6 +168,21 @@ const cases = [
     subject_short: `⚠️ EFKA ΑΠ 419690 — Ταυτοποίηση Reply — Art.4 KDD 10-day — Day ${daysSinceDeath} post-mortem`,
     risk: 'EFKA_419690_REPLY',
     note: `Reply to ΑΠ 419690/03-03-2026 (κα Ντόκου). Sent identification (Α)(Β)(Γ) + Υπεύθυνη Δήλωση gov.gr + death cert Apostille. 10 εργάσιμες Art.4 KDD deadline 16/03/2026. Auto-escalate to Συνήγορος + EPPO if silent. Cross-ref ΔΕΣΥΠ Γ 87848, ΥΕΘΑ, Cybercrime 568/10/2673, EPPO PP.00179. Day ${daysSinceDeath} since death of John Kyprianos (AFM 051422558).`
+  },
+
+  // ── Case 11: AADE-GDPR-ART15-13256 (NEW — v2.5) ──
+  {
+    protocol_number: 'AADE-GDPR-ART15-13256',
+    agency: 'AADE-DYPIDED',
+    submitted_date: '2026-02-13',
+    deadline: '2026-03-12T23:59:00+02:00',
+    days_remaining: daysRemaining('2026-03-12T23:59:00+02:00'),
+    overdue: now > new Date('2026-03-12T23:59:00+02:00'),
+    escalated_to: 'complaints@dpa.gr',
+    cc: ['dypided.6@aade.gr', 'grammateia@aade.gr'],
+    subject_short: `⚠️ GDPR Art.15/12§3 BREACH — ΔΥΠΗΔΕΔ ΣΤ ΕΜΠ 13256 — 30-day deadline — Day ${daysSinceDeath}`,
+    risk: 'GDPR_CRITICAL',
+    note: `AADE GDPR Subject Access Request via ΑΤΥΥΠΔ ΕΜΠ 8202 (13/02/2026). Internal routing ΔΥΠΗΔΕΔ ΣΤ ΕΜΠ 13256 (05/03/2026) signed by Κ. Μπαλάτος, handler Μ. Γκούντουβα. Supplemental memo SUPPLEMENT-3-AADE.pdf sent 06/03/2026 to dypided.6@aade.gr CC dpo@aade.gr. If no response by 12/03 → file ΑΠΔΠΧ complaint (complaints@dpa.gr) citing Art.77 GDPR + Art.12§3 breach. Day ${daysSinceDeath} post-mortem.`
   }
 
 ];
