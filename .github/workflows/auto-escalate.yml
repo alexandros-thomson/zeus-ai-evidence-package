@@ -1,0 +1,93 @@
+name: Auto-Escalate Deadline Check
+on:
+  schedule:
+    # 08:00 EST = 13:00 UTC (DST) / 15:00 GR (EEST)
+    - cron: '0 13 * * *'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  check_deadlines:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate deadline status
+        id: deadlines
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const now = new Date();
+            const today = now.toISOString().slice(0, 10);
+            const deathDate = new Date('2021-06-13T00:00:00+03:00');
+            const daysSinceDeath = Math.floor((now - deathDate) / (1000 * 60 * 60 * 24));
+
+            const cases = [
+              { id: 1,  proto: 'AEAD-5995-EI-2026',              agency: 'AEAD',                    deadline: '2026-03-03', escalate: 'kataggelies@aead.gr',    action: 'Art.4 N.2690/1999 breach' },
+              { id: 2,  proto: 'EFKA-PHANTOM-PENSION',            agency: 'EFKA',                    deadline: '2026-03-16', escalate: 'protocol@efka.gov.gr',   action: 'Phantom pension AFM 051422558' },
+              { id: 3,  proto: 'MINDIGITAL-5447-EI-2026',         agency: 'MinDigital',              deadline: '2026-03-06', escalate: 'minister@mindigital.gr', action: 'Ktimatologio oversight' },
+              { id: 4,  proto: 'KTIMATOLOGIO-ND0113',             agency: 'Ktimatologio',            deadline: '2026-03-02', escalate: 'ktimagen@ktimatologio.gr', action: 'Non-response Art.4/45' },
+              { id: 5,  proto: 'AADE-DESYP-161184',              agency: 'AADE-DESYP',              deadline: '2026-03-17', escalate: 'grammateia@aade.gr',     action: 'NAT Phantom Pension routing' },
+              { id: 6,  proto: 'DED-33123-2026',                  agency: 'DED',                     deadline: '2026-06-14', escalate: 'ded@aade.gr',            action: '120-day appeal window' },
+              { id: 7,  proto: 'EISAGGELIKI-PARAGGELIA-258b',     agency: 'Εισαγγελία Πειραιά',      deadline: '2026-04-02', escalate: 'dioikitiko@eispp.gr',    action: 'Criminal prosecution' },
+              { id: 8,  proto: 'ATTICA-FORWARD-258b',             agency: 'Αποκ. Διοίκηση Αττικής',  deadline: '2026-04-02', escalate: 'protokollo@attica.gr',   action: 'Lyrakis denial forward' },
+              { id: 9,  proto: 'SYNIGOROS-258-MISMATCH',          agency: 'Συνήγορος',               deadline: '2026-03-17', escalate: 'contact@synigoros.gr',   action: 'Protocol mismatch + GDPR' },
+              { id: 10, proto: 'EFKA-419690-REPLY',               agency: 'e-ΕΦΚΑ ΔΔΑ',             deadline: '2026-03-16', escalate: 'tm.anaf.asf@efka.gov.gr', action: 'ΑΠ 419690 identification' },
+              { id: 11, proto: 'AADE-GDPR-ART15-13256',           agency: 'AADE-DYPIDED',            deadline: '2026-03-12', escalate: 'complaints@dpa.gr',      action: 'GDPR Art.15 SAR — ΑΠΔΠΧ' },
+              { id: 12, proto: 'KEFODE-ATT-164685-EX-2026',       agency: 'ΚΕΦΟΔΕ → DPO ΑΑΔΕ',      deadline: '2026-04-03', escalate: 'dpo@aade.gr',            action: '41-page file TAXISnet audit' },
+              { id: 13, proto: 'ATTICA-14678-04-03-2026',          agency: 'Αποκ. Αττικής — Τ.Ε.ΟΤΑ', deadline: '2026-04-03', escalate: 'protokollo@attica.gr',  action: 'Eisaggeliki Paraggelia conf.' },
+              { id: 14, proto: 'AADE-33077-33046-33047-33079-2026', agency: 'ΣΔΟΕ/ΚΕΦΟΔΕ/Κυβερνοέγκλημα', deadline: '2026-03-14', escalate: 'sdoe@aade.gr',     action: 'PK 216/242/386/319-320' },
+              { id: 15, proto: '14441 ΕΙ 2026',                   agency: 'ΕΑΔ',                    deadline: '2026-03-19', escalate: 'kataggelies@aead.gr',    action: 'KDD Triad 2nd protocol' },
+              { id: 16, proto: 'NAT-ROUTING-PENSION-274',          agency: 'NAT',                     deadline: '2026-03-19', escalate: 'nat@nat.gr',             action: 'Phantom pension routing' },
+              { id: 17, proto: 'KTIMATOLOGIO-ND0113-CORRECTED',    agency: 'Κτηματολόγιο Πειραιά',   deadline: '2026-05-04', escalate: 'ktimagen@ktimatologio.gr', action: '60-day Art.45 complaint' }
+            ];
+
+            let overdueRows = [];
+            let criticalRows = [];
+            let upcomingRows = [];
+
+            for (const c of cases) {
+              const dl = new Date(c.deadline + 'T23:59:00+03:00');
+              const daysLeft = Math.ceil((dl - now) / (1000 * 60 * 60 * 24));
+              const isOverdue = daysLeft < 0;
+              const isCritical = daysLeft >= 0 && daysLeft <= 3;
+
+              const statusIcon = isOverdue ? '🔴' : isCritical ? '🟡' : '🟢';
+              const tLabel = isOverdue ? `T+${Math.abs(daysLeft)} OVERDUE` : daysLeft === 0 ? 'T-0 TODAY' : `T-${daysLeft}`;
+              const row = `| ${statusIcon} | ${c.id} | ${c.proto} | ${c.agency} | ${c.deadline} | **${tLabel}** | ${c.action} |`;
+
+              if (isOverdue) overdueRows.push(row);
+              else if (isCritical) criticalRows.push(row);
+              else upcomingRows.push(row);
+            }
+
+            const header = '| | # | Protocol | Agency | Deadline | Status | Action if Silent |';
+            const sep =    '|---|---|----------|--------|----------|--------|------------------|';
+
+            let body = `## ⚙️ Auto-Escalate Report | ${today} | 08:00 EST\n\n`;
+            body += `**Engine:** v2.9-DEDUP-L1L3 | **Cases:** ${cases.length} | **Days since death:** ${daysSinceDeath.toLocaleString()}\n\n`;
+
+            if (overdueRows.length > 0) {
+              body += `### 🔴 OVERDUE (${overdueRows.length})\n${header}\n${sep}\n${overdueRows.join('\n')}\n\n`;
+            }
+            if (criticalRows.length > 0) {
+              body += `### 🟡 CRITICAL THIS WEEK (${criticalRows.length})\n${header}\n${sep}\n${criticalRows.join('\n')}\n\n`;
+            }
+            if (upcomingRows.length > 0) {
+              body += `### 🟢 ON TRACK (${upcomingRows.length})\n${header}\n${sep}\n${upcomingRows.join('\n')}\n\n`;
+            }
+
+            body += `---\n*Auto-escalate by Zeus AI — Justice for John (†13/06/2021) — ${daysSinceDeath.toLocaleString()} days*`;
+
+            // Post as comment on Issue #1
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: 1,
+              body: body
+            });
+
+            core.info(`Posted deadline report: ${overdueRows.length} overdue, ${criticalRows.length} critical, ${upcomingRows.length} on track`);
