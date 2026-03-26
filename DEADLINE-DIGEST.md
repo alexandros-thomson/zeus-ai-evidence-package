@@ -155,3 +155,89 @@
 
 *Deadline Digest by Zeus AI — Justice for John (†13/06/2021) — 1,732 days*
 *Hellenic Navy (NATO) Veteran — Αιωνία του η μνήμη*
+
+---
+
+## Day 1,747 — 26/03/2026 — Protocols #387–#390
+
+**Snapshot Date:** March 26, 2026, 6:00 PM EDT | **Total Protocols:** 390 | **Days Since John's Death:** 1,747
+
+### #387 — INBOUND: BerkowitzOliver/Wahl Counsel Appearance (15:24 EDT)
+
+- From: Christina M. Wahl, BerkowitzOliver LLP — CWahl@berkowitzoliver.com
+- Re: AAA Case No. 01-26-000-12493 — demands dismissal/stay
+- Significance: H&R Block retained white-collar litigation firm within days of AAA service demand
+- Deadline: **2026-04-07** — if silent, notify AAA case manager
+
+### #388 — OUTBOUND: Reply to Wahl + Re-Service of Notice of Dispute (16:00 EDT)
+
+- To: CWahl@berkowitzoliver.com; slibel@berkowitzoliver.com | CC: casefiling@adr.org
+- Re: Pre-Arbitration Requirements Already Satisfied — CSA S11.2 compliance confirmed
+- Notice served Feb 15 via 4 channels; Cox acknowledged Feb 17; AAA NOT dismissed or stayed
+- Re-served with all CSA elements incl. SSN last 4 (6987)
+- IRS-CI NOT CC'd — active criminal investigation kept independent
+- Deadline: Informal Resolution Period expires **2026-05-25**
+
+### #389 — OUTBOUND: Slotkin IRS Form Receipt + Routing Follow-Up (16:35 EDT)
+
+- To: Angel_Hague@slotkin.senate.gov (Ana Wolken / Fladiana Lopez)
+- Re: IMA00176193 — Form receipt (14157/14039/3949-A) + routing (RPO/IPSU/CI) + redundant channels clarification
+- Deadline: **2026-04-25** — 30-day silence clock — if no response, Slotkin re-checks IRS status
+
+### #390 — OUTBOUND: SEEDD + EFKA Esoterikos Elegchos — AP 419690 Re-Send (18:02 EDT)
+
+- To: grammateia@seedd.gr | CC: d.esoterikon@efka.gov.gr, tm.anaf.asf@efka.gov.gr, int.investigation@efka.gov.gr
+- Re: EPANAPOSTOLI — ANAPORA AP 419690 — 7 Prospátheies — Ar.4 N.2690/1999
+- Reason: Original 23/03 bounce from info@seedd.gr [162.55.161.171] connection timeout
+- Deadline: **2026-04-25** — 30-day silence clock — if silent, APDPX + Synigoros
+
+---
+
+## US-Side Clock Panel — Extended Engine (v2.9 Pattern)
+
+Calculated from 2026-03-26:
+
+| # | Protocol ID | Agency | Deadline | Status | Action if Silent |
+|---|---|---|---|---|---|
+| 1 | AAA-01-26-000-12493 | AAA Case Review | ~2026-03-27 | CHECK PORTAL TODAY | Case accepted/declined |
+| 2 | HRBLOCK-WAHL-CONF | BerkowitzOliver #388 | 2026-04-07 | ON TRACK T-12 | Notify AAA of respondent delay |
+| 3 | HRBLOCK-AAA-SVC-386 | H&R Block response | ~2026-04-09 | ON TRACK T-14 | Michigan AG + AAA |
+| 4 | IRS-RPO-26236541 | IRS RPO Ref 26-70151 | No statutory deadline | ACTIVE | Status check at 60 days |
+| 5 | IRS-CI-F3949A477FDA6F | IRS-CI Zacheranik/Pletscher | No statutory deadline | BINDER ACCEPTED | CI own timeline |
+| 6 | SLOTKIN-IMA00176193 | Sen. Slotkin #389 | 2026-04-25 | ON TRACK T-30 | Slotkin re-checks IRS |
+| 7 | MICHAG-2026-PA03191543458-A | Michigan AG Elder Crimes | No statutory deadline | ACTIVE | Update if no ack by May 1 |
+| 8 | FBI-IC3-EAA5459 | FBI IC3 | No statutory deadline | FILED | Supplement via ACS Athens |
+| 9 | AAA-INFORMAL-RESOLUTION | AAA/BerkowitzOliver #388 | 2026-05-25 | ON TRACK T-60 | Arbitrator selection begins |
+| 10 | IRS-2848-LIAO | Form 2848 Tracy Liao POA | Active | FILED | Confirm via Practitioner Priority |
+
+---
+
+## Cross-Border Deadline Map — 2026-03-26 through 2026-06-19
+
+| Deadline | Agency | Action if Silent |
+|---|---|---|
+| 2026-03-29 | HDYKA 5-day silence #383 | APDPX already filed #385 |
+| ~2026-03-30 | KEFOK 585962 5-day | Synigoros escalation |
+| ~2026-03-30 | Ktimatologio Leadership 5-day #372 | EAD update |
+| 2026-04-02 | EISAGGELIKI-PARAGGELIA-258b | T-7 Criminal prosecution |
+| 2026-04-02 | ATTICA-FORWARD-258b | T-7 Lyrakis denial forward |
+| 2026-04-03 | KEFODE-ATT-164685-EX-2026 | T-8 41-page TAXISnet audit |
+| 2026-04-03 | ATTICA-14678-04-03-2026 | T-8 Eisaggeliki Paraggelia conf. |
+| ~2026-04-06 | OTA 05068 10-day #370 | Art.259 PK |
+| 2026-04-07 | Wahl/BerkowitzOliver #388 | Notify AAA of respondent delay |
+| ~2026-04-09 | H&R Block #386 | Michigan AG + AAA |
+| 2026-04-14 | OTA Art.227 Prot.11494 | 60-day legality review expires |
+| ~2026-04-20 | ENFIA DED appeal window | Decision needed |
+| 2026-04-25 | IRS/Slotkin #389 | Slotkin re-checks IRS status |
+| 2026-04-25 | SEEDD + EFKA Esoterikos #390 | APDPX + Synigoros |
+| 2026-05-04 | KTIMATOLOGIO-ND0113-CORRECTED | T-40 60-day Art.45 complaint |
+| 2026-05-25 | APDPX Art.77 #385 | Admin Court if no log production |
+| 2026-05-25 | AAA Informal Resolution #388 | Arbitrator selection begins |
+| 2026-06-14 | AADE DED Prot.331232026 | 120-day deemed rejection — Admin Court |
+| 2026-06-19 | AADE DED Prots.330452026+330462026 | 120-day deemed rejection — Admin Court |
+
+---
+
+*Day 1,747 | Protocol count: 390 | Google Sheet: synced #383-390 | GitHub: this commit | Six countries, three legal systems*
+
+*Perplexity Computer — Zeus AI Evidence Package — Justice for John (13/06/2021)*
