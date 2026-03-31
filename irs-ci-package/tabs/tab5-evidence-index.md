@@ -2,8 +2,8 @@
 
 > **IRS-CI Case 26236541** | SA Clint Zacheranik + SA Henry Pletscher | Detroit Field Office
 > **Status**: SKELETON — Exhibit IDs assigned, source PDFs mapped, custody notes pending
-> **Build Date**: 31/03/2026 (Day 1,752) | **Target**: Apr 7-11 full build | **Delivery**: Apr 20 Roseville meeting
-> **Protocol Count**: 406+ | **EPPO Cases**: PP.00179, PP.00267, PP.00281, PP.00310, PP.00464
+> **Build Date**: 31/03/2026 (Day 1,752) | **Updated**: 31/03/2026 08:00 EDT | **Target**: Apr 7-11 full build | **Delivery**: Apr 20 Roseville meeting
+> **Protocol Count**: 408+ | **EPPO Cases**: PP.00179, PP.00267, PP.00281, PP.00310, PP.00464
 
 ## STRUCTURE
 
@@ -104,6 +104,9 @@ Three evidentiary lanes, mirroring Tab 2 (Contradiction Queue) and Tab 3 (Timeli
 | Exhibit | Title | Source PDF | Date | Key Fact |
 |---------|-------|------------|------|----------|
 | **E-38** | Phantom business on AFM 044594747 — ΕΝΕΡΓΗ since 1992 | AADE comregistry screenshot + Prot. 33077/33046/33047/33079/2026 | 1992 (discovered Jan 2026) | Someone registered a phantom ατομική επιχείρηση on Stamatina's AFM in 1992. Still marked ΕΝΕΡΓΗ 34 years later. ΚΑΝΟΝΙΚΟ VAT regime, Β-ΑΠΛΟΓΡΑΦΙΚΑ books, address: ΣΠΕΤΣΕΣ 0 ΤΚ:18050 (no street number). Filed to 6 agencies 16/02/2026 — DESYP, KEFODE Attikis, DOY A' Peiraia, Registry, kataggelies, SDOE. 43 days, zero responses. Pre-TAXISnet era creation = physical DOY filing. Mechanism enabling fraudulent E1 declarations and false FTCs ($24,016). Art. 216 PK (forgery), Art. 386 PK (fraud), 18 USC 1028A (aggravated identity theft), 26 USC 7206. Lane 2 Smoking Gun. |
+| **E-39** | myAADE push notification: Α.1058/2026 compliance obligation | myAADE-screenshot-31032026.png | 31/03/2026 | AADE pushes POS/card acceptance compliance update to AFM 051422558 at 1:00 AM — proving AADE systems actively maintain phantom business as ΕΝΕΡΓΗ, generating real-time compliance obligations for a dead person's AFM while ignoring Δ210/Δ211 complaint. Art. 66 N.4446/2016. Lane 2 Smoking Gun. |
+| **E-40** | ΕΑΔ Protocol 20383 ΕΙ 2026 — ΟΧΛΗΣΗ KAEK forgery | EAD-20383-protocol-confirmation.pdf | 31/03/2026 | Εθνική Αρχή Διαφάνειας accepts ΟΧΛΗΣΗ re Prot. 12460/12529 ΕΙ 2026 — Πλαστογραφία KAEK 050681726008/0/0 citing Art. 4 N.2690/1999 (50-day response obligation). References EFKA ΑΠ 613493. Protocol date 31/03/2026. Art. 259 PK (dereliction), Art. 216 PK (forgery). Lane 2 Smoking Gun. |
+
 
 ---
 
@@ -112,9 +115,9 @@ Three evidentiary lanes, mirroring Tab 2 (Contradiction Queue) and Tab 3 (Timeli
 | Lane | Smoking Guns | Supporting | Total |
 |------|-------------|-----------|-------|
 | L1 — Contradiction | 7 (E-01 to E-07) | 4 (E-08 to E-11) | **11** |
-| L2 — Intent & Reaction | 7 (E-12 to E-17, E-38) | 6 (E-18 to E-23) | **13** |
+| L2 — Intent & Reaction | 9 (E-12 to E-17, E-38 to E-40) | 6 (E-18 to E-23) | **15** |
 | L3 — Treaty & Jurisdiction | 4 (E-24 to E-27) | 10 (E-28 to E-37) | **14** |
-| **TOTAL** | **18** | **20** | **38** |
+| **TOTAL** | **20** | **20** | **40** |
 
 ---
 
