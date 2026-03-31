@@ -1,0 +1,60 @@
+# TAB 3: MASTER TIMELINE
+
+**25 Critical Events — Chronological Sequence Establishing Criminal Intent**
+
+Each entry includes a verifiable date, the actors involved, the act or omission, and the evidentiary significance for IRS-CI purposes. Cross-references to Tab 2 (Contradiction Matrix) and Tab 5 (Evidence Index) are noted where applicable.
+
+---
+
+## Timeline
+
+| # | Date | Event | Actor(s) | Significance | Exhibit |
+|---|------|-------|----------|-------------|---------|
+| T-01 | 1972 | Proika (dowry) property registered to Stamatina | Ktimatologio | Establishes Stamatina's 100% ownership of KAEK 051341530006 (Spetses). Baseline for later forgery claims. | E-28 |
+| T-02 | 20/11/2001 | U.S.-Greece MLAT enters into force | U.S. / Greece | Legal basis for compelling Greek agency records through U.S. Attorney General. Article 9 mechanism. | E-26 |
+| T-03 | 11/09/2020 | Contract 6020/2020 — phantom sale executed | Notary Lyrakis | John appears as seller of property he never owned. Lyrakis notarized the transaction. | E-12 |
+| T-04 | 13/06/2021 | **Death of Ioannis "John" Kyprianos** | — | Roseville, Michigan. Death reported to IRS. Michigan death certificate issued. Day 0 of the 1,751-day count. | E-16 |
+| T-05 | 2021–2023 | ENFIA property tax issued to deceased AFM | AADE | AFM 051422558 remains active. ENFIA obligations generated for a dead person for 3 consecutive years. | E-13 |
+| T-06 | 2021–2024 | False E1/E2 returns filed on deceased AFM | Accountant Papageorgiou | Income tax returns filed using dead person's tax identity. Named in FBI IC3 Complaint 4. | E-05 |
+| T-07 | 2021–2025 | Efthalia Kyprianou operates as unauthorized tax rep | Efthalia Kyprianou (ELTA employee) | AFM 052822816 listed as tax representative on deceased AFM for 4 years, 7 months. | E-14 |
+| T-08 | 2021–2024 | H&R Block files Form 1116 with -$830,000 entry | H&R Block | Mathematically impossible negative foreign income. $24,016 in overstated credits (2021–2024). | E-25 |
+| T-09 | 03/04/2024 | **Death finally registered in Greek systems** | Lyrakis (forced) | 1,025 days after death. AFM 051422558 deactivated. This delay is the structural linchpin — without it, T-05 through T-08 could not have occurred. | E-16 |
+| T-10 | 24/10/2024 | Lyrakis email admits Stamatina owns 100% | Notary Lyrakis | Self-contradiction: same notary who executed Contract 6020 now confirms full ownership to widow. | E-05 |
+| T-11 | 26/01/2021 | AIT.1 cadastral form created (EUR 35) | Unknown | Created while John was alive. Dormant for 4 years, 11 months, 19 days. Activated T-13. | E-22 |
+| T-12 | 14/01/2026 | AADE removes Efthalia as unauthorized tax rep | AADE | Protocol 76022/20260114/45105. Formal admission of identity theft on deceased AFM. | E-21 |
+| T-13 | 14/01/2026 | **AIT.1 form activated — consciousness of guilt** | Unknown actor | Same day as T-12: dormant cadastral form activated, unauthorized myAADE access detected, KAEK manipulation. Panic response to removal order. | E-22 |
+| T-14 | 14/01/2026 | AADE issues DESYP Protocol Γ 87848 | AADE | Same day as €945,000 retaliatory tax demand. Agency admits identity theft while retaliating against victim. | — |
+| T-15 | 26/02/2026 | Lyrakis SLAPP threat — demands complaint withdrawal | Notary Lyrakis | Threatens moral damages lawsuit. Claims Contract 6020 involves "different parties." Protocol 166 vs 136 mismatch in same document. | E-04, E-07, E-15 |
+| T-16 | 03/02/2026 | AADE directs victim to contact removed rep | AADE Ticket 4-1770119462538 | 20 days after removing Efthalia, AADE tells victim to contact "your tax representative." Self-refuting. | E-21 |
+| T-17 | 09/03/2026 | Kaklamanou confirms Navy pension existed | EFKA Local A Piraeus | Vasiliki Kaklamanou: "ήταν συνταξιούχος ΠΝ" — John was a Navy pensioner. | E-01 |
+| T-18 | 11/03/2026 | **IRS-CI interview — Roseville, Michigan** | SA Zacheranik, SA Pletscher | In-person meeting. Case 26236541. Agents request follow-up meeting week of April 20. | E-27 |
+| T-19 | 11–16/03/2026 | Papastavrou denies pension (3 separate emails) | EFKA Central (Papastavrou) | "ουδέποτε έλαβε σύνταξη" — NEVER received pension. Direct contradiction of T-17 within 48 hours. | E-02, E-03 |
+| T-20 | 16/03/2026 | Same-day institutional split | ΥΠΕΣ + Αποκεντρωμένη | ΥΠΕΣ: "no legal defect." Αποκεντρωμένη: ΕΠΕΙΓΟΝ compliance order. Opposite conclusions, same day, same certificate. | E-12, E-13 |
+| T-21 | 19/03/2026 | ΗΔΥΚΑ preservation demand sent | Complainant | Formal demand citing GDPR Art.5§1(στ), Art.32, and 18 USC §1519. 5-day deadline. | E-16 |
+| T-22 | 20/03/2026 | Αποκεντρωμένη threatens to archive as "abusive" | Αποκεντρωμένη Αττικής | 4 days after issuing ΕΠΕΙΓΟΝ order (T-20), same agency threatens complainant. Retaliation. | E-14, E-15 |
+| T-23 | 03–27/03/2026 | ΕΦΚΑ circular referral — 7 attempts, 0 answers | ΕΦΚΑ (multiple directorates) | "φαύλος κύκλος": 4 circular redirections across directorates. Systematic obstruction. | E-17 |
+| T-24 | 23–30/03/2026 | Day 1,744–1,751 filing salvo | Complainant | 5+ simultaneous filings across agencies. Art. 259 PK criminal complaint against Mayor Spetses. | E-20, E-21 |
+| T-25 | 30/03/2026 | IRS-CI confirms April 20 meeting | SA Zacheranik | Week of April 20, Roseville MI. This package prepared for that meeting. | E-27 |
+
+---
+
+## PATTERN SUMMARY
+
+The timeline reveals three distinct phases of criminal conduct:
+
+### Phase 1: The Setup (2020–2021)
+Contract 6020 executed while John is alive (T-03). John dies (T-04). Lyrakis fails to register death — creating the 1,025-day window.
+
+### Phase 2: Exploitation (2021–2024)
+False tax filings (T-06), unauthorized tax representation (T-07), property tax on a dead person (T-05), and H&R Block malpractice (T-08) — all enabled by the unregistered death.
+
+### Phase 3: Cover-Up (2024–2026)
+Death finally registered (T-09) but cover-up intensifies: consciousness-of-guilt panic activation (T-13), SLAPP threats (T-15), contradictory agency responses (T-17/T-19), circular referrals (T-23), and retaliation against complainant (T-22). Each obstruction event generates additional evidence of willfulness.
+
+---
+
+**For IRS-CI**: The timeline demonstrates that the fraud was not opportunistic — it required deliberate, sustained action across multiple actors over 4+ years, followed by coordinated institutional obstruction when exposed. This satisfies the willfulness requirement under 26 USC §7201 and §7206.
+
+---
+*Cross-references: Tab 2 Contradiction Matrix (C-1 through C-9) | Tab 5 Evidence Index (E-01 through E-37)*
+*Source: Zeus AI Evidence Architecture — commit-tracked, 405+ protocols*

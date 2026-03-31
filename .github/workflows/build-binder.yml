@@ -1,0 +1,134 @@
+name: Build Investigator Binder
+
+on:
+  push:
+    paths:
+      - 'irs-ci-package/**'
+      - 'scripts/build-binder.sh'
+      - 'scripts/generate-manifest.sh'
+      - 'scripts/evidence-lint.sh'
+  workflow_dispatch:
+    inputs:
+      skip_lint:
+        description: 'Skip evidence lint (emergency builds only)'
+        required: false
+        default: 'false'
+        type: boolean
+  release:
+    types: [created]
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    name: Evidence Lint
+    runs-on: ubuntu-latest
+    if: ${{ github.event.inputs.skip_lint != 'true' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run evidence lint
+        run: |
+          chmod +x scripts/evidence-lint.sh
+          bash scripts/evidence-lint.sh
+
+  build:
+    name: Build Binder Artifacts
+    runs-on: ubuntu-latest
+    needs: [lint]
+    if: ${{ !failure() && !cancelled() }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Full history for commit metadata in manifest
+
+      - name: Install Pandoc + LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-latex-extra \
+            texlive-fonts-recommended lmodern zip
+
+      - name: Make scripts executable
+        run: chmod +x scripts/*.sh
+
+      - name: Generate chain-of-custody manifest
+        run: bash scripts/generate-manifest.sh
+
+      - name: Build binder (PDF + ZIP)
+        run: bash scripts/build-binder.sh
+
+      - name: Verify outputs exist
+        run: |
+          echo "=== Build Output Verification ==="
+          ls -lh build/ || echo "No build directory"
+          # At minimum, combined markdown and ZIP must exist
+          test -f build/binder-combined.md || (echo "FAIL: No combined markdown" && exit 1)
+          # PDF is best-effort; warn if missing but don't fail
+          if ls build/*.pdf 1>/dev/null 2>&1; then
+            echo "PDF: OK"
+          else
+            echo "WARN: No PDF produced. HTML or Markdown fallback should be in build/"
+          fi
+          if ls build/*.zip 1>/dev/null 2>&1 || ls build/*.tar.gz 1>/dev/null 2>&1; then
+            echo "ZIP/TAR: OK"
+          else
+            echo "WARN: No ZIP/TAR produced"
+          fi
+
+      - name: Upload PDF binder artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: irs-ci-binder-pdf
+          path: |
+            build/*.pdf
+            build/*.html
+          if-no-files-found: warn
+          retention-days: 90
+
+      - name: Upload ZIP package artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: irs-ci-binder-package
+          path: |
+            build/*.zip
+            build/*.tar.gz
+          if-no-files-found: warn
+          retention-days: 90
+
+      - name: Upload manifest
+        uses: actions/upload-artifact@v4
+        with:
+          name: chain-of-custody-manifest
+          path: irs-ci-package/manifest.json
+          if-no-files-found: warn
+          retention-days: 90
+
+      - name: Upload combined Markdown
+        uses: actions/upload-artifact@v4
+        with:
+          name: binder-combined-markdown
+          path: build/binder-combined.md
+          retention-days: 90
+
+      - name: Build summary
+        run: |
+          echo "## Binder Build Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Artifact | Status |" >> $GITHUB_STEP_SUMMARY
+          echo "|----------|--------|" >> $GITHUB_STEP_SUMMARY
+          if ls build/*.pdf 1>/dev/null 2>&1; then
+            echo "| PDF Binder | Produced |" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "| PDF Binder | Fallback (HTML/MD) |" >> $GITHUB_STEP_SUMMARY
+          fi
+          if ls build/*.zip 1>/dev/null 2>&1; then
+            echo "| ZIP Package | Produced |" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "| ZIP Package | tar.gz fallback |" >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "| Manifest JSON | Produced |" >> $GITHUB_STEP_SUMMARY
+          echo "| Combined MD | Produced |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Commit:** \`$(git rev-parse --short HEAD)\`" >> $GITHUB_STEP_SUMMARY
+          echo "**Date:** $(date -u +%Y-%m-%d)" >> $GITHUB_STEP_SUMMARY
