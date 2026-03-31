@@ -54,3 +54,39 @@ This is directly relevant to the false E1/E2 filings (2021–2024) on AFM 051422
 
 *ASK-PB1 prepared for IRS-CI binder Tab 7 | Day 1,752 | 31/03/2026*  
 *Next action: Print and include in binder for April 20 meeting*
+
+## TAXISnet Backdating Theory (Analysis — 31/03/2026)
+
+The claimed registration date of 26/05/1992 predates TAXISnet by approximately five years. GSIS (the predecessor system) began limited digital operations in the late 1990s, with TAXISnet launching incrementally from ~1999–2002. This creates a critical evidentiary question:
+
+**Was the 1992 date a genuine physical DOY filing, or was it a backdated digital entry created during the TAXISnet migration (2000s) with a fabricated start date?**
+
+Key indicators supporting the backdating hypothesis:
+
+1. **No physical Δ210 has been produced** — neither AADE nor any DOY office has provided the original registration form
+2. **Cessation Declaration #44 filed 31/05/2001** — only 9 years after alleged start, coinciding precisely with early TAXISnet migration period
+3. **Business remains ΕΝΕΡΓΗ despite ΠΑΥΣΗ ΕΡΓΑΣΙΩΝ at 31/12/1999** — a status contradiction that suggests manual database manipulation
+4. **Cross-AFM routing to deceased person's AFM** — system-level linkage that would require deliberate configuration, not legacy inheritance
+5. **No VAT returns, no income declarations, no business activity of any kind** have ever been associated with this registration
+
+### The Critical Record: Creation Timestamp
+
+Under GDPR Art. 15 and the AADE's own data retention policies, every TAXISnet record carries a **creation timestamp** (ημερομηνία δημιουργίας εγγραφής) distinct from the **displayed start date** (ημερομηνία έναρξης). If the creation timestamp postdates 1992 — for example, showing a 2002 or 2003 insertion date — it would prove:
+
+- The record was **retroactively fabricated** during digital migration
+- Someone with DOY or TAXISnet administrative access **deliberately entered a false historical date**
+- The phantom business was created not in 1992 but during a period when the actors in this case were active
+
+### Additional Ask (A-6 supplement)
+
+Request AADE to produce, through MLAT:
+
+4. **The TAXISnet creation timestamp** (database insertion date) for the business activity record on AFM 044594747 — distinct from the displayed start date of 26/05/1992
+5. **The TAXISnet user account or terminal ID** that created or migrated this record
+6. **Any batch migration logs** from the DOY-to-TAXISnet transition period (1999–2005) that include AFM 044594747
+
+This data will establish whether the phantom business is a genuine 1992 registration that was later digitized, or a fabricated entry inserted into TAXISnet with a false historical date — the latter constituting forgery of a public record (Art. 216 ΠΚ) in addition to identity theft.
+
+---
+
+*Backdating analysis added Day 1,752 | 31/03/2026*
