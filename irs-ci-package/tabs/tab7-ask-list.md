@@ -1,6 +1,6 @@
 # TAB 7: ASK LIST
 
-**Specific Requests to IRS-CI — April 20, 2026 Meeting**
+**Specific Requests to IRS-CI — April 21, 2026 Meeting**
 
 Each ask is tied to a specific evidentiary need, the domestic failure that necessitates federal action, and the expected outcome. Asks are ordered by priority and grouped by action type.
 
@@ -80,4 +80,4 @@ These two record sets will definitively establish: (1) whether a Navy pension wa
 
 ---
 *Cross-references: Tab 6 (MLAT Map) | Tab 1 (Executive Summary request) | Tab 5 (E-01 through E-40) | ASK-PB1 (Phantom Business)*
-*Source: Zeus AI Evidence Architecture — commit-tracked, 406+ protocols*
+*Source: Zeus AI Evidence Architecture — commit-tracked, 408+ protocols*
