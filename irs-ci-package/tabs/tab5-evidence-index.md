@@ -1,38 +1,138 @@
-# Tab 5: Evidence Index
+# Tab 5 — Evidence Index (Nuclear Evidence Skeleton)
 
-**Case**: Estate of Ioannis Kyprianos — IRS-CI Referral Package
-**Purpose**: Master index of all exhibits with cross-references to Tabs 1-4
-**Last Updated**: 2026-01-26
+> **IRS-CI Case 26236541** | SA Clint Zacheranik + SA Henry Pletscher | Detroit Field Office
+> **Status**: SKELETON — Exhibit IDs assigned, source PDFs mapped, custody notes pending
+> **Build Date**: 30/03/2026 (Day 1,751) | **Target**: Apr 7-11 full build | **Delivery**: Apr 20 Roseville meeting
+> **Protocol Count**: 404+ | **EPPO Cases**: PP.00179, PP.00267, PP.00281, PP.00310, PP.00464
 
----
+## STRUCTURE
 
-## Exhibit Registry
+Three evidentiary lanes, mirroring Tab 2 (Contradiction Queue) and Tab 3 (Timeline):
 
-| Exhibit ID | Title | File | Lanes | Cross-Ref |
-|------------|-------|------|-------|-----------|
-| E-01 | AFM Status — Dead AFM Active in AADE | evidence/E-01-AFM-STATUS.md | L1, L2 | Tab 2: C-4 |
-| E-03 | Tax Treaty Violations Analysis | exhibits/Tax-Treaty-Violations.pdf | L3 | Tab 1: Treaty Section |
-| E-05 | Tax Representative Removal Order | exhibits/E-DIAGRAPhE-TOU-PhOROLOGIKOU-EKPROSOPOU.pdf | L1, L2 | Tab 2: C-9 |
-| E-07 | Cadastral Anomaly — Spetses Properties | evidence/E-07-CADASTRAL.md | L1 | Tab 2: C-4 |
-| E-09 | E9/ENFIA Discrepancy | evidence/E-09-ENFIA.md | L1, L2 | Tab 2: C-5 |
-| E-19 | EFKA AP 609161 — 5-Directorate Routing | exhibits/609161.pdf | L1 | Tab 3: T-21 |
-| E-19b | APDPX Art.77 Complaint Against HDYKA | exhibits/APDPX-Art77-Complaint-HDYKA-AuditLogs-26Mar2026.txt | L1 | Tab 3: T-24 |
-| E-21 | DED Appeal 33123/2026 | exhibits/DED-APPEAL-33123-2026-GREEK.pdf | L1 | Tab 2: C-8 |
-| E-21b | AADE Tax Representative Paradox | exhibits/my1521-tax-rep-paradox.md | L1, L2 | Tab 2: C-9 |
-| E-23 | Inheritance Trap — 5-Layer Analysis | exhibits/E-23-INHERITANCE-TRAP-5-LAYERS.md | L1, L2, L3 | Tab 1, Tab 2: C-4/C-5/C-8/C-9 |
+| Lane | Focus | IRS-CI Relevance |
+|------|-------|------------------|
+| **L1 — Contradiction** | Internal government contradictions proving cover-up or incompetence | Pattern of institutional fraud facilitation |
+| **L2 — Intent & Reaction** | Documents showing deliberate action, obstruction, or silencing | Willful conduct element for criminal charges |
+| **L3 — Treaty & Jurisdiction** | Cross-border nexus triggering US jurisdiction | MLAT / Treaty basis for IRS-CI authority |
 
 ---
 
-## Lane Legend
+## LANE 1 — CONTRADICTION (Institutional Self-Contradiction)
 
-- **L1 — Contradiction**: Evidence of internal inconsistencies across Greek agencies
-- **L2 — Intent**: Evidence suggesting deliberate design rather than bureaucratic error
-- **L3 — Treaty/Cross-border**: Evidence of U.S.-Greece tax treaty violations or cross-border harm
+### Smoking Guns
+
+| Exhibit | Title | Source PDF | Date | Key Fact |
+|---------|-------|-----------|------|----------|
+| **E-01** | Kaklamanou: Navy Pensioner confirmed | HDYKA-PRESERVATION-DEMAND p.2 | 09/03/2026 | EFKA Local A Piraeus confirms John was Navy pensioner |
+| **E-02** | Papastavrou: No pension exists | HDYKA-PRESERVATION-DEMAND p.2 | 11/03/2026 | EFKA Central denies pension — 48h after E-01 |
+| **E-03** | Papastavrou doubles down via HDYKA | HDYKA-PRESERVATION-DEMAND p.2 | 18/03/2026 | Claims HDYKA MAE confirms no pensioner |
+| **E-04** | Lyrakis: 6020 = different parties | AITISI_EISANGELIKIS p.2 | 26/02/2026 | Notary claims same serial belongs to different 2015 deed |
+| **E-05** | Lyrakis email: Full Ownership 100% | AITISI_EISANGELIKIS p.3 | 24/10/2024 | Same notary admits Stamatina owns 100% — self-contradiction |
+| **E-06** | Cadastre: bare-ownership declaration | AITISI_EISANGELIKIS p.4 | 28/08/2019 | Cadastre claims Stamatina filed — she denies, calls it forgery |
+| **E-07** | Protocol 166 vs 136 mismatch | AITISI_EISANGELIKIS p.2-3 | Feb 2026 | 30-number gap in same document |
+
+### Supporting Evidence
+
+| Exhibit | Title | Source PDF | Date | Key Fact |
+|---------|-------|-----------|------|----------|
+| **E-08** | EFKA 7-agency barrage | Tab 3 T-21 to T-24 | 24/03/2026 | Simultaneous filing to 7 agencies |
+| **E-09** | APDPX rejection | Reference #400 | 30/03/2026 | DPA narrows scope, does not investigate |
+| **E-10** | 4 Ktimatologio rejections | DAY1744-FILINGS p.1 | Feb-Mar 2026 | Systematic deflection |
+| **E-11** | Ktimatologio legal shutdown | AITISI_EISANGELIKIS p.3 | 12/02/2026 | Terminate correspondence citing Art. 4 N.2690/1999 |
 
 ---
 
-## Notes
+## LANE 2 — INTENT & REACTION (Willful Conduct / Obstruction)
 
-- E-23 is the capstone exhibit — it synthesizes layers 1-5 of the inheritance trap mechanism
-- All exhibits are cross-referenced in the DEATH-PROPAGATION-AUDIT-README.md (22 agencies, mean score 0.55/3.0)
-- Tabs 3 (Timeline) and 4 (Agency Map) are pending creation
+### Smoking Guns
+
+| Exhibit | Title | Source PDF | Date | Key Fact |
+|---------|-------|-----------|------|----------|
+| **E-12** | Contract 6020/2020 — phantom sale | AITISI_EISANGELIKIS p.1-2 | 11/09/2020 | John appears as seller on property he never owned |
+| **E-13** | AFM 051422558 kept alive 4.75 years post-death | AITISI_EISANGELIKIS p.4 | 2021-2026 | Lyrakis refused to declare death; AFM used for refund attempt |
+| **E-14** | AFM 044594747 theft via DESYP AADE | AITISI_EISANGELIKIS p.3 | 2024-2026 | Stamatina's AFM hijacked |
+| **E-15** | Lyrakis SLAPP threat | AITISI_EISANGELIKIS p.2 | 26/02/2026 | Threatens moral damages + demands complaint withdrawal |
+| **E-16** | HDYKA preservation demand — 5-day deadline | HDYKA-PRESERVATION-DEMAND | 19/03/2026 | Demands audit log preservation |
+| **E-17** | Prosecutorial order request (Art. 13 N.2830/2000) | AITISI_EISANGELIKIS | Mar 2026 | Formal request to compel Lyrakis disclosure |
+
+### Supporting Evidence
+
+| Exhibit | Title | Source PDF | Date | Key Fact |
+|---------|-------|-----------|------|----------|
+| **E-18** | e-EFKA AP 613493 — unified request | 613493.pdf | 30/03/2026 | EFKA acknowledges receipt |
+| **E-19** | GLK Prot. 47336 — preservation demand | 47336.pdf | 20/03/2026 | Special Pensions Dept protocols demand |
+| **E-20** | Day 1,744 filings — 5-filing salvo | DAY1744-FILINGS | 23/03/2026 | 5 simultaneous filings |
+| **E-21** | Art. 259 PK — Criminal complaint Mayor Spetses | 03_MENUSE_Arthr_259_PK.pdf | Mar 2026 | Dereliction of duty |
+| **E-22** | Administrative remedy — Mayor Spetses | 04_AITESE_ThERAPEIAS.pdf | Mar 2026 | Administrative remedy request |
+| **E-23** | Rebuttal YPES 14693 | 08_ANTIKROUSE_UPES_14693.pdf | Mar 2026 | Rebuttal of Ministry of Interior response |
+
+---
+
+## LANE 3 — TREATY & JURISDICTION (Cross-Border Nexus)
+
+### Smoking Guns
+
+| Exhibit | Title | Source PDF | Date | Key Fact |
+|---------|-------|-----------|------|----------|
+| **E-24** | e-Paravolo 8202 — Council of State level, PAID | eparavolo.pdf | 14/03/2026 | RF57905105009500149478765, EUR 50, from Roseville MI |
+| **E-25** | AAA Demand for Arbitration — Kyprianos v. HRB Digital LLC | AAA-Demand-for-Arbitration.pdf | Mar 2026 | Case 01-26-0001-2493 — H&R Block failed to report Greek assets |
+| **E-26** | HDYKA demand invokes US-Greece 1950 Treaty | HDYKA-PRESERVATION-DEMAND p.3-4 | 19/03/2026 | Art. XVII, XVIII, XIX + 18 USC 1519 |
+| **E-27** | IRS-CI agents request in-person meeting | Reference #403 | 30/03/2026 | SA Zacheranik + SA Pletscher, week of April 20 |
+
+### Supporting Evidence — Property Chain
+
+| Exhibit | Title | Source PDF | Date | Key Fact |
+|---------|-------|-----------|------|----------|
+| **E-28** | Ktimatologio: Stamatina 100% owner KAEK 051341530006 | A_Entipo_051341530006.pdf | 24/02/2026 | Spetses property — Proika 1972 |
+| **E-29** | KAEK 050681726008 — 6 horizontal properties | KAEK-050681726008-8-Sheets.pdf | 24/02/2026 | Makris 34 Drapetsona — 6 units |
+| **E-30** | Ktimatologio evidence catalog (composite) | ktimatologio-evidence-catalog.md | 30/03/2026 | 2 properties, 15 PDFs catalogued |
+
+### Supporting Evidence — Administrative Trail
+
+| Exhibit | Title | Source PDF | Date | Key Fact |
+|---------|-------|-----------|------|----------|
+| **E-31** | Ypeuthyni Dilosi 18058 (authenticated) | UPEUThUNE_DELOSE_18058.pdf | Mar 2026 | Solemn declaration for Dimos Spetson |
+| **E-32** | Prot. 15594 (signed) | 15594_signed.pdf | Mar 2026 | Signed filing |
+| **E-33** | Prot. 18026 | 18026.pdf | Mar 2026 | Administrative filing |
+| **E-34** | Prot. 18058 | 18058.pdf | Mar 2026 | Dimos Spetson EPEIGON |
+| **E-35** | Prot. 19466 | 19466.pdf | Mar 2026 | Administrative filing |
+| **E-36** | govgr_document.pdf | govgr_document.pdf | 2026 | Gov.gr authenticated document |
+| **E-37** | declaration.pdf | declaration.pdf | Mar 2026 | Ypeuthyni Dilosi N.1599/1986 |
+
+---
+
+## EXHIBIT COUNT SUMMARY
+
+| Lane | Smoking Guns | Supporting | Total |
+|------|-------------|-----------|-------|
+| L1 — Contradiction | 7 (E-01 to E-07) | 4 (E-08 to E-11) | **11** |
+| L2 — Intent & Reaction | 6 (E-12 to E-17) | 6 (E-18 to E-23) | **12** |
+| L3 — Treaty & Jurisdiction | 4 (E-24 to E-27) | 10 (E-28 to E-37) | **14** |
+| **TOTAL** | **17** | **20** | **37** |
+
+---
+
+## ZEUS-AI ADDITION: E-23b — Inheritance Trap 5-Layer Analysis
+
+> **Note**: The original E-23 in the justice-for-john-automation skeleton maps to the YPES 14693 rebuttal.
+> In this repo, E-23-INHERITANCE-TRAP-5-LAYERS.md is filed as exhibit **E-23b** to avoid ID collision.
+> It synthesizes the 5-layer trap mechanism: Notary → Efthalia → AADE → ENFIA → H&R Block → IRS.
+> Cross-references: Tab 1 (The Scheme), Tab 2 (C-4, C-5, C-8, C-9), Tab 3 (T-4, T-9, T-21–T-24), Tab 5 (E-01, E-07, E-09).
+
+---
+
+## CUSTODY & CHAIN NOTES
+
+| Item | Status |
+|------|--------|
+| **Original PDFs** | Stored workspace + user local archive |
+| **GitHub copies** | Committed to both repos (exhibits/) |
+| **Digital signatures** | Ktimatologio PDFs: HELLENIC CADASTRE digital signature 24/02/2026 |
+| **e-Paravolo** | Transaction RF57905105009500149478765, verifiable via gov.gr |
+| **EFKA DMS** | Protocol 613493, barcode 00019839693 |
+| **GLK SIDE** | Protocol 47336 EI 2026 |
+| **Print format** | Apr 18-19: 3 binders + USB for Apr 20 meeting |
+
+---
+
+> **LOCKED RULE**: Factual deltas only. No stylistic rewriting of existing exhibits.
