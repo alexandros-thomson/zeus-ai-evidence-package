@@ -1,0 +1,71 @@
+name: Build IRS-CI Evidence PDF
+
+on:
+  push:
+    paths:
+      - 'irs-ci-package/**'
+      - 'scripts/build-pdf.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-pdf:
+    name: Build Evidence Binder PDF
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install reportlab markdown
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto fonts-noto-cjk fonts-dejavu
+
+      - name: Build PDF
+        run: |
+          python scripts/build-pdf.py \
+            --source irs-ci-package/tabs \
+            --output build/irs-ci-evidence-binder.pdf \
+            --commit $(git rev-parse --short HEAD)
+
+      - name: Verify PDF exists
+        run: |
+          test -f build/irs-ci-evidence-binder.pdf || (echo "FAIL: PDF not generated" && exit 1)
+          ls -lh build/irs-ci-evidence-binder.pdf
+          echo "PDF_SIZE=$(stat -c%s build/irs-ci-evidence-binder.pdf)" >> $GITHUB_ENV
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: irs-ci-evidence-binder-pdf
+          path: build/irs-ci-evidence-binder.pdf
+          if-no-files-found: error
+          retention-days: 90
+
+      - name: Commit PDF to build/
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add build/irs-ci-evidence-binder.pdf
+          git diff --cached --quiet || git commit -m "ci: rebuild evidence binder PDF [$(git rev-parse --short HEAD)]"
+          git push
+
+      - name: Build summary
+        run: |
+          echo "## Evidence Binder PDF Build" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "| Field | Value |" >> $GITHUB_STEP_SUMMARY
+          echo "|-------|-------|" >> $GITHUB_STEP_SUMMARY
+          echo "| PDF | build/irs-ci-evidence-binder.pdf |" >> $GITHUB_STEP_SUMMARY
+          echo "| Size | $PDF_SIZE bytes |" >> $GITHUB_STEP_SUMMARY
+          echo "| Commit | \`$(git rev-parse --short HEAD)\` |" >> $GITHUB_STEP_SUMMARY
+          echo "| Date | $(date -u +%Y-%m-%d) |" >> $GITHUB_STEP_SUMMARY
