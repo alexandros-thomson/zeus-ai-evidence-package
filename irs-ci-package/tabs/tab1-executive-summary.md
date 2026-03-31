@@ -3,7 +3,7 @@
 **CONFIDENTIAL — IRS Criminal Investigation**  
 **Cross-Border Identity Theft, Tax Fraud & Estate Exploitation**  
 **AFM 051422558 (deceased) / AFM 044594747 (widow)**  
-**April 20, 2026**
+**April 21, 2026**
 
 ---
 
@@ -27,7 +27,7 @@
 
 9. A **phantom business** (ατομική επιχείρηση) was discovered registered on AFM 044594747 (Stamatina's AFM) since 1992 — 29 years before John's death — with status ΕΝΕΡΓΗ (active) as of 2026. Registered at "ΣΠΕΤΣΕΣ 0 ΤΚ:18050" (no street number), ΚΑΝΟΝΙΚΟ VAT regime. This pre-TAXISnet-era creation proves the AFM was compromised decades before Contract 6020, providing the mechanism for fraudulent E1 declarations and false FTCs. AADE's automated systems actively maintain this phantom business, pushing Α.1058/2026 POS compliance obligations to a dead person's AFM (31/03/2026) while ignoring the Δ210/Δ211 complaint for 43+ days. ΕΑΔ (Transparency Authority) accepted ΟΧΛΗΣΗ Protocol 20383 ΕΙ 2026 on KAEK forgery, invoking Art. 4 N.2690/1999 (50-day deadline).
 
-10. As of April 2026, this case is under active investigation or filing across **6 countries and 30+ agencies**: IRS-CI (Case 26236541), FBI IC3 (eaa5459ac668431abdb33a7f545c3282), EPPO (5 open files: PP.00179, PP.00267, PP.00281, PP.00310, PP.00464), OLAF (FNS-25098), Senator Slotkin (IMA00176193), Michigan AG (2026-pa03191543458-A), plus Greek prosecution (Εισαγγελία ΑΒΜ 14678), data protection (ΑΠΔΠΧ), transparency authority (ΕΑΔ), and administrative court proceedings.
+10. As of April 2126, this case is under active investigation or filing across **6 countries and 30+ agencies**: IRS-CI (Case 26236541), FBI IC3 (eaa5459ac668431abdb33a7f545c3282), EPPO (5 open files: PP.00179, PP.00267, PP.00281, PP.00310, PP.00464), OLAF (FNS-25098), Senator Slotkin (IMA00176193), Michigan AG (2026-pa03191543458-A), plus Greek prosecution (Εισαγγελία ΑΒΜ 14678), data protection (ΑΠΔΠΧ), transparency authority (ΕΑΔ), and administrative court proceedings.
 
 11. The **U.S.-Greece Mutual Legal Assistance Treaty** (entered force November 20, 2001) Article 9 provides the only mechanism that can compel Greek agency records that have been systematically withheld through domestic channels. Every administrative deflection cycle documented in this package can be resolved by a single MLAT request through the U.S. Attorney General.
 
@@ -68,4 +68,4 @@ IRS-CI initiate MLAT Article 9 requests to compel production of Greek agency rec
 
 ---
 *Source: Zeus AI Evidence Architecture — GitHub commit-tracked, 408+ protocols documented*  
-*Prepared March 30, 2026 — Living document, freeze date ~April 18, 2026*
+*Prepared March 31, 2026 — Living document, freeze date ~April 19, 2026*
