@@ -19,14 +19,16 @@ Each row below documents a verifiable contradiction in the official record. The 
 | C-7 | 19/03–27/03/2026 | ΕΦΚΑ/ΗΔΥΚΑ | Audit log preservation demand sent (Protocol #343, #384) citing GDPR Art.5§1(στ), Art.32, and 18 USC §1519 | ΗΔΥΚΑ: Complete silence for 5+ days. ΕΦΚΑ routes to 5 directorates (#387/ΑΠ 609161) but provides no audit logs | **Binary trap**: If logs exist, they show who accessed/modified AFM 051422558 records. If they don't exist or were destroyed, that is itself a GDPR violation and potential 18 USC §1519 obstruction | **Evidence tampering or destruction**: Under 18 USC §1519, concealing or destroying records relevant to a federal investigation is a federal crime. The ΗΔΥΚΑ silence, after formal demand citing both Greek and U.S. law, constitutes evidence of concealment. ΑΠΔΠΧ Art.77 complaint filed (#385). | E-19 |
 | C-8 | Feb–Mar 2026 (5 deflections) | Κτηματολόγιο | 5 successive responses claiming αναρμοδιότητα (lack of jurisdiction) for KAEK 050681726008 | Deputy Minister of Interior forwarded the filing to Ktimatologio leadership (#379) — confirming it IS their jurisdiction | An agency denied jurisdiction 5 times for a matter that its own Minister confirmed belongs to them | **Deliberate jurisdictional evasion**: The deflections are not honest mistakes — they are a pattern of avoidance exposed only by political intervention at the Deputy Minister level. | E-20 |
 
+| C-9 | 14/01 vs 03/02/2026 (20 days) | AADE (TAXISnet vs my.AADE portal) | AADE Protocol 76022/20260114/45105: Removes Efthalia Kyprianou (AFM 052822816) as unauthorized tax representative on deceased AFM 051422558 | AADE Ticket 4-1770119462538 (03/02): Closes widow’s data access request with: “Μπορείτε να απευθυνθείτε στον φορολογικό εκπρόσωπο που έχετε ορίσει” (contact your tax representative) | Same agency removes a person as fraudulent, then 20 days later directs the victim to contact that same person | **Self-refuting institutional response**: AADE’s own systems prove the representative was unauthorized. Directing the victim to that representative is either incompetence (systems don’t communicate) or deliberate obstruction (dead-end routing). Either conclusion proves the domestic system cannot self-correct. Context: 38 formal requests over 10 months, zero resolution. | E-21 |
+
 ---
 
 ## PATTERN ANALYSIS
 
-The 8 contradictions above fall into four categories that demonstrate a **systemic**, not individual, failure:
+The 9 contradictions above fall into four categories that demonstrate a **systemic**, not individual, failure:
 
-### Within-Agency Contradictions (C-1, C-3)
-The same institution issues opposite statements about the same fact. This proves **internal knowledge** that is being selectively deployed — one official knows the truth while another denies it, or the same office reverses its position within days.
+### Within-Agency Contradictions (C-1, C-3, C-9)
+The same institution issues opposite statements or takes contradictory actions about the same fact. This proves **internal knowledge** that is being selectively deployed — one official knows the truth while another denies it, or the same system removes a person as fraudulent then directs the victim to contact them.
 
 ### Cross-Agency Contradictions (C-2)
 Different state organs reach opposite conclusions about the same fact on the same day. This proves either a complete **failure of inter-agency coordination** or a deliberate strategy to issue contradictory responses to exhaust the complainant.
