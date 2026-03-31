@@ -20,15 +20,15 @@ Each row below documents a verifiable contradiction in the official record. The 
 | C-8 | Feb–Mar 2026 (5 deflections) | Κτηματολόγιο | 5 successive responses claiming αναρμοδιότητα (lack of jurisdiction) for KAEK 050681726008 | Deputy Minister of Interior forwarded the filing to Ktimatologio leadership (#379) — confirming it IS their jurisdiction | An agency denied jurisdiction 5 times for a matter that its own Minister confirmed belongs to them | **Deliberate jurisdictional evasion**: The deflections are not honest mistakes — they are a pattern of avoidance exposed only by political intervention at the Deputy Minister level. | E-20 |
 
 | C-9 | 14/01 vs 03/02/2026 (20 days) | AADE (TAXISnet vs my.AADE portal) | AADE Protocol 76022/20260114/45105: Removes Efthalia Kyprianou (AFM 052822816) as unauthorized tax representative on deceased AFM 051422558 | AADE Ticket 4-1770119462538 (03/02): Closes widow’s data access request with: “Μπορείτε να απευθυνθείτε στον φορολογικό εκπρόσωπο που έχετε ορίσει” (contact your tax representative) | Same agency removes a person as fraudulent, then 20 days later directs the victim to contact that same person | **Self-refuting institutional response**: AADE’s own systems prove the representative was unauthorized. Directing the victim to that representative is either incompetence (systems don’t communicate) or deliberate obstruction (dead-end routing). Either conclusion proves the domestic system cannot self-correct. Context: 38 formal requests over 10 months, zero resolution. | E-21 |
-| C-10 | 1992 vs 2026 (34 years) | AADE (TAXISnet) | AADE registers business activity on AFM 051422558 in 1992 | AADE Ticket system: 43-day silence on Δ210/Δ211 complaint; status remains ΕΝΕΡΓΗ | Business on AFM that AADE claims was properly managed. 43-day silence proves AADE cannot explain its own records | **Phantom business as structural evidence**: Identity compromised 29 years before death, long before Contract 6020. AADE silence confirms institutional awareness | E-38 |
-
+| C-10 | 1992 vs 2026 (34 years) | AADE (TAXISnet) | AADE registers business activity on AFM 051422558 in 1992 | AADE Ticket system: 43-day silence on Δ210/Δ211 complaint; status remains ΕΝΕΡΓΗ | Business on AFM that AADE claims was properly managed. 43-day silence proves AADE cannot explain its own records | **Phantom business as structural evidence**: Identity compromised 29 years before death, long before Contract 6020. AADE silence confirms institutional awareness | E-38 
+| C-11 | 31/03/2026 (same day) | AADE (myAADE + Ticket system) | myAADE pushes Α.1058/2026 POS compliance to AFM 051422558 at 1:00 AM — treating phantom business as active | AADE Ticket: 43-day silence on Δ210/Δ211 complaint about same phantom business | AADE automated systems maintain phantom business while human complaint system ignores it. Same agency generates compliance obligations AND refuses to address the complaint | **System-level self-incrimination**: Every Α.1058/2026 notification is a machine-generated admission the phantom business is active. 43-day silence is the human component choosing not to look | E-38, E-39 |
 ---
 
 ## PATTERN ANALYSIS
 
-The 10 contradictions above fall into four categories that demonstrate a **systemic**, not individual, failure:
+The 11 contradictions above fall into four categories that demonstrate a **systemic**, not individual, failure:
 
-### Within-Agency Contradictions (C-1, C-3, C-9, C-10)
+### Within-Agency Contradictions (C-1, C-3, C-9, C-10, C-11)
 The same institution issues opposite statements or takes contradictory actions about the same fact. This proves **internal knowledge** that is being selectively deployed — one official knows the truth while another denies it, or the same system removes a person as fraudulent then directs the victim to contact them.
 
 ### Cross-Agency Contradictions (C-2)
