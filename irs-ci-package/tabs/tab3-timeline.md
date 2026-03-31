@@ -32,7 +32,8 @@ Each entry includes a verifiable date, the actors involved, the act or omission,
 | T-20 | 16/03/2026 | Same-day institutional split | ΥΠΕΣ + Αποκεντρωμένη | ΥΠΕΣ: "no legal defect." Αποκεντρωμένη: ΕΠΕΙΓΟΝ compliance order. Opposite conclusions, same day, same certificate. | E-12, E-13 |
 | T-21 | 19/03/2026 | ΗΔΥΚΑ preservation demand sent | Complainant | Formal demand citing GDPR Art.5§1(στ), Art.32, and 18 USC §1519. 5-day deadline. | E-16 |
 | T-22 | 20/03/2026 | Αποκεντρωμένη threatens to archive as "abusive" | Αποκεντρωμένη Αττικής | 4 days after issuing ΕΠΕΙΓΟΝ order (T-20), same agency threatens complainant. Retaliation. | E-14, E-15 |
-**28 Critical Events| T-24 | 23–30/03/2026 | Day 1,744–1,751 filing salvo | Complainant | 5+ simultaneous filings across agencies. Art. 259 PK criminal complaint against Mayor Spetses. | E-20, E-21 |
+| T-23 | 03/03–27/03/2026 | EFKA circular referral chain | EFKA — Multiple Directorates | 7 formal requests on complaint ΑΠ 419690 yield 4 circular redirections (Ntsonou→Sardeli→Papastavrou→Karagianni→D/nsi Anaferon). Zero substantive response. Systematic obstruction consuming statutory deadlines. | E-17 |
+| T-24 | 23–30/03/2026 | Day 1,744–1,751 filing salvo | Complainant | 5+ simultaneous filings across agencies. Art. 259 PK criminal complaint against Mayor Spetses. | E-20, E-21 |
 | T-25 | 30/03/2026 | IRS-CI confirms April 20 meeting | SA Zacheranik | Week of April 20, Roseville MI. This package prepared for that meeting. | E-27 |
 | T-26 | 1992 | **Phantom business registered on John's AFM** | AADE / Unknown | AFM 051422558 used to register business activity while John alive. Status ΕΝΕΡΓΗ (active) as of 2026. 43-day AADE silence on Δ210/Δ211 complaint. Chronologically between T-01 and T-02 — proves AFM was compromised decades before Contract 6020. | E-38 |
 
