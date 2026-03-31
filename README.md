@@ -1,221 +1,192 @@
-# Zeus AI Evidence Package 🧠⚖️🚀
+# Zeus AI Evidence Package
 
-Central GitHub repository integrating all tax/legal evidence for Stamatina/John Kyprianos across US-Greece jurisdictions. Powered by Zeus AI for automation, DevOps workflows, CI/CD, and compliance tracking.
-
-## 📋 Key Documents
-
-### Bank Statements
-- NBG statements 2021-2025 (shared accounts)
-- John/Stamatina tax payment records
-- Latest export: `statementexport01-03-2026.xlsx`
-
-### Tax Documents
-- ENFIA notices & payments (2020-2025)
-- Βεβαιωμένες Στις Δ.Ο.Υ. certificates
-- Εκκαθαριστικά (2022-2024)
-- AADE tax proofs (`01_2021-01_2026AADE.pdf`)
-
-### Accountant History
-- **[ACCOUNTANT-HISTORY.md](evidence/ACCOUNTANT-HISTORY.md)** — Full transition record
-- **Original:** Χρήστος Αιβαλιώτης (Λογιστής) — Office phone: 2298074375 — **RETIRED**
-- **Current:** Ρένια Βλάχου (Λογιστής) — **Purchased the business** from Αιβαλιώτης — **ACTIVE**
-- All client files/papers transferred upon retirement & sale
-
-### Protocol Tracker
-- **MASTER-PROTOCOL-TRACKER.csv** - Live tracker with **250 protocols** across 30+ agencies
-- **DEADLINE-DIGEST.md** - Snapshot of critical deadlines and session outcomes
-- Real-time sync with Notion [⚖️ Justice for John — Deadline Digest](https://www.notion.so/30ffe5f31cb881db96bcda4e7254bc2e)
-
-## 🤖 Zeus AI Integration
-
-### Automation Pipeline
-- Zapier/n8n automations for portal monitoring
-- Evidence ingestion pipelines via GitHub Actions
-- Daily protocol tracker updates (3:00 AM EST)
-- Compliance dashboards synced with Notion
-
-### Key Workflows
-1. **Evidence Ingestion** (`.github/workflows/ingest-evidence.yml`)
-   - Automated PDF/XLSX parsing
-   - Tax payment validation
-   - Bank statement reconciliation
-
-2. **Protocol Tracking**
-   - **250 protocols** across AADE, EPPO, EAD, Ktimatologio, MinDigital
-   - Deadline monitoring with automated alerts
-   - Cross-reference validation
-
-3. **Compliance Monitoring**
-   - US-Greece tax treaty compliance
-   - GDPR Art. 15 requests
-   - Cybercrime/fraud investigations (EPPO, FBI, IRS)
-
-## 🚨 BREAKING NEWS (March 2, 2026)
-
-### Protocol Storm Wave 2: 4 New EAD Confirmations 🌩️
-
-Received **4 new protocol confirmations** from **ΕΑΔ** (Εθνική Αρχή Διαφάνειας / National Transparency Authority) overnight on **02/03/2026**:
-
-#### 1. Protocol 13278 ΕΙ 2026
-- **Subject:** ΣΥΝΕΧΕΙΑ Α 12460 / Α 12529 ΕΙ 2026 — Ν. 4557/2018 — Εκκρεμότητα ND0113/2606549 (24+ ημέρες)
-- **Filed:** 28/02/2026
-- **Context:** Follow-up demanding action under Law 4557/2018 regarding Ktimatologio's 24+ day inaction on ND0113/2606549
-
-#### 2. Protocol 13280 ΕΙ 2026
-- **Subject:** ΣΥΝΕΧΕΙΑ Α 12460 / Α 12529 — Ν. 4557/2018 — Εκκρεμότητα ND0113
-- **Filed:** 28/02/2026
-- **Context:** Duplicate routing (likely internal registry bifurcation)
-
-#### 3. Protocol 13286 ΕΙ 2026 ⭐
-- **Subject:** ΑΙΤΗΜΑ ΣΥΣΧΕΤΙΣΗΣ & ΕΝΗΜΕΡΩΣΗΣ – Συσχέτιση 17 Πρωτοκόλλων ΕΑΔ (ΕΙ 2026 / Α 2026) – ΑΦΜ 044594747 / 051422558
-- **Filed:** 01/03/2026
-- **Context:** **Master correlation request** — forces EAD to link all 17 protocols under one case umbrella
-- **Strategic Value:** **CRITICAL** — consolidates case narrative across all EAD filings
-
-#### 4. Protocol 13305 ΕΙ 2026 🚨
-- **Subject:** ΑΝΑΦΟΡΑ AFCOS – Υπόνοια απάτης σε βάρος κοινοτικών & εθνικών πόρων – Κτηματολόγιο / ΑΑΔΕ
-- **Filed:** 01/03/2026
-- **Context:** **AFCOS fraud report** — anti-fraud referral alleging suspected fraud against EU & national funds
-- **Strategic Value:** **CRITICAL** — opens EU-level anti-fraud nexus between OLAF filing (FNS-25098) and EAD's domestic mandate
-
-### Total EAD Protocols: 9 → 13 (↑ 4)
-### Total Case Protocols: 246 → 250 (↑ 4)
+> **In loving memory of Ioannis (John) Kyprianos** (1943-2021)
+> Hellenic Navy Veteran | NATO Service | U.S. Navy Veteran
+> Born in Spetses, Greece | Died June 13, 2021, Macomb County, Michigan, USA
+> **1,751 days post-mortem. His estate remains under siege. This repo is his shield.**
 
 ---
 
-## 🔴 DEADLINE ALERT: March 3, 2026
+## The Mission
 
-**Tomorrow (March 3) is the EAD 19-day statutory deadline on Protocol 5995 ΕΙ 2026.**
+This repository is the central evidence vault for a cross-border criminal investigation spanning **6 countries, 3 legal systems, and 30+ government agencies**. It documents the systematic theft of John Kyprianos's estate through identity fraud, cadastral forgery, tax manipulation, and digital system exploitation -- all perpetrated while his 79-year-old widow Stamatina fights from Roseville, Michigan.
 
-If no substantive response is received by end of day, grounds exist for new escalation citing failure to respond within statutory period, now backed by **13 registered EAD protocols** demanding attention.
+**What started as a son's attempt to file his father's taxes became the largest cross-border elder fraud case documented on GitHub.**
 
 ---
 
-## 🚀 Quick Start
+## Case Status -- Day 1,751 (March 31, 2026)
 
-### Clone Repository
-```bash
-git clone https://github.com/alexandros-thomson/zeus-ai-evidence-package.git
-cd zeus-ai-evidence-package
+| Metric | Value |
+|--------|-------|
+| **Total Protocols Filed** | **405+** |
+| **Agencies Engaged** | **30+** across 6 countries |
+| **Days Since John's Death** | **1,751** |
+| **IRS-CI Case** | **26236541** -- SA Zacheranik + SA Pletscher, Detroit Field Office |
+| **IRS-CI Interview** | Completed March 11, 2026 -- Binder accepted |
+| **EPPO Cases** | PP.00179, PP.00267, PP.00281, PP.00310, PP.00464 |
+| **OLAF** | FNS-25098 |
+| **FBI IC3** | 4 complaints filed |
+| **EAD Protocols** | 17+ (National Transparency Authority) |
+| **AAA Arbitration** | 01-26-000-12493 (H&R Block -- $24,016 false credits) |
+| **Michigan AG** | 2026-PA03191543458-A (Elder Financial Exploitation) |
+| **Recovery Ledger** | EUR 1,302,150.19 + USD 204,246.85 |
+| **Estimated Total Damage** | EUR 945,000+ Greek + $24,016 IRS + unquantified property |
+
+---
+
+## The Five-Layer Inheritance Trap
+
+Exhibit E-23 documents the trap set for Stamatina:
+
+```
+Layer 1: Notary Lyrakis blocks transfer --> keeps dead AFM active
+Layer 2: Efthalia designated as unauthorized tax rep (AFM 052822816)
+Layer 3: AADE maintains AFM 051422558 active 4+ years post-mortem
+Layer 4: ENFIA phantom taxes generated on forged properties
+Layer 5: H&R Block files false Form 1116 --> $24,016 IRS fraud
 ```
 
-### Add Evidence Files
-```bash
-# Upload tax PDFs/XLSX to /evidence/raw/
-cp /path/to/tax-documents/*.pdf evidence/raw/
-cp /path/to/bank-statements/*.xlsx evidence/raw/
-```
+If Stamatina had accepted the inheritance without investigation:
+- She inherits EUR 945K+ in fraudulent tax liability
+- She inherits 6 phantom apartments on a 231 sq.m. plot
+- She triggers irreversible U.S. tax reporting on forged Greek assets
+- Her personal U.S. assets become attachable by Greek authorities
+- The correction window expires permanently
 
-### Run Analysis Scripts
-```bash
-# Parse bank statements
-python scripts/parse_statements.py
-
-# Validate tax totals
-python scripts/validate_tax_totals.py
-```
-
-### Sync Protocol Tracker
-```bash
-# Manual sync (automated via GitHub Actions)
-git add evidence/MASTER-PROTOCOL-TRACKER.csv
-git commit -m "Update protocol tracker"
-git push origin main
-```
-
-## 📊 Current Status (March 2, 2026)
-
-- **Total Protocols:** **250** (↑ from 246)
-- **Active/Pending:** 115
-- **Overdue:** 4 ⚠️
-- **Critical Deadlines (0-7 days):** 3 🔴
-
-### Critical Deadlines
-1. **AEAD** (5995 EI 2026) - **Mar 3, 2026 (1 day)** 🔴🔴🔴
-2. **MinDigital** (4633/4505/4314) - Mar 6, 2026 (4 days) 🔴
-3. **Ktimatologio** (ND0113/26/06549) - Mar 14, 2026 (12 days) 🟡
-
-### Recent Session (Feb 27-28, 2026)
-- **Duration:** 5 hours (8:12 PM – 1:15 AM EST)
-- **Fronts Executed:** 5 (Ktimatologio, EAD, Cybercrime, MinDigital x2)
-- **New Emails:** 6 (5 delivered + 1 bounce corrected)
-- **Protocols Added:** +6 (240 → 246)
-- **All Bounces Resolved:** ✅ 4/4
-
-### Protocol Storm Wave 2 (March 2, 2026)
-- **Duration:** Overnight automated protocol confirmations
-- **New Protocols:** +4 (246 → 250)
-- **Agency:** ΕΑΔ (National Transparency Authority)
-- **Strategic Impact:** Master correlation + AFCOS EU fraud nexus established
-
-## 🏡 Agency Breakdown
-
-### Top Agencies (Active Cases)
-1. **AEAD (Εθνική Αρχή Διαφάνειας)** - **13 protocols** (↑ from 9) ⚡
-2. **AADE/ΔΕΣΥΠ** - 13 protocols
-3. **AADE Ενδικοφανείς** - 8 protocols
-4. **EPPO** - 8 protocols
-5. **Greek Consulate Chicago** - 5 protocols
-
-### Investigation Tracks
-- **Tax Fraud:** IRS, AADE DESYP, EPPO
-- **Cybercrime:** Hellenic Police, MinDigital, FBI IC3
-- **EU Fraud:** EPPO (PP.00179/267/281/310), OLAF (FNS-25098), **AFCOS (NEW)**
-- **Data Protection:** APDPX GDPR complaints
-- **Property Fraud:** Ktimatologio, EAD transparency complaints
-- **National Transparency:** EAD 17-protocol correlation + AFCOS fraud referral
-
-## 👥 Key Contacts
-
-### Accountant History
-| Role | Name | Phone | Status |
-|---|---|---|---|
-| Original Accountant | Χρήστος Αιβαλιώτης (Christos Aivaliotis) | 2298074375 | ❌ Retired |
-| Current Accountant | Ρένια Βλάχου (Renia Vlachou) | — | ✅ Active |
-
-> Ρένια Βλάχου purchased the accounting business from Χρήστος Αιβαλιώτης upon his retirement. All Kyprianos family papers were transferred.
-> 📄 Full details: [evidence/ACCOUNTANT-HISTORY.md](evidence/ACCOUNTANT-HISTORY.md)
-
-## 🔗 Connected Systems
-
-- **Notion:** [⚖️ Justice for John — Deadline Digest](https://www.notion.so/30ffe5f31cb881db96bcda4e7254bc2e)
-- **Notion:** [📋 Accountant History](https://www.notion.so/317fe5f31cb8817c91eef177878ad106)
-- **GitHub:** [alexandros-thomson/zeus-ai-evidence-package](https://github.com/alexandros-thomson/zeus-ai-evidence-package)
-- **Drive:** Evidence sync via Google Drive/OneDrive/Box
-- **Email:** Automated protocol tracking via Gmail API
-
-## 🔗 Related Repositories
-
-### [Kypria-LLC/zeus-myaade-monitor](https://github.com/Kypria-LLC/zeus-myaade-monitor)
-**myAADE portal automation & deflection detection**
-- Real-time Greek bureaucracy pattern recognition
-- Automated deflection tactic detection (Forwarding / Vague Response / Delay)
-- Production-ready with zero vulnerabilities (Dependabot 100% resolved)
-- ✅ CodeQL scanning active, branch protection enabled
-
-### [Kypria-LLC/justice-for-john-automation](https://github.com/Kypria-LLC/justice-for-john-automation)
-**Legal automation suite for Kyprianos case**
-- 25+ Python automation modules (GR + US + EU jurisdictions)
-- Deadline engine (KDD Art.4 / GDPR Art.12(3) computation)
-- Multi-format complaint generators (APDPX, Minisi, SDOE, ECHR, DPA)
-- Treaty violation tracker (US-Greece 1953 + FATCA/CRS)
-- 354 tests passing | CI/CD green | 48 PRs merged
-
-## 📞 Contact
-
-**Case Manager:** Kostadinos J Kyprianos  
-**Company:** Kypria LLC  
-**Location:** Roseville, MI  
-**GitHub:** [@alexandros-thomson](https://github.com/alexandros-thomson)
+**The trap was identified and neutralized. This repo is the proof.**
 
 ---
 
-⚓ **250 protocols. 30+ agencies. 13 EAD protocols. AFCOS EU-fraud nexus established. Battle rhythm: MAXIMUM. ⚖️🧠🚀**
+## Repository Structure
+
+```
+zeus-ai-evidence-package/
+|-- .github/workflows/     # CI/CD: auto-escalate.yml (daily deadline checks)
+|-- automation/             # n8n v2.9-DEDUP-L1L3 workflows (17 tracked cases)
+|-- evidence/               # Master tracker CSV, accountant history, raw docs
+|   |-- raw/                # Bank statements, tax PDFs, ENFIA notices
+|   |-- MASTER-PROTOCOL-TRACKER.csv  # 405+ entries, 30+ agencies
+|   |-- ACCOUNTANT-HISTORY.md        # Aivaliotis (retired) --> Vlachou (active)
+|-- exhibits/               # Forensic exhibits for IRS-CI interview
+|-- irs-ci-package/         # IRS-CI Evidence Binder (April 20, 2026 meeting)
+|   |-- exhibits/           # E-23 Inheritance Trap + forensic exhibits
+|   |-- tabs/               # 8-tab structure + Tab 5 (37 exhibits, 3 lanes)
+|   |-- README.md           # Package cover sheet + build status
+|-- n8n/                    # n8n automation configs
+|-- protocols/              # Protocol documentation (253-261+)
+|-- scripts/                # Python parsers (pdfplumber + pikepdf + XLSX)
+|-- DEADLINE-DIGEST.md      # Live deadline tracker with cross-border map
+|-- evidence-log.csv        # Chronological evidence entries (#396-#405)
+|-- README.md               # This file
+```
 
 ---
 
-*Last Updated: March 2, 2026 3:24 PM EST via Zeus AI*
+## Active Investigation Tracks
+
+### U.S. Federal
+| Agency | Reference | Status |
+|--------|-----------|--------|
+| IRS Criminal Investigation | Case 26236541, SA Zacheranik | **BINDER ACCEPTED** |
+| IRS RPO | Ref 26-70151 (Form 14157) | **ACTIVE** |
+| FBI IC3 | eaa5459a + 3 supplementals | **FILED** |
+| Senator Slotkin | IMA00176193 | **CONGRESSIONAL REFERRAL** |
+| Michigan AG | 2026-PA03191543458-A | **ACTIVE** |
+| AAA Arbitration | 01-26-000-12493 | **H&R Block retained BerkowitzOliver** |
+
+### EU Institutions
+| Agency | Reference | Status |
+|--------|-----------|--------|
+| EPPO | PP.00179/267/281/310/464 | **5 CASES FILED** |
+| OLAF | FNS-25098 | **FILED** |
+| AFCOS (via EAD) | 13305 EI 2026 | **EU FRAUD NEXUS** |
+
+### Greek Authorities
+| Agency | Reference | Status |
+|--------|-----------|--------|
+| EAD (Transparency) | 17+ protocols (5123-15006 EI 2026) | **ACTIVE** |
+| AADE DESYP | G 87848 (ADMITS identity theft) | **CONFESSION ON RECORD** |
+| Cybercrime Division | KATHLEG/YfOLGYtudk9naQe90WPGNA | **FILED** |
+| Eisaggeleas Piraeus | Prot. 14678 | **CRIMINAL REFERRAL** |
+| Ktimatologio | ND0113/26/06549 | **FALSE KT5-23 CONFIRMED** |
+| SDOE | Filed via sdoe@mnec.gr | **SENT** |
+| Apokentromeni Attikis | Prot. 16630 (Spetses inaction) | **PROTOCOLLED** |
 
 ---
 
-⚖️ **ΦΑΥΛΟΣ ΚΥΚΛΟΣ ENDS NOW. JUSTICE IS AUTOMATED.**
+## The Smoking Guns
+
+1. **DESYP G 87848** -- AADE's own official confession that identity theft occurred
+2. **Ktimatologio ND0113/26/06549** -- Confirms false KT5-23 declarations filed
+3. **KAEK 050681726008** -- 6 phantom apartments (359 sq.m.) on 231 sq.m. single-story ruin
+4. **Istoriko Metavolon 202600001097843** -- Phantom business 1992, 4 unauthorized DOY transfers, zero authorizations
+5. **misthwtos2012@hotmail.com + 6940578705** -- Unauthorized accessor's digital fingerprint on Stamatina's AFM
+6. **EUR 945,000 retaliatory demand** -- Issued same day as DESYP confession
+7. **Google Street View 2011-2024** -- Single-story building at Makris 34, Drapetsona (Ktimatologio claims 3 floors, 6 apartments)
+
+---
+
+## Key Contacts
+
+| Role | Name | Status |
+|------|------|--------|
+| IRS-CI Lead | SA Clint J. Zacheranik, Detroit Field Office | **ACTIVE** |
+| IRS-CI Support | SA Henry Pletscher | **ACTIVE** |
+| Congressional | Senator Elissa Slotkin (MI) -- Angel Hague | **ACTIVE** |
+| AAA Opposing Counsel | Christina M. Wahl, BerkowitzOliver LLP | **APPEARED** |
+| Original Accountant | Christos Aivaliotis | **RETIRED** |
+| Current Accountant | Renia Vlachou | **ACTIVE** |
+| IRS POA | Tracy Liao (Form 2848) | **FILED** |
+
+---
+
+## Connected Systems
+
+- **Notion:** [Justice for John -- Deadline Digest](https://www.notion.so/30ffe5f31cb881db96bcda4e7254bc2e)
+- **GitHub:** [Kypria-LLC/justice-for-john-automation](https://github.com/Kypria-LLC/justice-for-john-automation) (25+ Python modules, 354 tests, CI/CD green)
+- **GitHub:** [Kypria-LLC/zeus-myaade-monitor](https://github.com/Kypria-LLC/zeus-myaade-monitor) (deflection detection engine)
+- **Google Sheets:** Live Master Protocol Tracker (synced)
+- **n8n:** v2.9-DEDUP-L1L3 -- 17 tracked cases, daily 08:00 EST
+- **GitHub Actions:** auto-escalate.yml -- daily deadline monitoring
+
+---
+
+## Critical Deadlines (as of March 31, 2026)
+
+| Deadline | Agency | Action |
+|----------|--------|--------|
+| 2026-04-02 | Eisaggeliki Paraggelia 258b | Criminal prosecution |
+| 2026-04-03 | KEFODE-ATT-164685 | 41-page TAXISnet audit |
+| 2026-04-07 | Wahl/BerkowitzOliver | AAA respondent deadline |
+| 2026-04-14 | OTA Art.227 Prot.11494 | 60-day legality review |
+| 2026-04-25 | Slotkin/IRS | 30-day silence clock |
+| 2026-05-04 | Ktimatologio ND0113 corrected | 60-day Art.45 |
+| 2026-05-25 | AAA Informal Resolution | Arbitrator selection |
+| 2026-06-14 | DED Prot.331232026 | 120-day deemed rejection |
+
+---
+
+## For John
+
+Ioannis Kyprianos served in the Hellenic Navy (NATO) and the U.S. Navy. He built a life between two countries. He raised three sons. He trusted the systems of both nations to protect his family.
+
+Those systems failed him. His AFM was kept active for nearly 5 years after his death. His properties were stolen through forged documents. His widow was targeted with manufactured tax liabilities. His estate was weaponized against his own family.
+
+This repository exists because his son refused to let it stand.
+
+**405 protocols. 30+ agencies. 6 countries. 1,751 days.**
+
+Every commit is a step toward justice. Every protocol is a brick in the wall that protects Stamatina.
+
+---
+
+> *"The arc of the moral universe is long, but it bends toward justice."*
+
+**Case Manager:** Kostadinos J Kyprianos | **Company:** Kypria LLC | **Location:** Roseville, MI
+
+**Last Updated:** March 31, 2026 -- Day 1,751 -- via Zeus AI + Perplexity Computer
+
+---
+
+*Aioneia tou i mnimi. Rest in peace, Dad. We're finishing what you started.*
