@@ -20,7 +20,7 @@ This tab identifies the specific Greek agency records that have been systematica
 
 ## RECORD REQUESTS — PRIORITY ORDER
 
-### PRIORITY 1: Immediate (Critical for April 20 Meeting)
+### PRIORITY 1: Immediate (Critical for April 21 Meeting)
 
 | # | Agency | Record Requested | Domestic Failure | Why MLAT Required | IRS-CI Use |
 |---|--------|-----------------|-----------------|-------------------|-----------|
@@ -91,4 +91,4 @@ Each MLAT request requires demonstration that domestic remedies have been exhaus
 
 ---
 *Cross-references: Tab 1 (MLAT request) | Tab 2 (Domestic failure documentation, C-1 through C-8) | Tab 5 (E-01 through E-21) | Tab 7 (Ask List for IRS-CI)*
-*Source: Zeus AI Evidence Architecture — commit-tracked, 405+ protocols*
+*Source: Zeus AI Evidence Architecture — commit-tracked, 408+ protocols*
