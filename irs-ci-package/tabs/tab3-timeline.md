@@ -1,6 +1,6 @@
 # TAB 3: MASTER TIMELINE
 
-408+**29 Critical Events — Chronological Sequence Establishing Criminal Intent**
+**29 Critical Events — Chronological Sequence Establishing Criminal Intent**
 
 Each entry includes a verifiable date, the actors involved, the act or omission, and the evidentiary significance for IRS-CI purposes. Cross-references to Tab 2 (Contradiction Matrix) and Tab 5 (Evidence Index) are noted where applicable.
 
