@@ -144,4 +144,11 @@ Three evidentiary lanes, mirroring Tab 2 (Contradiction Queue) and Tab 3 (Timeli
 
 ---
 
+## OPEN EXHIBIT RETRIEVAL STATUS
+
+| Exhibit | Status | Location | Action Required |
+|---------|--------|----------|----------------|
+| **E-09** | OPEN | ΑΠΔΠΧ eServices portal (eservices.dpa.gr) > Απαντητικά έγγραφα | Login via Taxisnet required. User must screenshot rejection document Reference #400 dated 30/03/2026. |
+| **E-39** | OPEN | myAADE portal push notification (not email). Searched myAADE > Τα μηνύματά μου (2 pages) — not found. POS registry (pos-web) shows AFM 051422558 active as of 31/03/2026 — evidentiary screenshot captured. | User must check myAADE mobile app notifications or myAADE > Ειδοποιήσεις for Α.1058/2026 push alert. Alternatively, screenshot POS registry page as proxy evidence. |
+
 > **LOCKED RULE**: Factual deltas only. No stylistic rewriting of existing exhibits.
