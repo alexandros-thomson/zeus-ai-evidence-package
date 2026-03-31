@@ -17,6 +17,7 @@ These require IRS-CI to initiate through DOJ Office of International Affairs.
 | A-3 | Initiate MLAT Art. 9 request for Lyrakis notarial file | Notarial Chamber of Piraeus | Contract 6020/2020 complete file, logbook entries, supporting documents | Lyrakis invoked GDPR as shield. SLAPP threat issued. Protocol mismatch (166 vs 136) unexplained. | Establishes whether John was party to 6020 and under what authority. | **IMMEDIATE** |
 | A-4 | Initiate MLAT for Κτηματολόγιο records | Hellenic Cadastre | KAEK 050681726008 and 051341530006 — full modification history | 5 jurisdictional denials contradicted by Deputy Minister (C-8). Legal shutdown invoked. | Maps property fraud chain tied to deceased U.S. citizen. | Within 30 days |
 | A-5 | Initiate MLAT for AADE DESYP internal file | AADE | Protocol Γ 87848 decision chain, €945K demand authorization | No domestic response. Same-day issuance of identity theft admission + retaliatory demand. | Establishes whether retaliation was coordinated at institutional level. | Within 30 days |
+| A-6 | Initiate MLAT for phantom business originating act + TAXISnet creation timestamp | AADE | Δ210 or equivalent registration filing for business on AFM 044594747 dated 26/05/1992; TAXISnet creation timestamp (database insertion date) vs. displayed start date; terminal ID or user account that created/migrated record; batch migration logs (1999–2005) | No physical Δ210 produced. 1992 date predates TAXISnet. Backdating theory: record may have been fabricated during digital migration. GDPR Art. 15 timestamp will prove or disprove. | Establishes earliest identity compromise date. If creation timestamp postdates 1992, proves forgery of public record (Art. 216 ΠΚ). Identifies originating actor. | **IMMEDIATE** |
 
 ---
 
@@ -61,11 +62,11 @@ These are within IRS-CI direct authority.
 
 | Category | Count | Immediate | Within 30 Days |
 |----------|-------|-----------|----------------|
-| A — MLAT Requests | 5 | 3 | 2 |
+| A — MLAT Requests | 6 | 4 | 2 |
 | B — DS Agent Athens | 3 | 1 | 2 |
 | C — Domestic U.S. | 5 | 2 | 3 |
 | D — Information | 4 | All (at meeting) | — |
-| **Total** | **17** | **6 + 4 info** | **7** |
+| **Total** | **18** | **7 + 4 info** | **7** |
 
 ---
 
@@ -78,5 +79,5 @@ If IRS-CI takes only one action from this meeting, it should be:
 These two record sets will definitively establish: (1) whether a Navy pension was paid post-mortem and to whom, and (2) who accessed and filed on the deceased's tax identity for 4.75 years. Every other investigative track depends on these foundational facts.
 
 ---
-*Cross-references: Tab 6 (MLAT Map) | Tab 1 (Executive Summary request) | Tab 5 (E-01 through E-27)*
-*Source: Zeus AI Evidence Architecture — commit-tracked, 405+ protocols*
+*Cross-references: Tab 6 (MLAT Map) | Tab 1 (Executive Summary request) | Tab 5 (E-01 through E-40) | ASK-PB1 (Phantom Business)*
+*Source: Zeus AI Evidence Architecture — commit-tracked, 406+ protocols*
