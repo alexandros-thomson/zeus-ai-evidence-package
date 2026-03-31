@@ -2,7 +2,7 @@
 
 > **IRS-CI Case 26236541** | SA Clint Zacheranik + SA Henry Pletscher | Detroit Field Office
 > **Status**: SKELETON — Exhibit IDs assigned, source PDFs mapped, custody notes pending
-> **Build Date**: 31/03/2026 (Day 1,752) | **Updated**: 31/03/2026 08:00 EDT | **Target**: Apr 7-11 full build | **Delivery**: Apr 20 Roseville meeting
+> **Build Date**: 31/03/2026 (Day 1,752) | **Updated**: 31/03/2026 08:00 EDT | **Target**: Apr 7-11 full build | **Delivery**: Apr 21 Roseville meeting
 > **Protocol Count**: 408+ | **EPPO Cases**: PP.00179, PP.00267, PP.00281, PP.00310, PP.00464
 
 ## STRUCTURE
@@ -140,7 +140,7 @@ Three evidentiary lanes, mirroring Tab 2 (Contradiction Queue) and Tab 3 (Timeli
 | **e-Paravolo** | Transaction RF57905105009500149478765, verifiable via gov.gr |
 | **EFKA DMS** | Protocol 613493, barcode 00019839693 |
 | **GLK SIDE** | Protocol 47336 EI 2026 |
-| **Print format** | Apr 18-19: 3 binders + USB for Apr 20 meeting |
+| **Print format** | Apr 19-20: 3 binders + USB for Apr 21 meeting |
 
 ---
 
