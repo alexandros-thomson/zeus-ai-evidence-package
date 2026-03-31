@@ -144,11 +144,11 @@ Three evidentiary lanes, mirroring Tab 2 (Contradiction Queue) and Tab 3 (Timeli
 
 ---
 
-## OPEN EXHIBIT RETRIEVAL STATUS
+## EXHIBIT RETRIEVAL STATUS
 
 | Exhibit | Status | Location | Action Required |
 |---------|--------|----------|----------------|
-| **E-09** | OPEN | ΑΠΔΠΧ eServices portal (eservices.dpa.gr) > Απαντητικά έγγραφα | Login via Taxisnet required. User must screenshot rejection document Reference #400 dated 30/03/2026. |
-| **E-39** | OPEN | myAADE portal push notification (not email). Searched myAADE > Τα μηνύματά μου (2 pages) — not found. POS registry (pos-web) shows AFM 051422558 active as of 31/03/2026 — evidentiary screenshot captured. | User must check myAADE mobile app notifications or myAADE > Ειδοποιήσεις for Α.1058/2026 push alert. Alternatively, screenshot POS registry page as proxy evidence. |
+| **E-09** | CLOSED | APDPX eServices portal (eservices.dpa.gr) > Apantitika eggrafa. PDF retrieved 31/03/2026. Source: ARKhE-PROSTASIAS-DEDOMENON-PROSOPIKOU-KhARAKTERA.pdf (4pp). Complaint Prot. 1086 (09/03/2026). Refs Prot. 1314, 2992. DPA narrows scope, does not investigate. | PDF uploaded. |
+| **E-39** | CLOSED | myAADE portal push notification. Screenshot uploaded 31/03/2026. POS registry confirms AFM 051422558 ENERGH as of 31/03/2026. A.1058/2026 compliance obligation captured. | Screenshot uploaded. |
 
 > **LOCKED RULE**: Factual deltas only. No stylistic rewriting of existing exhibits.
