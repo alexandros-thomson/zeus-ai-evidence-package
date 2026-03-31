@@ -1,6 +1,6 @@
 # TAB 3: MASTER TIMELINE
 
-**28 Critical Events — Chronological Sequence Establishing Criminal Intent**
+408+**29 Critical Events — Chronological Sequence Establishing Criminal Intent**
 
 Each entry includes a verifiable date, the actors involved, the act or omission, and the evidentiary significance for IRS-CI purposes. Cross-references to Tab 2 (Contradiction Matrix) and Tab 5 (Evidence Index) are noted where applicable.
 
@@ -27,18 +27,19 @@ Each entry includes a verifiable date, the actors involved, the act or omission,
 | T-15 | 26/02/2026 | Lyrakis SLAPP threat — demands complaint withdrawal | Notary Lyrakis | Threatens moral damages lawsuit. Claims Contract 6020 involves "different parties." Protocol 166 vs 136 mismatch in same document. | E-04, E-07, E-15 |
 | T-16 | 03/02/2026 | AADE directs victim to contact removed rep | AADE Ticket 4-1770119462538 | 20 days after removing Efthalia, AADE tells victim to contact "your tax representative." Self-refuting. | E-21 |
 | T-17 | 09/03/2026 | Kaklamanou confirms Navy pension existed | EFKA Local A Piraeus | Vasiliki Kaklamanou: "ήταν συνταξιούχος ΠΝ" — John was a Navy pensioner. | E-01 |
-| T-18 | 11/03/2026 | **IRS-CI interview — Roseville, Michigan** | SA Zacheranik, SA Pletscher | In-person meeting. Case 26236541. Agents request follow-up meeting week of April 20. | E-27 |
+| T-18 | 11/03/2026 | **IRS-CI interview — Roseville, Michigan** | SA Zacheranik, SA Pletscher | In-person meeting. Case 26236541. Agents request follow-up meeting week of April 21. | E-27 |
 | T-19 | 11–16/03/2026 | Papastavrou denies pension (3 separate emails) | EFKA Central (Papastavrou) | "ουδέποτε έλαβε σύνταξη" — NEVER received pension. Direct contradiction of T-17 within 48 hours. | E-02, E-03 |
 | T-20 | 16/03/2026 | Same-day institutional split | ΥΠΕΣ + Αποκεντρωμένη | ΥΠΕΣ: "no legal defect." Αποκεντρωμένη: ΕΠΕΙΓΟΝ compliance order. Opposite conclusions, same day, same certificate. | E-12, E-13 |
 | T-21 | 19/03/2026 | ΗΔΥΚΑ preservation demand sent | Complainant | Formal demand citing GDPR Art.5§1(στ), Art.32, and 18 USC §1519. 5-day deadline. | E-16 |
 | T-22 | 20/03/2026 | Αποκεντρωμένη threatens to archive as "abusive" | Αποκεντρωμένη Αττικής | 4 days after issuing ΕΠΕΙΓΟΝ order (T-20), same agency threatens complainant. Retaliation. | E-14, E-15 |
 | T-23 | 03/03–27/03/2026 | EFKA circular referral chain | EFKA — Multiple Directorates | 7 formal requests on complaint ΑΠ 419690 yield 4 circular redirections (Ntsonou→Sardeli→Papastavrou→Karagianni→D/nsi Anaferon). Zero substantive response. Systematic obstruction consuming statutory deadlines. | E-17 |
 | T-24 | 23–30/03/2026 | Day 1,744–1,751 filing salvo | Complainant | 5+ simultaneous filings across agencies. Art. 259 PK criminal complaint against Mayor Spetses. | E-20, E-21 |
-| T-25 | 30/03/2026 | IRS-CI confirms April 20 meeting | SA Zacheranik | Week of April 20, Roseville MI. This package prepared for that meeting. | E-27 |
+| T-25 | 30/03/2026 | IRS-CI confirms April 21 meeting | SA Zacheranik | Week of April 21, Roseville MI. This package prepared for that meeting. | E-27 |
 | T-26 | 1992 | **Phantom business registered on John's AFM** | AADE / Unknown | AFM 051422558 used to register business activity while John alive. Status ΕΝΕΡΓΗ (active) as of 2026. 43-day AADE silence on Δ210/Δ211 complaint. Chronologically between T-01 and T-02 — proves AFM was compromised decades before Contract 6020. | E-38 |
 
 | T-27 | 31/03/2026 | **myAADE pushes Α.1058/2026 compliance to phantom AFM** | AADE (automated) | At 1:00 AM, AADE's myAADE app pushes POS/card acceptance regulation to AFM 051422558. Proves AADE systems actively maintain phantom business as ΕΝΕΡΓΗ, generating real-time compliance obligations for dead person's AFM while ignoring Δ210/Δ211 complaint. System telling on itself. | E-39 |
 | T-28 | 31/03/2026 | **ΕΑΔ accepts ΟΧΛΗΣΗ on KAEK forgery** | Εθνική Αρχή Διαφάνειας | Protocol 20383 ΕΙ 2026. ΟΧΛΗΣΗ re Prot. 12460/12529 ΕΙ 2026 — Πλαστογραφία KAEK 050681726008/0/0. Art. 4 N.2690/1999 invoked (50-day deadline). References EFKA ΑΠ 613493. Day 1,752 escalation. | E-40 |
+| T-29 | 30/03/2026 | **ΕΦΚΑ Τσικνή second routing — ΓΔ Διεθνών Συνεργασιών activated** | ΕΦΚΑ (Τσικνή Αικατερίνη) | Second response for ΑΠ 609161 unified request (3/30/2026, 2:22 AM). Routed to 5 directorates including ΓΔ Διεθνών Συνεργασιών (International Cooperation) — a new directorate not in first routing. EFKA's international division now examining the case. | E-41 |
 
 ---
 
@@ -65,4 +66,4 @@ Death finally registered (T-09) but cover-up intensifies: consciousness-of-guilt
 
 ---
 *Cross-references: Tab 2 Contradiction Matrix (C-1 through C-9) | Tab 5 Evidence Index (E-01 through E-40)*
-*Source: Zeus AI Evidence Architecture — commit-tracked, 405+ protocols*
+*Source: Zeus AI Evidence Architecture — commit-tracked, 408+ protocols*
