@@ -21,7 +21,7 @@ This tab maps every actor identified in the evidence record, their role in the s
 
 | Actor | Identifier | Role | Key Acts/Omissions | Significance | Exhibits |
 |-------|-----------|------|-------------------|-------------|----------|
-| **AADE** (Greek Tax Authority) | Agency | Maintained deceased AFM as active | AFM 051422558 active 1,025 days post-mortem; issued ENFIA to dead person; issued DESYP Γ 87848 same day as €945K demand | Institutional facilitation of identity theft; 1992 phantom business on AFM still ΕΝΕΡΓΗ; 43-day silence on Δ210/Δ211 complaint | E-13, E-14, E-21, E-38 |
+| **AADE** (Greek Tax Authority) | Agency | Maintained deceased AFM as active | AFM 051422558 active 1,025 days post-mortem; issued ENFIA to dead person; issued DESYP Γ 87848 same day as €945K demand | Institutional facilitation of identity theft; 1992 phantom business on AFM still ΕΝΕΡΓΗ; 43-day silence on Δ210/Δ211 complaint | E-13, E-14, E-21, E-38, E-39 |
 | **ΕΦΚΑ** (Social Insurance) | Agency | Contradictory pension records; circular referrals | Kaklamanou confirms pension → Papastavrou denies × 3; 7 requests → 4 circular redirections → 0 answers | Obstruction of federal investigation | E-01, E-02, E-03, E-17 |
 | **Κτηματολόγιο** (Hellenic Cadastre) | Agency | 5 jurisdictional denials for KAEK 050681726008 | Denied jurisdiction 5 times; legal shutdown citing Art. 4 N.2690/1999; contradicted by Deputy Minister | Deliberate jurisdictional evasion | E-10, E-11, E-20 |
 | **Mayor of Spetses** | Municipal official | Non-compliance with death registration oversight | Failed to ensure timely processing of death registration; subject of Art. 259 PK criminal complaint | Dereliction of duty enabling downstream fraud | E-21 |
@@ -39,7 +39,7 @@ This tab maps every actor identified in the evidence record, their role in the s
 | **Michigan AG** | U.S. | State elder abuse | 2026-PA03191543458-A | State jurisdiction |
 | **Senator Slotkin** | U.S. | Congressional oversight | IMA00176193 | Political escalation |
 | **Εισαγγελία Πειραιά** | Greece | Criminal prosecution | ΑΒΜ 14678 | Greek criminal jurisdiction |
-| **ΕΑΔ** (Transparency Authority) | Greece | Administrative oversight | 17+ protocols | Greek administrative review |
+| **ΕΑΔ** (Transparency Authority) | Greece | Administrative oversight | 17+ protocols; Protocol 20383 ΕΙ 2026 (ΟΧΛΗΣΗ on KAEK forgery, Art. 4 N.2690/1999) | Greek administrative review |
 | **ΑΠΔΠΧ** (Data Protection) | Greece | GDPR enforcement | Art. 77 complaint filed | Data protection violations |
 | **ΥΠΕΣ** (Ministry of Interior) | Greece | Certificate oversight | ΑΠ 14693 — "no defect found" | Contradicts Αποκεντρωμένη (C-2) |
 | **Αποκεντρωμένη Αττικής** | Greece | Regional oversight | ΕΠΕΙΓΟΝ order, then threatened to archive as "abusive" | Self-contradiction (C-3) |
