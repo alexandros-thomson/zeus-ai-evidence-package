@@ -21,7 +21,7 @@ This tab maps every actor identified in the evidence record, their role in the s
 
 | Actor | Identifier | Role | Key Acts/Omissions | Significance | Exhibits |
 |-------|-----------|------|-------------------|-------------|----------|
-| **AADE** (Greek Tax Authority) | Agency | Maintained deceased AFM as active | AFM 051422558 active 1,025 days post-mortem; issued ENFIA to dead person; issued DESYP Γ 87848 same day as €945K demand | Institutional facilitation of identity theft | E-13, E-14, E-21 |
+| **AADE** (Greek Tax Authority) | Agency | Maintained deceased AFM as active | AFM 051422558 active 1,025 days post-mortem; issued ENFIA to dead person; issued DESYP Γ 87848 same day as €945K demand | Institutional facilitation of identity theft; 1992 phantom business on AFM still ΕΝΕΡΓΗ; 43-day silence on Δ210/Δ211 complaint | E-13, E-14, E-21, E-38 |
 | **ΕΦΚΑ** (Social Insurance) | Agency | Contradictory pension records; circular referrals | Kaklamanou confirms pension → Papastavrou denies × 3; 7 requests → 4 circular redirections → 0 answers | Obstruction of federal investigation | E-01, E-02, E-03, E-17 |
 | **Κτηματολόγιο** (Hellenic Cadastre) | Agency | 5 jurisdictional denials for KAEK 050681726008 | Denied jurisdiction 5 times; legal shutdown citing Art. 4 N.2690/1999; contradicted by Deputy Minister | Deliberate jurisdictional evasion | E-10, E-11, E-20 |
 | **Mayor of Spetses** | Municipal official | Non-compliance with death registration oversight | Failed to ensure timely processing of death registration; subject of Art. 259 PK criminal complaint | Dereliction of duty enabling downstream fraud | E-21 |
@@ -51,7 +51,7 @@ This tab maps every actor identified in the evidence record, their role in the s
 
 | Name | Identifier | Status | Harm Documented |
 |------|-----------|--------|-----------------|
-| **Ioannis "John" Kyprianos** | AFM 051422558, ΑΜ ΠΝ 39685 | Deceased 13/06/2021 | Identity exploited 4.75 years post-mortem; false tax filings; phantom property transactions |
+| **Ioannis "John" Kyprianos** | AFM 051422558, ΑΜ ΠΝ 39685 | Deceased 13/06/2021 | Identity exploited 4.75 years post-mortem; false tax filings; phantom property transactions; 1992 phantom business registered on AFM |
 | **Stamatina Kyprianos** | AFM 044594747, SSN on file with IRS-CI | Living, Roseville MI | AFM hijacked; €945K retaliatory demand; $24,016 H&R Block overcharges; 405+ protocols filed seeking remedy |
 | **Dimitrios "Kostas" Kyprianos** | Son | Support person | Family support capacity |
 
