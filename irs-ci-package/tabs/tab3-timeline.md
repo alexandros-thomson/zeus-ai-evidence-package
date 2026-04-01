@@ -1,6 +1,6 @@
 # TAB 3: MASTER TIMELINE
 
-**29 Critical Events — Chronological Sequence Establishing Criminal Intent**
+**30 Critical Events — Chronological Sequence Establishing Criminal Intent**
 
 Each entry includes a verifiable date, the actors involved, the act or omission, and the evidentiary significance for IRS-CI purposes. Cross-references to Tab 2 (Contradiction Matrix) and Tab 5 (Evidence Index) are noted where applicable.
 
@@ -40,6 +40,7 @@ Each entry includes a verifiable date, the actors involved, the act or omission,
 | T-27 | 31/03/2026 | **myAADE pushes Α.1058/2026 compliance to phantom AFM** | AADE (automated) | At 1:00 AM, AADE's myAADE app pushes POS/card acceptance regulation to AFM 051422558. Proves AADE systems actively maintain phantom business as ΕΝΕΡΓΗ, generating real-time compliance obligations for dead person's AFM while ignoring Δ210/Δ211 complaint. System telling on itself. | E-39 |
 | T-28 | 31/03/2026 | **ΕΑΔ accepts ΟΧΛΗΣΗ on KAEK forgery** | Εθνική Αρχή Διαφάνειας | Protocol 20383 ΕΙ 2026. ΟΧΛΗΣΗ re Prot. 12460/12529 ΕΙ 2026 — Πλαστογραφία KAEK 050681726008/0/0. Art. 4 N.2690/1999 invoked (50-day deadline). References EFKA ΑΠ 613493. Day 1,752 escalation. | E-40 |
 | T-29 | 30/03/2026 | **ΕΦΚΑ Τσικνή second routing — ΓΔ Διεθνών Συνεργασιών activated** | ΕΦΚΑ (Τσικνή Αικατερίνη) | Second response for ΑΠ 609161 unified request (3/30/2026, 2:22 AM). Routed to 5 directorates including ΓΔ Διεθνών Συνεργασιών (International Cooperation) — a new directorate not in first routing. EFKA's international division now examining the case. | E-41 |
+| T-30 | 15/04/2026 | **ISC hearing via Zoom** | ISC (corrected) | 9:30-11:00 AM CT (10:30 AM-12:00 PM ET). Date corrected from original scheduling. Two weeks before IRS-CI in-person meeting. | E-27 |
 
 ---
 
@@ -65,5 +66,5 @@ Death finally registered (T-09) but cover-up intensifies: consciousness-of-guilt
 **For IRS-CI**: The timeline demonstrates that the fraud was not opportunistic — it required deliberate, sustained action across multiple actors over 4+ years, followed by coordinated institutional obstruction when exposed. This satisfies the willfulness requirement under 26 USC §7201 and §7206.
 
 ---
-*Cross-references: Tab 2 Contradiction Matrix (C-1 through C-9) | Tab 5 Evidence Index (E-01 through E-40)*
-*Source: Zeus AI Evidence Architecture — commit-tracked, 408+ protocols*
+*Cross-references: Tab 2 Contradiction Matrix (C-1 through C-9) | Tab 5 Evidence Index (E-01 through E-45)*
+*Source: Zeus AI Evidence Architecture — commit-tracked, 412+ protocols*
