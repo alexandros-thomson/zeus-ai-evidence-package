@@ -1,83 +1,97 @@
 # TAB 7: ASK LIST
 
-**Specific Requests to IRS-CI — April 21, 2026 Meeting**
-
-Each ask is tied to a specific evidentiary need, the domestic failure that necessitates federal action, and the expected outcome. Asks are ordered by priority and grouped by action type.
-
----
-
-## CATEGORY A: MLAT REQUESTS (via DOJ/OIA)
-
-These require IRS-CI to initiate through DOJ Office of International Affairs.
-
-| # | Ask | Target Agency | Specific Record | Why Federal Action Required | Expected Outcome | Priority |
-|---|-----|--------------|----------------|---------------------------|-----------------|----------|
-| A-1 | Initiate MLAT Art. 9 request for ΕΦΚΑ/ΗΔΥΚΑ audit logs | ΕΦΚΑ / ΗΔΥΚΑ | All access logs, modification records, and pension disbursement records for AFM 051422558 (2021–2026) | 7 domestic requests → 4 circular referrals → 0 answers. Preservation demand (19/03/2026) met with silence. 18 USC §1519 implicated. | Resolves pension contradiction (C-1). Identifies post-mortem pension collector if pension existed. | **IMMEDIATE** |
-| A-2 | Initiate MLAT Art. 9 request for AADE TAXISnet logs | AADE | Complete access/modification logs for AFM 051422558 and AFM 044594747 (2021–2026) | ΚΕΦΟΚ sham closure (C-6). GDPR Art. 15 SAR partially deflected. | Identifies AIT.1 refund attempt actor (Jan 2026). Maps full unauthorized access scope. | **IMMEDIATE** |
-| A-3 | Initiate MLAT Art. 9 request for Lyrakis notarial file | Notarial Chamber of Piraeus | Contract 6020/2020 complete file, logbook entries, supporting documents | Lyrakis invoked GDPR as shield. SLAPP threat issued. Protocol mismatch (166 vs 136) unexplained. | Establishes whether John was party to 6020 and under what authority. | **IMMEDIATE** |
-| A-4 | Initiate MLAT for Κτηματολόγιο records | Hellenic Cadastre | KAEK 050681726008 and 051341530006 — full modification history | 5 jurisdictional denials contradicted by Deputy Minister (C-8). Legal shutdown invoked. | Maps property fraud chain tied to deceased U.S. citizen. | Within 30 days |
-| A-5 | Initiate MLAT for AADE DESYP internal file | AADE | Protocol Γ 87848 decision chain, €945K demand authorization | No domestic response. Same-day issuance of identity theft admission + retaliatory demand. | Establishes whether retaliation was coordinated at institutional level. | Within 30 days |
-| A-6 | Initiate MLAT for phantom business originating act + TAXISnet creation timestamp | AADE | Δ210 or equivalent registration filing for business on AFM 044594747 dated 26/05/1992; TAXISnet creation timestamp (database insertion date) vs. displayed start date; terminal ID or user account that created/migrated record; batch migration logs (1999–2005) | No physical Δ210 produced. 1992 date predates TAXISnet. Backdating theory: record may have been fabricated during digital migration. GDPR Art. 15 timestamp will prove or disprove. | Establishes earliest identity compromise date. If creation timestamp postdates 1992, proves forgery of public record (Art. 216 ΠΚ). Identifies originating actor. | **IMMEDIATE** |
+**Specific Requests to IRS-CI — April 21, 2026 In-Person Meeting**
+**SA Clint Zacheranik | SA Henry Pletscher | Roseville, Michigan**
 
 ---
 
-## CATEGORY B: DS AGENT ATHENS COORDINATION
+## SA ZACHERANIK FRAMING NARRATIVE
 
-These require IRS-CI to coordinate with Diplomatic Security at U.S. Embassy Athens.
+On June 13, 2021, John Kyprianos — a U.S. Navy veteran, Greek Navy veteran, and NATO service member — died in Roseville, Michigan. In the 1,752 days since, his identity has been exploited across two countries: a Greek notary failed to register his death for 1,025 days, enabling unauthorized persons to file false tax returns, access pension systems, attempt a €12,000 tax refund, and maintain a phantom business on his widow's AFM since 1992. On the U.S. side, H&R Block preparers filed returns claiming $24,016 in fabricated Foreign Tax Credits based on a negative $830,000 foreign income entry — a mathematical impossibility that no competent preparer could produce by accident.
 
-| # | Ask | Action | Expected Outcome | Priority |
-|---|-----|--------|-----------------|----------|
-| B-1 | Assign DS Agent Athens as liaison | Establish direct contact for MLAT facilitation and Greek agency interface | Accelerates MLAT execution; provides on-ground investigation support | **IMMEDIATE** |
-| B-2 | Request DS assessment of Lyrakis | Preliminary investigation of Notary Lyrakis, including practice history, disciplinary record, and connection to other fraud cases | Determines if Lyrakis pattern extends beyond this case | Within 30 days |
-| B-3 | Request DS assessment of ELTA/Efthalia | Assess Efthalia Kyprianou's ELTA employment and potential use of postal access | Employment context for aggravated identity theft charge | Within 30 days |
+His widow, Stamatina, has filed 411 documented protocols across 25 Greek agencies. The response: four circular referrals from ΕΦΚΑ, a sham closure from AADE, SLAPP threats from the notary, five contradictory denials from the cadastre, and 43 days of silence from six agencies on the phantom business complaint. The Greek Data Protection Authority archived its own investigation. Every domestic remedy is exhausted.
+
+What we are asking IRS-CI to do is straightforward: use MLAT Article 9 to compel the records that Greek agencies refuse to produce, coordinate with DS Agent Athens who is already aware, and assess the H&R Block preparers for criminal referral. The five asks below are the meeting deliverables. The full ask set (18 items) follows.
 
 ---
 
-## CATEGORY C: DOMESTIC U.S. ACTIONS
+## DAY-OF ASKS — TOP 5
 
-These are within IRS-CI direct authority.
+These are the five asks to resolve at the April 21 meeting.
 
-| # | Ask | Action | Expected Outcome | Priority |
-|---|-----|--------|-----------------|----------|
-| C-1 | Criminal referral assessment — H&R Block | Review Form 1116 with -$830,000 entry and $24,016 overstated credits (2021–2024) | Criminal referral under 26 USC §7206(1) and §7206(2) for tax preparer fraud | **IMMEDIATE** |
-| C-2 | Coordinate with AAA arbitration | Confirm awareness of AAA Case 01-26-0001-2493 (Kyprianos v. HRB Digital LLC) | Ensures criminal and civil tracks are synchronized. BerkowitzOliver LLP (Christina M. Wahl) is opposing counsel. | Within 30 days |
-| C-3 | IRS Transcript review — 2020–2024 | Full transcript pull for both SSNs (joint-to-widow transition) | Identifies all returns filed, credits claimed, and CP notices issued | **IMMEDIATE** |
-| C-4 | Coordinate with FBI IC3 | Confirm awareness of 4 IC3 complaints (lead: eaa5459ac668431abdb33a7f545c3282) | Ensures wire fraud / identity theft tracks are synchronized | Within 30 days |
-| C-5 | Coordinate with Michigan AG | Confirm awareness of elder abuse complaint 2026-PA03191543458-A | State-level elder abuse track | Within 30 days |
+| # | Ask | Target | Record / Action | Exhibit Anchor | Tab 6 Row | Expected Outcome |
+|---|-----|--------|----------------|----------------|-----------|-----------------|
+| **1** | Initiate MLAT Art. 9 for ΕΦΚΑ/ΗΔΥΚΑ audit logs | ΕΦΚΑ / ΗΔΥΚΑ | All access logs, modifications, pension records for AFM 051422558 (2021–2026) | **E-44** | Row 2 | Resolves pension contradiction. Identifies post-mortem collector. |
+| **2** | Initiate MLAT Art. 9 for AADE TAXISnet logs | AADE | Access/modification logs for AFM 051422558 and 044594747 (2021–2026) | **E-38, E-40** | Row 3 | Identifies AIT.1 refund actor. Maps unauthorized access. |
+| **3** | Initiate MLAT Art. 9 for phantom business originating act | AADE | 1992 registration act for AFM 044594747; TAXISnet creation timestamp; migration logs | **E-40** | Row 4 | If timestamp post-dates 1992 → forgery proven. Identifies originator. |
+| **4** | Assign DS Agent Athens as MLAT liaison | U.S. Embassy Athens | Establish direct coordination for Greek agency interface | **E-43, E-45** | Rows 2–9 | Accelerates MLAT execution. On-ground investigation support. |
+| **5** | Criminal referral assessment — H&R Block preparers | IRS-CI domestic | Review Form 1116 (-$830K), Weissgerber (P00694437), Worman | **E-45** | Row 10 | 26 USC §7206(1)/(2) referral for preparer fraud. |
 
 ---
 
-## CATEGORY D: INFORMATION REQUESTS TO IRS-CI
+## FULL ASK SET — 18 ASKS
+
+### Category A: MLAT Requests (via DOJ/OIA)
+
+| # | Ask | Target Agency | Record | Exhibit | Tab 6 Row | Priority |
+|---|-----|--------------|--------|---------|-----------|----------|
+| A-1 | MLAT Art. 9 — ΕΦΚΑ/ΗΔΥΚΑ audit logs | ΕΦΚΑ / ΗΔΥΚΑ | Audit logs, pension records, AFM 051422558 (2021–2026) | **E-44** | Row 2 | **DAY-OF #1** |
+| A-2 | MLAT Art. 9 — AADE TAXISnet logs | AADE | Access logs, AFM 051422558 + 044594747 (2021–2026) | **E-38, E-40** | Row 3 | **DAY-OF #2** |
+| A-3 | MLAT Art. 9 — Phantom business originating act | AADE | 1992 registration, TAXISnet timestamp, migration logs | **E-40** | Row 4 | **DAY-OF #3** |
+| A-4 | MLAT Art. 9 — Lyrakis notarial file | Notarial Chamber | Contract 6020/2020, logbook, supporting docs | **E-43** | Row 5 | Within 30 days |
+| A-5 | MLAT Art. 9 — Κτηματολόγιο records | Hellenic Cadastre | KAEK 050681726008, 051341530006 modification history | **E-22** | Row 6 | Within 30 days |
+| A-6 | MLAT Art. 9 — DESYP internal file | AADE | Protocol Γ 87848, €945K demand authorization | **E-39** | Row 8 | Within 30 days |
+
+### Category B: DS Agent Athens Coordination
+
+| # | Ask | Action | Exhibit | Tab 6 Row | Priority |
+|---|-----|--------|---------|-----------|----------|
+| B-1 | Assign DS Agent Athens as MLAT liaison | Direct contact, Greek agency interface | **E-43, E-45** | All | **DAY-OF #4** |
+| B-2 | DS assessment of Lyrakis | Practice history, disciplinary record, fraud pattern | **E-43** | Row 5 | Within 30 days |
+| B-3 | DS assessment of ELTA/Efthalia | Employment, postal access, identity theft context | **E-23** | Row 7 | Within 30 days |
+
+### Category C: Domestic U.S. Actions
+
+| # | Ask | Action | Exhibit | Tab 6 Row | Priority |
+|---|-----|--------|---------|-----------|----------|
+| C-1 | Criminal referral — H&R Block | Form 1116, -$830K, $24,016 credits, Weissgerber/Worman | **E-45** | Row 10 | **DAY-OF #5** |
+| C-2 | AAA arbitration coordination | Confirm awareness of Case 01-26-0001-2493 | **E-45** | Row 10 | Within 30 days |
+| C-3 | IRS transcript pull — 2020–2024 | Both SSNs, joint-to-widow transition | — | — | Within 30 days |
+| C-4 | FBI IC3 coordination | 4 IC3 complaints (lead: eaa5459ac668431abdb33a7f545c3282) | — | — | Within 30 days |
+| C-5 | Michigan AG coordination | Elder abuse complaint 2026-PA03191543458-A | — | — | Within 30 days |
+
+### Category D: Information Requests
 
 | # | Ask | Information Needed | Purpose |
-|---|-----|-------------------|---------|
-| D-1 | Case status update | Current status of IRS-CI Case 26236541 and any actions taken since March 11 interview | Align complainant actions with investigation |
-| D-2 | MLAT timeline estimate | Expected timeline for MLAT requests through DOJ/OIA | Set realistic expectations for Greek record production |
-| D-3 | Evidence submission protocol | Preferred format and method for submitting additional evidence as it becomes available | Ensure evidence is admissible and properly received |
-| D-4 | POA coordination | Confirm Tracy Liao (Form 2848) is coordinating with IRS-CI on domestic IRS matters | Prevent duplication of effort |
+|---|-----|--------------------|---------|
+| D-1 | Case status update | IRS-CI Case 26236541 status since March 11 interview | Align actions with investigation |
+| D-2 | MLAT timeline estimate | Expected DOJ/OIA processing time | Set realistic expectations |
+| D-3 | Evidence submission protocol | Preferred format for ongoing evidence delivery | Ensure admissibility |
+| D-4 | POA coordination | Confirm Tracy Liao (Form 2848) is coordinating | Prevent duplication |
 
 ---
 
-## SUMMARY OF ASKS
+## SUMMARY
 
-| Category | Count | Immediate | Within 30 Days |
-|----------|-------|-----------|----------------|
-| A — MLAT Requests | 6 | 4 | 2 |
-| B — DS Agent Athens | 3 | 1 | 2 |
-| C — Domestic U.S. | 5 | 2 | 3 |
-| D — Information | 4 | All (at meeting) | — |
-| **Total** | **18** | **7 + 4 info** | **7** |
+| Category | Count | Day-Of | Within 30 Days |
+|----------|-------|--------|----------------|
+| A — MLAT | 6 | 3 (#1–#3) | 3 |
+| B — DS Agent | 3 | 1 (#4) | 2 |
+| C — Domestic | 5 | 1 (#5) | 4 |
+| D — Info | 4 | All | — |
+| **Total** | **18** | **5 + 4 info** | **9** |
 
 ---
 
 ## THE CORE ASK
 
-If IRS-CI takes only one action from this meeting, it should be:
+If IRS-CI takes only one action from this meeting:
 
-> **Initiate MLAT Article 9 requests for ΕΦΚΑ/ΗΔΥΚΑ audit logs (A-1) and AADE TAXISnet access logs (A-2).**
+> **Initiate MLAT Article 9 requests for ΕΦΚΑ/ΗΔΥΚΑ audit logs (A-1) and AADE TAXISnet access logs (A-2) concurrently.**
 
-These two record sets will definitively establish: (1) whether a Navy pension was paid post-mortem and to whom, and (2) who accessed and filed on the deceased's tax identity for 4.75 years. Every other investigative track depends on these foundational facts.
+These two record sets definitively establish: (1) whether a Navy pension was paid post-mortem and to whom, and (2) who accessed and filed on the deceased's tax identity for 4.75 years. Every other investigative track depends on these foundational facts. The DS Agent in Athens is already aware and can facilitate execution.
 
 ---
-*Cross-references: Tab 6 (MLAT Map) | Tab 1 (Executive Summary request) | Tab 5 (E-01 through E-40) | ASK-PB1 (Phantom Business)*
-*Source: Zeus AI Evidence Architecture — commit-tracked, 408+ protocols*
+
+*Cross-references: Tab 6 (MLAT Map, Rows 1–10) | Tab 2 (Contradiction Matrix, C-1 through C-11) | Tab 5 (Exhibits E-01 through E-45)*
+*Source: Zeus AI Evidence Architecture | 411 protocols | commit-tracked*
