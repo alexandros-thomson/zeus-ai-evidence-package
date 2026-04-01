@@ -2,8 +2,8 @@
 
 > **IRS-CI Case 26236541** | SA Clint Zacheranik + SA Henry Pletscher | Detroit Field Office
 > **Status**: SKELETON — Exhibit IDs assigned, source PDFs mapped, custody notes pending
-> **Build Date**: 31/03/2026 (Day 1,752) | **Updated**: 31/03/2026 08:00 EDT | **Target**: Apr 7-11 full build | **Delivery**: Apr 21 Roseville meeting
-> **Protocol Count**: 408+ | **EPPO Cases**: PP.00179, PP.00267, PP.00281, PP.00310, PP.00464
+> **Build Date**: 31/03/2026 (Day 1,753) | **Updated**: 01/04/2026 19:00 EDT | **Target**: Apr 7-11 full build | **Delivery**: Apr 21 Roseville meeting
+> **Protocol Count**: 412+ | **EPPO Cases**: PP.00179, PP.00267, PP.00281, PP.00310, PP.00464
 
 ## STRUCTURE
 
@@ -99,25 +99,26 @@ Three evidentiary lanes, mirroring Tab 2 (Contradiction Queue) and Tab 3 (Timeli
 | **E-36** | govgr_document.pdf | govgr_document.pdf | 2026 | Gov.gr authenticated document |
 | **E-37** | declaration.pdf | declaration.pdf | Mar 2026 | Ypeuthyni Dilosi N.1599/1986 |
 
-### NEW EVIDENCE — Phantom Business Registration (Day 1,752 Discovery)
+### NEW EVIDENCE — Phantom Business Registration (Day 1,753 Discovery)
 
 | Exhibit | Title | Source PDF | Date | Key Fact |
 |---------|-------|------------|------|----------|
 | **E-38** | Phantom business on AFM 044594747 — ΕΝΕΡΓΗ since 1992 | AADE comregistry screenshot + Prot. 33077/33046/33047/33079/2026 | 1992 (discovered Jan 2026) | Someone registered a phantom ατομική επιχείρηση on Stamatina's AFM in 1992. Still marked ΕΝΕΡΓΗ 34 years later. ΚΑΝΟΝΙΚΟ VAT regime, Β-ΑΠΛΟΓΡΑΦΙΚΑ books, address: ΣΠΕΤΣΕΣ 0 ΤΚ:18050 (no street number). Filed to 6 agencies 16/02/2026 — DESYP, KEFODE Attikis, DOY A' Peiraia, Registry, kataggelies, SDOE. 43 days, zero responses. Pre-TAXISnet era creation = physical DOY filing. Mechanism enabling fraudulent E1 declarations and false FTCs ($24,016). Art. 216 PK (forgery), Art. 386 PK (fraud), 18 USC 1028A (aggravated identity theft), 26 USC 7206. Lane 2 Smoking Gun. |
 | **E-39** | myAADE push notification: Α.1058/2026 compliance obligation | myAADE-screenshot-31032026.png | 31/03/2026 | AADE pushes POS/card acceptance compliance update to AFM 051422558 at 1:00 AM — proving AADE systems actively maintain phantom business as ΕΝΕΡΓΗ, generating real-time compliance obligations for a dead person's AFM while ignoring Δ210/Δ211 complaint. Art. 66 N.4446/2016. Lane 2 Smoking Gun. |
 | **E-40** | ΕΑΔ Protocol 20383 ΕΙ 2026 — ΟΧΛΗΣΗ KAEK forgery | EAD-20383-protocol-confirmation.pdf | 31/03/2026 | Εθνική Αρχή Διαφάνειας accepts ΟΧΛΗΣΗ re Prot. 12460/12529 ΕΙ 2026 — Πλαστογραφία KAEK 050681726008/0/0 citing Art. 4 N.2690/1999 (50-day response obligation). References EFKA ΑΠ 613493. Protocol date 31/03/2026. Art. 259 PK (dereliction), Art. 216 PK (forgery). Lane 2 Smoking Gun. |
-
-
----
-
+| **E-41** | EFKA Tsikni second routing -- GD Diethnon Synergasion activated | tsikni-routing-2.pdf | 30/03/2026 | Second response for AP 609161 unified request (Tsikni Aikaterini, 2:22 AM). Routed to 5 directorates including GD Diethnon Synergasion (International Cooperation) -- new directorate not in first routing. EFKA's international division now examining the case. Lane 2 Supporting. |
+| **E-42** | APDPX Praxi 1314/2024 archival + supplemental rejection | ARKhE-PROSTASIAS-DEDOMENON-PROSOPIKOU-KhARAKTERA.pdf | 09/03/2026 | DPA archived HDYKA investigation (Praxi 1314/2024) then rejected supplemental complaint Prot. 1086 as "unrelated to controller under investigation." 4-page document. Refs Prot. 1314, 2992. Proves domestic data protection remedy exhausted. Lane 1 Supporting. |
+| **E-43** | Lyrakis notarial file -- Contract 6020/2020 (MLAT target) | Tab 6 Row 5 | Pending MLAT | Notarial Chamber file for Contract 6020/2020. Lyrakis invoked GDPR shield (Protocol 258). SLAPP threat issued. Protocol 166 vs 136 mismatch unexplained. MLAT Art. 9 compulsion required. Lane 3 Supporting. |
+| **E-44** | EFKA/HDYKA audit logs -- pension records (MLAT target) | Tab 6 Row 2 | Pending MLAT | Complete audit logs for AFM 051422558 -- access, modifications, pension disbursements (2021-2026). 7 formal requests produced 4 circular referrals and 0 substantive responses. Preservation demand (19/03/2026) met with silence. MLAT Art. 9 compulsion required. Resolves pension contradiction (C-1). Lane 3 Supporting. |
+| **E-45** | H&R Block preparer file -- Form 1116 fraud (AAA + IRS-CI) | AAA-Demand-for-Arbitration.pdf + Tab 6 Row 10 | 2021-2024 | Filed returns TY 2021-2024 with -$830K negative foreign income and $24,016 overstated FTCs. Weissgerber (P00694437) and Worman identified as preparers. AAA Case 01-26-0001-2493. ISC confirmed Apr 15 (9:30 AM CT). BerkowitzOliver LLP appeared as H&R Block counsel 26/03/2026. 26 USC 7206(1)/(2) referral basis. Lane 3 Smoking Gun. |
 ## EXHIBIT COUNT SUMMARY
 
 | Lane | Smoking Guns | Supporting | Total |
 |------|-------------|-----------|-------|
-| L1 — Contradiction | 7 (E-01 to E-07) | 4 (E-08 to E-11) | **11** |
-| L2 — Intent & Reaction | 9 (E-12 to E-17, E-38 to E-40) | 6 (E-18 to E-23) | **15** |
-| L3 — Treaty & Jurisdiction | 4 (E-24 to E-27) | 10 (E-28 to E-37) | **14** |
-| **TOTAL** | **20** | **20** | **40** |
+| L1 -- Contradiction | 7 (E-01 to E-07) | 5 (E-08 to E-11, E-42) | **12** |
+| L2 -- Intent & Reaction | 9 (E-12 to E-17, E-38 to E-40) | 7 (E-18 to E-23, E-41) | **16** |
+| L3 -- Treaty & Jurisdiction | 5 (E-24 to E-27, E-45) | 12 (E-28 to E-37, E-43, E-44) | **17** |
+| **TOTAL** | **21** | **24** | **45** |
 
 ---
 
