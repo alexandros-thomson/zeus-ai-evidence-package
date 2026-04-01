@@ -7,9 +7,9 @@
 
 ## SA ZACHERANIK FRAMING NARRATIVE
 
-On June 13, 2021, John Kyprianos — a U.S. Navy veteran, Greek Navy veteran, and NATO service member — died in Roseville, Michigan. In the 1,752 days since, his identity has been exploited across two countries: a Greek notary failed to register his death for 1,025 days, enabling unauthorized persons to file false tax returns, access pension systems, attempt a €12,000 tax refund, and maintain a phantom business on his widow's AFM since 1992. On the U.S. side, H&R Block preparers filed returns claiming $24,016 in fabricated Foreign Tax Credits based on a negative $830,000 foreign income entry — a mathematical impossibility that no competent preparer could produce by accident.
+On June 13, 2021, John Kyprianos — a U.S. Navy veteran, Greek Navy veteran, and NATO service member — died in Roseville, Michigan. In the 1,753 days since, his identity has been exploited across two countries: a Greek notary failed to register his death for 1,025 days, enabling unauthorized persons to file false tax returns, access pension systems, attempt a €12,000 tax refund, and maintain a phantom business on his widow's AFM since 1992. On the U.S. side, H&R Block preparers filed returns claiming $24,016 in fabricated Foreign Tax Credits based on a negative $830,000 foreign income entry — a mathematical impossibility that no competent preparer could produce by accident.
 
-His widow, Stamatina, has filed 411 documented protocols across 25 Greek agencies. The response: four circular referrals from ΕΦΚΑ, a sham closure from AADE, SLAPP threats from the notary, five contradictory denials from the cadastre, and 43 days of silence from six agencies on the phantom business complaint. The Greek Data Protection Authority archived its own investigation. Every domestic remedy is exhausted.
+His widow, Stamatina, has filed 412 documented protocols across 25 Greek agencies. The response: four circular referrals from ΕΦΚΑ, a sham closure from AADE, SLAPP threats from the notary, five contradictory denials from the cadastre, and 43 days of silence from six agencies on the phantom business complaint. The Greek Data Protection Authority archived its own investigation. Every domestic remedy is exhausted.
 
 What we are asking IRS-CI to do is straightforward: use MLAT Article 9 to compel the records that Greek agencies refuse to produce, coordinate with DS Agent Athens who is already aware, and assess the H&R Block preparers for criminal referral. The five asks below are the meeting deliverables. The full ask set (18 items) follows.
 
@@ -94,4 +94,4 @@ These two record sets definitively establish: (1) whether a Navy pension was pai
 ---
 
 *Cross-references: Tab 6 (MLAT Map, Rows 1–10) | Tab 2 (Contradiction Matrix, C-1 through C-11) | Tab 5 (Exhibits E-01 through E-45)*
-*Source: Zeus AI Evidence Architecture | 411 protocols | commit-tracked*
+*Source: Zeus AI Evidence Architecture | 412 protocols | commit-tracked*
