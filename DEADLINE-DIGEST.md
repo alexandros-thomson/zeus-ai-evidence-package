@@ -241,3 +241,11 @@ Calculated from 2026-03-26:
 *Day 1,747 | Protocol count: 390 | Google Sheet: synced #383-390 | GitHub: this commit | Six countries, three legal systems*
 
 *Perplexity Computer — Zeus AI Evidence Package — Justice for John (13/06/2021)*
+
+---
+## Protocol #410 — SENT 31/03/2026 22:27 EDT
+ΣΥΜΠΛΗΡΩΜΑΤΙΚΟ ΥΠΟΜΝΗΜΑ — Phantom Business — from stamatinakyprianou@gmail.com
+TO: Δίωξη Η.Ε. + ΣΔΟΕ + ΚΕΦΟΔΕ | BCC: ACS Athens, IRS-CI, Slotkin
+10-day deadline: 10/04/2026
+If silent → standalone ΑΠΔΠΧ Art.77 vs AADE + IRS-CI/EPPO supplement
+ΕΙΣ ΜΝΗΜΗΝ — Day 1,752
