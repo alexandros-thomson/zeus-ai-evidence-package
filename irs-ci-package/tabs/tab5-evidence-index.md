@@ -17,6 +17,16 @@ Three evidentiary lanes, mirroring Tab 2 (Contradiction Queue) and Tab 3 (Timeli
 
 ---
 
+## EXHIBIT A — NOTITIA CRIMINIS (Formal Criminal Notice)
+
+| Exhibit | Title | Source PDF | Date | Key Fact |
+|---------|-------|-----------|------|----------|
+| **E-A** | Notitia Criminis — Formal Criminal Notice Protocol | proto-source-docs/notitia_criminis_PROTO.pdf | Jan 2026 | Formal criminal notice under Greek/EU law — bridges Greek criminal jurisdiction to U.S. federal jurisdiction via IRS-CI. This is the foundational document that establishes the cross-border criminal dimension of the case. |
+
+> **Binder Placement:** This exhibit is positioned as Exhibit A (before the numbered exhibits) because it is the jurisdictional bridge document. It establishes that Greek authorities received formal criminal notice, creating the predicate for MLAT Article 9 compulsion.
+
+---
+
 ## LANE 1 — CONTRADICTION (Institutional Self-Contradiction)
 
 ### Smoking Guns
