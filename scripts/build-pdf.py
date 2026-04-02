@@ -15,6 +15,7 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import inch
 from reportlab.platypus import (
     SimpleDocTemplate, Paragraph, Spacer, PageBreak, Table, TableStyle,
+    LongTable,
 )
 from reportlab.lib import colors
 from reportlab.lib.enums import TA_CENTER
@@ -87,7 +88,7 @@ def build_table(rows, styles):
                 styled_row.append(Paragraph(str(cell), style))
         styled.append(styled_row)
     col_width = (7.0 * inch) / ncols
-    t = Table(styled, colWidths=[col_width] * ncols, repeatRows=1)
+    t = LongTable(styled, colWidths=[col_width] * ncols, repeatRows=1, splitInRow=1)
     t.setStyle(TableStyle([
         ("BACKGROUND", (0, 0), (-1, 0), colors.HexColor("#2d333b")),
         ("TEXTCOLOR", (0, 0), (-1, 0), colors.white),
