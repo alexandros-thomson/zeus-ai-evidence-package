@@ -66,6 +66,47 @@ Notary Georgios K. Lyrakis of Spetses is the **single point of failure** in the 
 
 **Without Contract 6020/2020, none of the above was possible.** Lyrakis created the instrument that powered the entire fraud machine.
 
+### Lyrakis Self-Contradiction: The Smoking Gun Email (24/10/2024)
+
+On October 24, 2024, Lyrakis sent Stamatina an email explicitly confirming the legal reality he had violated in Contract 6020/2020. In his own words, he stated that the property right should be corrected from "ΨΙΛΗ ΚΥΡΙΟΤΗΤΑ" (bare ownership) to "ΠΛΗΡΗ ΚΥΡΙΟΤΗΤΑ 100,00/100,00" (full ownership 100%) because the property was acquired as proika under the pre-N.1329/1983 provisions of Articles 1412 par.2 and 1414 of the Civil Code, by virtue of Proika Deed 2777/06-04-1972 (Notary Konstantinos Nik. Gidopoulos of Spetses), transcribed in the Spetses mortgage registry at volume 35, number 479. He further confirmed that under N.1329/1983, the proika reverted to the wife in full ownership, possession, and occupation per Article 56.
+
+**This is a devastating self-contradiction:**
+
+| Date | What Lyrakis Did | What It Proves |
+|---|---|---|
+| 11/09/2020 | Created Contract 6020/2020 splitting property into bare-ownership (Stamatina) / usufruct (Ioannis) | He applied a false property structure he knew was illegal |
+| 24/10/2024 | Emailed Stamatina confirming she has FULL OWNERSHIP 100% under N.1329/1983 | He admitted the split he created 4 years earlier was legally impossible |
+| 26/02/2026 | Issued SLAPP threat demanding complaint withdrawal | When confronted, he threatened rather than explained |
+
+**The timeline proves criminal intent, not error.** A notary who confirms full ownership in 2024 cannot claim he was unaware of it when he created the false split in 2020. The 4-year gap between the fraud (2020) and the admission (2024) demonstrates that Lyrakis knowingly maintained the false structure while it generated ENFIA charges, false E1/E2 declarations, and $24,016 in fraudulent Foreign Tax Credits.
+
+**Behavioral pattern: Gaslighting, delay, lies, obstruction.**
+- **2020**: Created the false bare-ownership/usufruct structure knowing N.1329/1983 made it impossible
+- **2021-2023**: Refused to process death registration for 1,025 days, using false pretexts
+- **23/02/2024**: Cited fabricated "birth location mismatch" (Νίκαια vs. Σπέτσες) as reason to refuse death registration — a pretext he knew was false because he had personally dealt with Ioannis in Contract 6020/2020
+- **24/10/2024**: Casually admitted Stamatina has FULL OWNERSHIP 100% — contradicting his own 2020 deed
+- **26/02/2026**: Issued SLAPP threat (moral damages + complaint withdrawal demand) instead of addressing the substance
+- **Protocol 166 vs 136 mismatch**: 30-number protocol gap in the same document remains unexplained
+
+This is not negligence. This is a deliberate pattern of creating a fraudulent instrument, delaying its exposure for years, and then threatening the victim when caught.
+
+### The 319/320 KAD Fraud: 14-Year False Tax Residency
+
+The false usufruct structure enabled a 14-year tax residency fraud:
+
+- **KAD 319** (Greek tax resident) was applied to Ioannis Kyprianos's tax filings instead of **KAD 320** (foreign/U.S. resident)
+- Ioannis was a U.S. citizen, U.S. Navy veteran, and permanent Michigan resident — he was never a Greek tax resident
+- KAD 319 generated Greek tax obligations (ENFIA, income tax) that were then used as the basis for claiming Foreign Tax Credits on U.S. returns
+- The false "usufruct" created by Lyrakis in Contract 6020/2020 provided the fictional property income that justified the KAD 319 classification
+- AADE Prot. 214142 is the formal rebuttal documenting this 319/320 fraud
+
+**The fraud chain**: Lyrakis false usufruct (2020) → KAD 319 instead of 320 → false ENFIA/E1 to deceased → H&R Block imports as Form 1116 FTCs → $24,016 in fraudulent credits on U.S. returns
+
+**Filed complaints documenting 319/320 fraud:**
+- ΑΕΑΔ (Transparency Authority): Πρωτ. 5135/2026 — Supplemental evidence filed 11/02/2026 connecting forged notarial/cadastral declarations to the 319/320 fraud scheme. Filed with dms@aead.gr and inspector@imepo.gr.
+- ΔΕΣΥΠ ΑΑΔΕ: Πρωτ. 5534 ΕΞ 2026 (12/02/2026)
+- MinDigital: Πρωτ. 2943 ΕΙ 2026 (27/01/2026) — "Urgent complaint: Systematic tax fraud & inheritance theft — AFM 051422558/044594747 — Connection to Spetses case 2024" filed with Sec. Digital Governance, received via official DMS (protocol@mindigital.gr)
+
 ### Disciplinary Complaint Filed
 
 **Prot. 166/13.02.2026** — Disciplinary complaint filed with Notarial Association (Georgios Gennadiou 4, Athens) under N. 2830/2000, Articles 42-55. Five disciplinary offenses charged:
@@ -146,11 +187,12 @@ See: `modules/PHANTOM-BUSINESS-1992-module.md` and `tabs/ASK-PB1-binder-tab7.md`
 | ΕΑΔ | Protocol 20383, 20560 | Mar 2026 | ΟΧΛΗΣΗ issued on KAEK forgery |
 | Συνήγορος του Πολίτη | Πρωτ. 24130 | 31/03/2026 | Case accepted (#407) |
 | Συμβολαιογραφικός Σύλλογος | Πρωτ. 166/13.02.2026 | 13/02/2026 | Received, forwarded to Lyrakis same day. Association confirmed no disciplinary jurisdiction (Art. 56 §1, Art. 67 N.2830/2000) — jurisdiction lies with Εισαγγελέας Πρωτοδικών. Lyrakis may respond within 10 days but is not obligated. |
+| ΑΕΑΔ (Transparency Authority) | Πρωτ. 5135/2026 | 11/02/2026 | Supplemental evidence connecting forged notarial declarations to 319/320 fraud. Filed with dms@aead.gr and inspector@imepo.gr. |
+| MinDigital (Sec. Digital Governance) | Πρωτ. 2943 ΕΙ 2026 | 27/01/2026 | Urgent complaint re systematic tax fraud & inheritance theft. Received via official DMS (protocol@mindigital.gr). 
 
-**Total agencies notified: 8+**
+**Total agencies notified: 10+**
 **Total protocols on death registration issue: 50+**
 **Substantive responses addressing the 1,025-day gap: 0**
-
 ---
 
 ## For IRS-CI: The One-Sentence Summary
