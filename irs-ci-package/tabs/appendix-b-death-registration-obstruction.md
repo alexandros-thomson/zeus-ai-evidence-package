@@ -48,6 +48,38 @@ Notary Georgios K. Lyrakis of Spetses is the **single point of failure** in the 
 | U.S. | 18 USC §1343 | Wire fraud |
 | U.S. | 18 USC §1028A | Aggravated identity theft |
 
+### The Proika Mechanism: How Lyrakis Created the Fraud Tool
+
+**Contract 2777/06-04-1972** (Proika/Dowry Deed): The Spetses property (KAEK 05134000000508766) was given as proika to Stamatina's husband Ioannis. Under pre-1983 law, the husband held formal title, but the property remained the wife's dowry asset.
+
+**N. 1329/1983, Article 57**: On 18/02/1983, full ownership reverted automatically (*ipso jure*) to Stamatina — no tax, no deed, no transfer required. Confirmed by Areios Pagos (AP 19/1992). From that date, Ioannis had **zero property rights** — no full ownership, no bare ownership, no usufruct.
+
+**What Lyrakis did in Contract 6020/2020**: Applied a false bare-ownership/usufruct split — assigning Stamatina "bare ownership" (downgrading her existing 100% ownership) and Ioannis "usufruct" (creating a property right from nothing for a person who had none since 1983). This false structure enabled:
+
+| # | Consequence | How the False "Usufruct" Enabled It |
+|---|---|---|
+| 1 | ENFIA issued to deceased (2020-2025) | AADE issued ENFIA to AFM 051422558 as "usufructuary" — without false usufruct, no ENFIA would issue to him |
+| 2 | False E1/E2 declarations | KAD 319 (Greek resident) used instead of 320 (U.S. resident) based on fabricated income from "usufruct" |
+| 3 | False Foreign Tax Credits ($24,016) | ENFIA amounts transferred to IRS Form 1116 as "taxes paid in Greece" |
+| 4 | AIT.1 refund activation on deceased | "Usufruct" justified tax issues on AFM 051422558, creating basis for ~EUR12,000 refund attempt |
+| 5 | False KT5-23 cadastral declaration (28/08/2019) | Efthalia Kyprianou (AFM 052822816) filed cadastral declaration based on the false ownership structure |
+
+**Without Contract 6020/2020, none of the above was possible.** Lyrakis created the instrument that powered the entire fraud machine.
+
+### Disciplinary Complaint Filed
+
+**Prot. 166/13.02.2026** — Disciplinary complaint filed with Notarial Association (Georgios Gennadiou 4, Athens) under N. 2830/2000, Articles 42-55. Five disciplinary offenses charged:
+
+1. Refusal to process death registration — 5-year obstruction (PK 259, N. 2830/2000 Art. 42)
+2. False property rights structure — bare-ownership/usufruct split violating N. 1329/1983 (PK 242)
+3. Creating the basis for tax fraud — false "usufruct" enabled false ENFIA, E1, FTCs (PK 386)
+4. Obstruction of inheritance succession — death registration refusal blocked widow's rights (PK 216)
+5. Enabling deceased identity theft — without death registration, AFM 051422558 stayed active 4.75 years (PK 259, GDPR Art. 17)
+
+**Association Response (16/02/2026)**: Confirmed receipt, forwarded to Lyrakis same day. Stated they lack disciplinary jurisdiction — under Art. 56 par.1 and Art. 67 N. 2830/2000, disciplinary prosecution belongs exclusively to the competent Eisangeleas Protodikou (Piraeus). Lyrakis may respond within 10 days but is not obligated. Note: notaries@hellenicnotaryassociation.gr email delivery failed permanently — complaint was re-sent and received via notaries@notariat.gr.
+
+**IRS-CI Relevance**: The disciplinary complaint establishes that the complainant raised the false ownership structure issue formally in Greece on 13/02/2026 — before the IRS-CI case meeting. The Notarial Association's deflection to the Eisangeleas confirms that Lyrakis's acts require criminal-level scrutiny, not just administrative discipline. This supports the MLAT Art. 9 request for Lyrakis's notarial file (Tab 6, Row 5).
+
 ---
 
 ## Municipal Failure: Δήμος Σπετσών
@@ -113,8 +145,9 @@ See: `modules/PHANTOM-BUSINESS-1992-module.md` and `tabs/ASK-PB1-binder-tab7.md`
 | AADE/DESYP | Γ 87848 | Feb 2026 | Acknowledged identity theft, same day as €945K demand |
 | ΕΑΔ | Protocol 20383, 20560 | Mar 2026 | ΟΧΛΗΣΗ issued on KAEK forgery |
 | Συνήγορος του Πολίτη | Πρωτ. 24130 | 31/03/2026 | Case accepted (#407) |
+| Συμβολαιογραφικός Σύλλογος | Πρωτ. 166/13.02.2026 | 13/02/2026 | Received, forwarded to Lyrakis same day. Association confirmed no disciplinary jurisdiction (Art. 56 §1, Art. 67 N.2830/2000) — jurisdiction lies with Εισαγγελέας Πρωτοδικών. Lyrakis may respond within 10 days but is not obligated. |
 
-**Total agencies notified: 7+**
+**Total agencies notified: 8+**
 **Total protocols on death registration issue: 50+**
 **Substantive responses addressing the 1,025-day gap: 0**
 
