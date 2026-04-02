@@ -1,0 +1,73 @@
+name: Mirror Exhibits to Justice-for-John
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'irs-ci-package/exhibits/**'
+      - 'exhibits/**'
+      - 'evidence/**'
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    if: github.actor != 'github-actions[bot]'
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Detect changed exhibit files
+        id: changes
+        run: |
+          CHANGED=$(git diff --name-only HEAD~1 HEAD -- 'irs-ci-package/exhibits/' 'exhibits/' 'evidence/' | head -50)
+          if [ -z "$CHANGED" ]; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+            echo "files<<EOF" >> $GITHUB_OUTPUT
+            echo "$CHANGED" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Clone mirror target
+        if: steps.changes.outputs.skip != 'true'
+        run: |
+          git clone https://x-access-token:${{ secrets.MIRROR_PAT }}@github.com/Kypria-LLC/justice-for-john-automation.git /tmp/mirror
+        env:
+          MIRROR_PAT: ${{ secrets.MIRROR_PAT }}
+
+      - name: Copy changed files
+        if: steps.changes.outputs.skip != 'true'
+        run: |
+          mkdir -p /tmp/mirror/exhibits/proto-source-docs
+
+          # Copy exhibit PDFs and images
+          while IFS= read -r file; do
+            if [ -f "$file" ]; then
+              BASENAME=$(basename "$file")
+              cp "$file" "/tmp/mirror/exhibits/proto-source-docs/$BASENAME"
+              echo "Copied: $file -> exhibits/proto-source-docs/$BASENAME"
+            fi
+          done <<< "${{ steps.changes.outputs.files }}"
+
+      - name: Commit and push to mirror
+        if: steps.changes.outputs.skip != 'true'
+        run: |
+          cd /tmp/mirror
+          git config user.email "alexandros-thomson@users.noreply.github.com"
+          git config user.name "Zeus Mirror Bot"
+          git add exhibits/proto-source-docs/
+
+          if git diff --cached --quiet; then
+            echo "No new files to mirror"
+            exit 0
+          fi
+
+          SOURCE_SHA="${{ github.sha }}"
+          git commit -m "mirror: auto-sync exhibits from zeus-ai-evidence-package
+
+          Source commit: ${SOURCE_SHA:0:7}
+          Triggered by: ${{ github.event.head_commit.message }}"
+          git push
