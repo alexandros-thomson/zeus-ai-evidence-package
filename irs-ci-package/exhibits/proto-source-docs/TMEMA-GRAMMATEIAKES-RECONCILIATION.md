@@ -40,3 +40,27 @@
 - Tab 3 (Timeline): T-7 through T-10 (January 2026 filing burst)
 - Tab 5 (Evidence Index): E-14 (AFM hijacking), E-38 (phantom business)
 - MASTER-PROTOCOL-TRACKER: Rows #45–#52 (January 2026 MinDigital filings)
+
+---
+
+## UPDATE: 5th Tmema Variant Identified — Protocol 2943 ΕΙ 2026
+
+A 5th protocol receipt from Τμήμα Γραμματειακής Υποστήριξης has been identified:
+
+| # | File | Protocol # | Date | Notes |
+|---|------|-----------|------|-------|
+| 5 | 2943-EI-2026-Tmema-Grammateiakes-5th.pdf | 2943 ΕΙ 2026 | 27/01/2026 | 5th filing in the burst — falls between 2942 and 2951 in the sequence |
+
+This brings the total Tmema filings to **5 separate protocols** (2931, 2941, 2942, 2943, 2951) — all issued within the same burst on January 27, 2026. The 47-minute window now contains 5 coordinated filings to protocol@mindigital.gr.
+
+### STATUS: ALL 5 PROTOCOLS — RED (OVERDUE)
+
+All 5 Tmema protocols are **OVERDUE with ZERO substantive response**:
+- Filed: January 27, 2026
+- Current date: April 2, 2026
+- Days since filing: **65 days** (T+65)
+- Standard response obligation: 50 days (N.2690/1999 Art.4 — Kodikas Dioikitikis Diadikasias)
+- GDPR SAR deadline: 30 days (GKPD Art.12(3))
+- **All deadlines breached. Zero responses. Status: RED.**
+
+This silence across 5 separate, properly protocolled filings to MinDigital is not bureaucratic delay — it is documented institutional non-engagement that feeds directly into the IRS-CI binder (Tab 2: Pattern of Non-Response) and the ECHR Art.6/Art.13 record (denial of effective remedy).
