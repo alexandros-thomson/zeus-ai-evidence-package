@@ -41,7 +41,7 @@ These are the five asks to resolve at the April 21 meeting.
 | A-2 | MLAT Art. 9 — AADE TAXISnet logs | AADE | Access logs, AFM 051422558 + 044594747 (2021–2026) | **E-38, E-40** | Row 3 | **DAY-OF #2** |
 | A-3 | MLAT Art. 9 — Phantom business originating act | AADE | 1992 registration, TAXISnet timestamp, migration logs | **E-40** | Row 4 | **DAY-OF #3** |
 | A-4 | MLAT Art. 9 — Lyrakis notarial file | Notarial Chamber | Contract 6020/2020, logbook, supporting docs | **E-43** | Row 5 | Within 30 days |
-| A-5 | MLAT Art. 9 — Κτηματολόγιο records | Hellenic Cadastre | KAEK 050681726008, 051341530006 modification history | **E-22** | Row 6 | Within 30 days |
+| A-5 | MLAT Art. 9 — Κτηματολόγιο records + AIT.1 submitter data | Hellenic Cadastre | KAEK 050681726008, 051341530006 modification history; **AIT.1 form created 26/01/2021**: submitter credentials, IP address, payment method (€35 state fee), browser fingerprint | **E-22, E-49** | Row 6 | Within 30 days — CRITICAL: €35 payment trail identifies the unknown actor |
 | A-6 | MLAT Art. 9 — DESYP internal file | AADE | Protocol Γ 87848, €945K demand authorization | **E-39** | Row 8 | Within 30 days |
 
 ### Category B: DS Agent Athens Coordination
