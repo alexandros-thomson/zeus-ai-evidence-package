@@ -2,7 +2,7 @@
 
 > **IRS-CI Case 26236541** | SA Clint Zacheranik + SA Henry Pletscher | Detroit Field Office
 > **Status**: SKELETON — Exhibit IDs assigned, source PDFs mapped, custody notes pending
-> **Build Date**: 31/03/2026 (Day 1,753) | **Updated**: 01/04/2026 19:00 EDT | **Target**: Apr 7-11 full build | **Delivery**: Apr 21 Roseville meeting
+> **Build Date**: 03/04/2026 (Day 1,755) | **Updated**: 03/04/2026 | **Target**: Apr 7-11 full build | **Delivery**: Apr 21 Roseville meeting
 > **Protocol Count**: 412+ | **EPPO Cases**: PP.00179, PP.00267, PP.00281, PP.00310, PP.00464
 
 ## STRUCTURE
@@ -120,15 +120,17 @@ Three evidentiary lanes, mirroring Tab 2 (Contradiction Queue) and Tab 3 (Timeli
 | **E-42** | APDPX Praxi 1314/2024 archival + supplemental rejection | ARKhE-PROSTASIAS-DEDOMENON-PROSOPIKOU-KhARAKTERA.pdf | 09/03/2026 | DPA archived HDYKA investigation (Praxi 1314/2024) then rejected supplemental complaint Prot. 1086 as "unrelated to controller under investigation." 4-page document. Refs Prot. 1314, 2992. Proves domestic data protection remedy exhausted. Lane 1 Supporting. |
 | **E-43** | Lyrakis notarial file -- Contract 6020/2020 (MLAT target) | Tab 6 Row 5 | Pending MLAT | Notarial Chamber file for Contract 6020/2020. Lyrakis invoked GDPR shield (Protocol 258). SLAPP threat issued. Protocol 166 vs 136 mismatch unexplained. MLAT Art. 9 compulsion required. Lane 3 Supporting. |
 | **E-44** | EFKA/HDYKA audit logs -- pension records (MLAT target) | Tab 6 Row 2 | Pending MLAT | Complete audit logs for AFM 051422558 -- access, modifications, pension disbursements (2021-2026). 7 formal requests produced 4 circular referrals and 0 substantive responses. Preservation demand (19/03/2026) met with silence. MLAT Art. 9 compulsion required. Resolves pension contradiction (C-1). Lane 3 Supporting. |
-| **E-45** | H&R Block preparer file -- Form 1116 fraud (AAA + IRS-CI) | AAA-Demand-for-Arbitration.pdf + Tab 6 Row 10 | 2021-2024 | Filed returns TY 2021-2024 with -$830K negative foreign income and $24,016 overstated FTCs. Weissgerber (P00694437) and Worman identified as preparers. AAA Case 01-26-0001-2493. ISC confirmed Apr 15 (9:30 AM CT). BerkowitzOliver LLP appeared as H&R Block counsel 26/03/2026. 26 USC 7206(1)/(2) referral basis. Lane 3 Smoking Gun. |
+| **E-45** | H&R Block preparer file -- Form 1116 fraud (AAA + IRS-CI) | AAA-Demand-for-Arbitration.pdf + Tab 6 Row 10 | 2021-2024 | Filed returns TY 2021-2024 with -$830K negative foreign income and $24,016 overstated FTCs. Weissgerber (P00694437) and Worman identified as preparers. AAA Case 01-26-0001-2493. ISC confirmed Apr 15 (9:30 AM CT). BerkowitzOliver LLP appeared as H&R Block counsel 
+| **E-46** | ΚΕΦΟΔΕ Prot. 644726 — GDPR boilerplate deflection | KEFODE-644726-response.pdf | 2026 | Identical 3-paragraph template citing GDPR Art. 15/Reg. 2016/679 to deny KAEK ownership records. Same boilerplate as Prot. 502834 (E-47) despite completely different subject matter. Proves scripted obstruction. Lane 1 Supporting. |
+| **E-47** | ΚΕΦΟΔΕ Prot. 502834 — death/heir boilerplate deflection | KEFODE-502834-response.pdf | 2026 | Identical 3-paragraph template citing GDPR Art. 15/Reg. 2016/679 to deny death certificate/heir records. Same boilerplate as Prot. 644726 (E-46) despite completely different subject matter (GDPR vs death/heir). FBI IC3 identical-boilerplate anomaly. C-13 cross-ref. Lane 1 Supporting. |26/03/2026. 26 USC 7206(1)/(2) referral basis. Lane 3 Smoking Gun. |
 ## EXHIBIT COUNT SUMMARY
 
 | Lane | Smoking Guns | Supporting | Total |
 |------|-------------|-----------|-------|
-| L1 -- Contradiction | 7 (E-01 to E-07) | 5 (E-08 to E-11, E-42) | **12** |
+| L1 -- Contradiction | 7 (E-01 to E-07) | 7 (E-08 to E-11, E-42, E-46, E-47) | **14** |
 | L2 -- Intent & Reaction | 9 (E-12 to E-17, E-38 to E-40) | 7 (E-18 to E-23, E-41) | **16** |
 | L3 -- Treaty & Jurisdiction | 5 (E-24 to E-27, E-45) | 12 (E-28 to E-37, E-43, E-44) | **17** |
-| **TOTAL** | **21** | **24** | **45** |
+| **TOTAL** | **23** | **26** | **47** |
 
 ---
 
