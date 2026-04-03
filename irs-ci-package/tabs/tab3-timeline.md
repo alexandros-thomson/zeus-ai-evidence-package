@@ -16,7 +16,7 @@ Each entry includes a verifiable date, the actors involved, the act or omission,
 | T-04 | 13/06/2021 | **Death of Ioannis "John" Kyprianos** | — | Roseville, Michigan. Death reported to IRS. Michigan death certificate issued. Day 0 of the 1,751-day count. | E-16 |
 | T-05 | 2021–2023 | ENFIA property tax issued to deceased AFM | AADE | AFM 051422558 remains active. ENFIA obligations generated for a dead person for 3 consecutive years. | E-13 |
 | T-06 | 2021–2024 | False E1/E2 returns filed on deceased AFM | Accountant Papageorgiou | Income tax returns filed using dead person's tax identity. Named in FBI IC3 Complaint 4. | E-05 |
-| T-07 | 2021–2025 | Efthalia Kyprianou operates as unauthorized tax rep | Efthalia Kyprianou (ELTA employee) | AFM 052822816 listed as tax representative on deceased AFM for 4 years, 7 months. | E-14 |
+| T-07 | 2021–2025 | Efthalia Kyprianou operates as unauthorized tax rep | Efthalia Kyprianou (ELTA employee, self-inserted) | AFM 052822816 listed as tax representative on deceased AFM for 4 years, 7 months. | E-14 |
 | T-08 | 2021–2024 | H&R Block files Form 1116 with -$830,000 entry | H&R Block | Mathematically impossible negative foreign income. $24,016 in overstated credits (2021–2024). | E-25 |
 | T-09 | 03/04/2024 | **Death finally registered in Greek systems** | Lyrakis (forced) | 1,025 days after death. AFM 051422558 deactivated. This delay is the structural linchpin — without it, T-05 through T-08 could not have occurred. | E-16 |
 | T-10 | 24/10/2024 | Lyrakis email admits Stamatina owns 100% | Notary Lyrakis | Self-contradiction: same notary who executed Contract 6020 now confirms full ownership to widow. | E-05 |
