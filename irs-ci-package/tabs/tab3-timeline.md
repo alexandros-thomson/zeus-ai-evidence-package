@@ -22,7 +22,7 @@ Each entry includes a verifiable date, the actors involved, the act or omission,
 | T-10 | 24/10/2024 | Lyrakis email admits Stamatina owns 100% | Notary Lyrakis | Self-contradiction: same notary who executed Contract 6020 now confirms full ownership to widow. | E-05 |
 | T-11 | 26/01/2021 | AIT.1 cadastral form created (EUR 35) | Unknown | Created while John was alive. Dormant for 4 years, 11 months, 19 days. Activated T-13. | E-22 |
 | T-12 | 14/01/2026 | AADE removes Efthalia as unauthorized tax rep | AADE | Protocol 76022/20260114/45105. Formal admission of identity theft on deceased AFM. | E-21 |
-| T-13 | 14/01/2026 | **AIT.1 form activated — consciousness of guilt** | Unknown actor | Same day as T-12: dormant cadastral form activated, unauthorized myAADE access detected, KAEK manipulation. Panic response to removal order. | E-22 |
+| T-13 | 14/01/2026 | **AIT.1 form activated — consciousness of guilt** | Efthalia Kyprianou (self-inserted) or Renia Vlachou (accomplice) | Same day as T-12: dormant cadastral form activated, unauthorized myAADE access detected, KAEK manipulation. Panic response to removal order. | E-22 |
 | T-14 | 14/01/2026 | AADE issues DESYP Protocol Γ 87848 | AADE | Same day as €945,000 retaliatory tax demand. Agency admits identity theft while retaliating against victim. | — |
 | T-15 | 26/02/2026 | Lyrakis SLAPP threat — demands complaint withdrawal | Notary Lyrakis | Threatens moral damages lawsuit. Claims Contract 6020 involves "different parties." Protocol 166 vs 136 mismatch in same document. | E-04, E-07, E-15 |
 | T-16 | 03/02/2026 | AADE directs victim to contact removed rep | AADE Ticket 4-1770119462538 | 20 days after removing Efthalia, AADE tells victim to contact "your tax representative." Self-refuting. | E-21 |
