@@ -123,14 +123,36 @@ Three evidentiary lanes, mirroring Tab 2 (Contradiction Queue) and Tab 3 (Timeli
 | **E-45** | H&R Block preparer file -- Form 1116 fraud (AAA + IRS-CI) | AAA-Demand-for-Arbitration.pdf + Tab 6 Row 10 | 2021-2024 | Filed returns TY 2021-2024 with -$830K negative foreign income and $24,016 overstated FTCs. Weissgerber (P00694437) and Worman identified as preparers. AAA Case 01-26-0001-2493. ISC confirmed Apr 15 (9:30 AM CT). BerkowitzOliver LLP appeared as H&R Block counsel 
 | **E-46** | ΚΕΦΟΔΕ Prot. 644726 — GDPR boilerplate deflection | KEFODE-644726-response.pdf | 2026 | Identical 3-paragraph template citing GDPR Art. 15/Reg. 2016/679 to deny KAEK ownership records. Same boilerplate as Prot. 502834 (E-47) despite completely different subject matter. Proves scripted obstruction. Lane 1 Supporting. |
 | **E-47** | ΚΕΦΟΔΕ Prot. 502834 — death/heir boilerplate deflection | KEFODE-502834-response.pdf | 2026 | Identical 3-paragraph template citing GDPR Art. 15/Reg. 2016/679 to deny death certificate/heir records. Same boilerplate as Prot. 644726 (E-46) despite completely different subject matter (GDPR vs death/heir). FBI IC3 identical-boilerplate anomaly. C-13 cross-ref. Lane 1 Supporting. |26/03/2026. 26 USC 7206(1)/(2) referral basis. Lane 3 Smoking Gun. |
+
+### APRIL 2026 EVIDENCE — Deadline Expirations + MLAT Build (E-48 through E-63)
+
+| Exhibit | Title | Source PDF | Date | Key Fact |
+|---------|-------|------------|------|----------|
+| **E-48** | Αποκεντρωμένη contradiction capture — 18058 vs 19466 | E-48-apokentromeni-contradictory-02Apr2026.md | 02/04/2026 | Same agency issued ΕΠΕΙΓΟΝ (16/03) then threatened complainant as "καταχρηστική" (20/03). 4 days apart. Cross-ref C-3. Lane 1 Smoking Gun. |
+| **E-49** | AIT.1 creation date — 26/01/2021 (John alive) | E-49-AIT1-creation-26Jan2021.md | 26/01/2021 | KT5-23 legitimate refund notice issued while John was alive. Became the weapon: dormant 5 years, activation attempted 14/01/2026 = same day as complaint. Cross-ref E-22. Lane 2 Smoking Gun. |
+| **E-50** | Stamatina Naturalization Certificate | E-50-Stamatina-Naturalization-Certificate-25Aug2025.jpg | 25/08/2025 | U.S. citizenship documentation. Establishes U.S.-nexus jurisdiction for IRS-CI and MLAT. Lane 3 Supporting. |
+| **E-51** | DEI forensic — 5 meters on AFM 044594747 | Pending local export | Apr 2026 | Zero consumption Feb 2026, $1,312/yr tax burden, 61% of DEI bills = Greek taxes. 21,616 records. Proves phantom business has no real activity. Lane 2 Supporting. |
+| **E-52** | DEI forensic — meter-level analysis | Pending local export | Apr 2026 | Individual meter billing history showing no actual electricity use at Spetses address. Lane 2 Supporting. |
+| **E-53** | DEI forensic — tax component breakdown | Pending local export | Apr 2026 | Itemized breakdown showing Greek tax surcharges comprise majority of utility bills. Lane 3 Supporting. |
+| **E-54** | DEI forensic — 21,616 record summary | Pending local export | Apr 2026 | Full dataset summary for MLAT Tab 6 Row 7 (DEH records). Lane 3 Supporting. |
+| **E-55** | NBG Account 438 — banking nexus (MLAT target) | Tab 6 Row 6 | Pending MLAT | National Bank of Greece account linked to AFM 051422558. Transaction records needed to trace €35 Lyrakis payment, pension disbursements, and AIT.1 refund routing. MLAT Art. 9 compulsion required. Lane 3 Smoking Gun. |
+| **E-56** | EPPO PP.00736/2026/EN — 6th filing | PP_00736_2026_EN.pdf | 04/04/2026 | Sixth EPPO filing. Covers Pitsilis direct escalation + multi-channel obstruction evidence. Lane 3 Supporting. |
+| **E-57** | Pitsilis direct — AADE Governor letter | Protocol #445 | 04/04/2026 | Direct escalation to AADE Governor Γ. Πιτσιλής. Copied to IRS-CI. Lane 2 Supporting. |
+| **E-58** | DED Silent Rejections — Πρωτ. 33047 + 33079 | DED-SILENT-REJECTIONS-02042026.md + 33077_2026.pdf + 33079_2026.pdf | 01-02/04/2026 | AADE Σιωπηρή Απόρριψη on tax appeals. Dual-use: (1) grounds for Διοικ. Πρωτοδικείο suspension, (2) evidence of passive obstruction for MLAT justification. Lane 1 Supporting. |
+| **E-59** | Fax failure evidence — ΕΦΚΑ/ΝΑΤ | fax-failure-evidence-04Apr2026.jpg | 04/04/2026 | Fax to ΕΦΚΑ/ΝΑΤ failed — documents obstruction of even basic communication channels. Lane 1 Supporting. |
+| **E-60** | Πιστοποιητικό Πρωτοδικείου Πειραιά 5771/2026 | Pistopoiitiko_5771_2026_PROTODIKEIO_PIRAIA.pdf | 2026 | Court certificate from Πρωτοδικείο Πειραιά. Lane 3 Supporting. |
+| **E-61** | EFKA Tsikni ΑΠ 613493 — routing confirmation | EFKA-Tsikni-AP609161-routing-confirmation-30Mar2026.pdf + 613493.pdf | 30/03/2026 | Third routing confirmation. Unified request ΑΠ 609161 now at 6 directorates. International Cooperation directorate activated. Lane 2 Supporting. |
+| **E-62** | THE €35 QUESTION — Lyrakis trace | E-62-lyrakis-35-euro-trace.md | Oct 2024 | €35 payment to Lyrakis on dead man's AFM. 3 scenarios, all criminal. The thread that unravels the network. MLAT entry point. Cross-ref Tab 6 Row 5, Tab 7 A-7/A-8. Lane 2 Smoking Gun. |
+| **E-63** | Wahl/BerkowitzOliver silence memorandum | E-63-wahl-silence-memo.md | 04/04/2026 | AAA document exchange deadline expired. Zero production, zero communication, zero extension request from H&R Block counsel. Timestamped 17:59 ET. For ISC Apr 15. Lane 3 Supporting. |
+
 ## EXHIBIT COUNT SUMMARY
 
 | Lane | Smoking Guns | Supporting | Total |
 |------|-------------|-----------|-------|
-| L1 -- Contradiction | 7 (E-01 to E-07) | 7 (E-08 to E-11, E-42, E-46, E-47) | **14** |
-| L2 -- Intent & Reaction | 9 (E-12 to E-17, E-38 to E-40) | 7 (E-18 to E-23, E-41) | **16** |
-| L3 -- Treaty & Jurisdiction | 5 (E-24 to E-27, E-45) | 12 (E-28 to E-37, E-43, E-44) | **17** |
-| **TOTAL** | **23** | **26** | **47** |
+| L1 -- Contradiction | 7 (E-01 to E-07) | 10 (E-08 to E-11, E-42, E-46, E-47, E-48, E-58, E-59) | **17** |
+| L2 -- Intent & Reaction | 12 (E-12 to E-17, E-38 to E-40, E-49, E-55, E-62) | 10 (E-18 to E-23, E-41, E-51 to E-54, E-57, E-61) | **22** |
+| L3 -- Treaty & Jurisdiction | 5 (E-24 to E-27, E-45) | 17 (E-28 to E-37, E-43, E-44, E-50, E-56, E-60, E-63) | **22** |
+| **TOTAL** | **24** | **37** | **61** |
 
 ---
 
