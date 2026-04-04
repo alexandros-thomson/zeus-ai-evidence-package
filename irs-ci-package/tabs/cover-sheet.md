@@ -95,7 +95,7 @@ See Tab 6 for full MLAT mechanism and Tab 7 for 19 specific asks.
 
 ## PROTOCOL COUNT AT PACKAGE CREATION
 
-**445+** documented protocols across 30+ agencies, 6 countries  
+**445+** documented protocols across 30+ agencies in Greece, the U.S., and EU institutions  
 **Day 1,758** since John's death (13/06/2021)  
 **Recovery target:** €100,000–€210,000 / $110,000–$231,000
 

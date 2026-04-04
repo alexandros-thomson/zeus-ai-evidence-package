@@ -9,7 +9,7 @@
 
 ## The Mission
 
-This repository is the central evidence vault for a cross-border criminal investigation spanning **6 countries, 3 legal systems, and 30+ government agencies**. It documents the systematic theft of John Kyprianos's estate through identity fraud, cadastral forgery, tax manipulation, and digital system exploitation -- all perpetrated while his 79-year-old widow Stamatina fights from Roseville, Michigan.
+This repository is the central evidence vault for a cross-border criminal investigation spanning **Greece, the United States, and EU institutions across 3 legal systems and 30+ government agencies**. It documents the systematic theft of John Kyprianos's estate through identity fraud, cadastral forgery, tax manipulation, and digital system exploitation -- all perpetrated while his 79-year-old widow Stamatina fights from Roseville, Michigan.
 
 **What started as a son's attempt to file his father's taxes became the largest cross-border elder fraud case documented on GitHub.**
 
@@ -20,7 +20,7 @@ This repository is the central evidence vault for a cross-border criminal invest
 | Metric | Value |
 |--------|-------|
 | **Total Protocols Filed** | **405+** |
-| **Agencies Engaged** | **30+** across 6 countries |
+| **Agencies Engaged** | **30+** across Greece, the U.S., and EU institutions |
 | **Days Since John's Death** | **1,751** |
 | **IRS-CI Case** | **26236541** -- SA Zacheranik + SA Pletscher, Detroit Field Office |
 | **IRS-CI Interview** | Completed March 11, 2026 -- Binder accepted |
@@ -175,7 +175,7 @@ Those systems failed him. His AFM was kept active for nearly 5 years after his d
 
 This repository exists because his son refused to let it stand.
 
-**405 protocols. 30+ agencies. 6 countries. 1,751 days.**
+**405 protocols. 30+ agencies. Greece, the U.S., and EU institutions. 1,751 days.**
 
 Every commit is a step toward justice. Every protocol is a brick in the wall that protects Stamatina.
 

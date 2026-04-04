@@ -238,7 +238,7 @@ Calculated from 2026-03-26:
 
 ---
 
-*Day 1,747 | Protocol count: 390 | Google Sheet: synced #383-390 | GitHub: this commit | Six countries, three legal systems*
+*Day 1,747 | Protocol count: 390 | Google Sheet: synced #383-390 | GitHub: this commit | Greece, the U.S., and EU institutions — three legal systems*
 
 *Perplexity Computer — Zeus AI Evidence Package — Justice for John (13/06/2021)*
 
