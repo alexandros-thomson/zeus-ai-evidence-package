@@ -95,7 +95,7 @@ See Tab 6 for full MLAT mechanism and Tab 7 for 19 specific asks.
 
 ## PROTOCOL COUNT AT PACKAGE CREATION
 
-**445+** documented protocols across 30+ agencies in Greece, the U.S., and EU institutions  
+**445+** documented protocols across 30+ agencies spanning three jurisdictional layers: (1) Greece, (2) the United States, and (3) EU institutions — with a parallel U.S. arbitration channel
 **Day 1,758** since John's death (13/06/2021)  
 **Recovery target:** €100,000–€210,000 / $110,000–$231,000
 
