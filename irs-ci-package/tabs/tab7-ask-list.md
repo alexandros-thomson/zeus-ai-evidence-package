@@ -106,5 +106,33 @@ The Art.205 draft is written. The administrative remedies are exhausted (4× σ�
 
 ---
 
-*Cross-references: Tab 6 (MLAT Map, Rows 1–10) | Tab 2 (Contradiction Matrix, C-1 through C-11) | Tab 5 (Exhibits E-01 through E-45)*
-*Source: Zeus AI Evidence Architecture | 431 protocols | commit-tracked*
+## NEW EVIDENCE: BANKING FORENSICS (E-55–E-61) — Added 04 April 2026
+
+Since the last update, seven new exhibits have been committed documenting the complete financial forensics of the deceased's NBG bank account:
+
+| Exhibit | Title | Key Finding |
+|---|---|---|
+| **E-55** | COSMOTE payment evidence (NBG + Gmail + Portal) | Utility payments continuing from deceased's account |
+| **E-56** | Master Payment Registry NBG (DEH + COSMOTE + ENFIA + Klimatologio) | Complete payment mapping across all utilities and tax obligations |
+| **E-57** | ENFIA Fraud Timeline — Deceased Tax Generation | Tax authority generating obligations for dead person; 2022 ENFIA gap filled with verified NBG DOY transactions |
+| **E-58** | NBG DOY Payment Form — Active for Deceased Taxpayer | Bank payment form active for AFM 051422558 (deceased), confirming EUR 288.77 account balance |
+| **E-59** | Complete Post-Death Financial Forensics | **438 post-death transactions totaling EUR 21,616 extracted from deceased's NBG account** |
+| **E-60** | DEH Electricity — 5 Active Supplies in Deceased's Name | Five electricity contracts still billing post-mortem at Spetses |
+| **E-61** | DEH Overdue Payment via NBG | EUR 68.00 payment from estate account, transaction ID 90773700609422738218 |
+
+### Wire Fraud Significance (18 USC §1343)
+
+The 438 post-death transactions documented in E-59 establish the **wire fraud** element required under 18 USC §1343. The money moved through NBG (BIC: ETHNGRAA) — an internationally linked banking system connected to SWIFT, TARGET2, and SEPA networks. Each electronic transfer from the deceased's account constitutes a separate wire fraud count. The EUR 21,616 total represents quantified proceeds of identity theft conducted through international banking infrastructure.
+
+### New MLAT Ask: NBG Transaction Records
+
+| # | Ask | Target | Record | Exhibit | Priority |
+|---|---|---|---|---|---|
+| A-7 | MLAT Art. 9 — NBG complete transaction logs | National Bank of Greece | Full transaction history for IBAN GR0301104700000047074777757 (2021–2026); all debit authorizations, beneficiary details, IP/device logs for online banking sessions | **E-55–E-59** | **CRITICAL — Within 30 days** |
+| A-8 | MLAT Art. 9 — DEH account holder records | DEH (Public Power Corp) | Subscriber identity verification for 5 supply contracts (300009603644, 300009603779, 300009603711, 300009603574, 300010288362); who authorized post-mortem contract continuation | **E-60, E-61** | Within 30 days |
+
+**A-7 CONTEXT:** NBG account GR03...47074777757 shows 438 transactions after the account holder's death on 13/06/2021. Someone authorized debits, maintained the account, and extracted EUR 21,616. NBG's internal records will show: (a) who had online banking access credentials, (b) IP addresses and device fingerprints for each session, (c) who authorized standing orders and direct debits, (d) whether any power of attorney was registered post-mortem. This is the single most actionable MLAT request for identifying the wire fraud perpetrator.
+
+
+*Cross-references: Tab 6 (MLAT Map, Rows 1-10) | Tab 2 (Contradiction Matrix, C-1 through C-11) | Tab 5 (Exhibits E-01 through E-61)*
+*Source: Zeus AI Evidence Architecture | 433 protocols | 438 post-death transactions | EUR 21,616 extracted | commit-tracked*
