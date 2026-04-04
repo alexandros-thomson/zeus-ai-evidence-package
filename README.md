@@ -2,7 +2,7 @@
 
 > **In loving memory of Ioannis (John) Kyprianos** (1943-2021)
 > Hellenic Navy Veteran | NATO Service | U.S. Navy Veteran
-> Born in Spetses, Greece | Died June 13, 2021, Macomb County, Michigan, USA
+> Born in Nikea, Greece | Died June 13, 2021, Macomb County, Michigan, USA
 > **1,751 days post-mortem. His estate remains under siege. This repo is his shield.**
 
 ---
