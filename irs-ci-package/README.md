@@ -4,13 +4,13 @@
 **Prepared by:** Stamatina Kyprianos (also appearing in Greek records as Σταματίνα Κυπριανού)
 **Case References:** IRS-CI Case 26236541 | IRS Form 14157 | FBI IC3 eaa5459ac668431abdb33a7f545c3282
 **Subject:** Cross-Border Identity Theft, Tax Fraud & Estate Exploitation — AFM 051422558 (deceased) / AFM 044594747 (widow)
-**Meeting:** Week of April 20, 2026 — 16441 Waterman Dr, Roseville, MI 48066
+**Meeting:** April 21, 2026 (confirmed) — 16441 Waterman Dr, Roseville, MI 48066
 
 ## Package Contents
 
 | Tab | Title | Status |
 |-----|-------|--------|
-| Cover | Cover Sheet + Case Identifiers | Pending |
+| Cover | [Cover Sheet](tabs/cover-sheet.md) | ✅ Complete |
 | 1 | [Executive Summary](tabs/tab1-executive-summary.md) | ✅ Draft |
 | 2 | [Contradiction Matrix](tabs/tab2-contradiction-matrix.md) | ✅ Draft |
 | 3 | [Master Timeline](tabs/tab3-timeline.md) | ✅ Draft |
@@ -79,4 +79,4 @@ Generates `irs-ci-package/manifest.json` and updates Appendix A with SHA-256 has
 - Last updated: March 31, 2026
 - Target freeze: April 18, 2026
 - Meeting date: ~April 20, 2026
-- Protocol count at creation: 405+
+- Protocol count at creation: 445++
