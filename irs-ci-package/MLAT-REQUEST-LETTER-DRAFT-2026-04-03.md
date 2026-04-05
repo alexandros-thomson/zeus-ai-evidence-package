@@ -43,6 +43,20 @@ Between January 26, 2026 and April 3, 2026, the victim filed **435+ documented p
 
 This is not bureaucratic delay. It is coordinated non-production. MLAT Article 9 compulsion is the only remaining lawful path.
 
+### U.S. TREATY ENFORCEMENT FRAMEWORK
+
+Greece's non-compliance with domestic disclosure obligations directly implicates the following treaty and statutory enforcement mechanisms:
+
+- **26 U.S.C. § 7602**: IRS summons authority extends to any records relevant to determining the correctness of any return or the liability of any person for U.S. tax. The exploitation of AFM 051422558 generated false Form 1116 foreign tax credits ($24,016) on U.S. returns — making all Greek agency records relevant to IRS examination authority.
+
+- **U.S.-Greece Tax Convention, Article 26** (Exchange of Information): Greece is treaty-bound to exchange information necessary for carrying out the provisions of the Convention. The systematic withholding of pension records (ΕΦΚΑ/ΗΔΥΚΑ), tax audit logs (AADE/TAXISnet), and property records (Κτηματολόγιο) constitutes a de facto breach of Greece's Article 26 obligations.
+
+- **FATCA/CRS Obligations**: As a CRS participating jurisdiction, Greece is required to automatically exchange financial account information with the United States. The continued operation of banking accounts (NBG Account 438, 438 post-death transactions) in the name of a deceased U.S. citizen without flagging to U.S. authorities represents a failure of Greece's CRS reporting obligations.
+
+- **18 U.S.C. § 1519** (Destruction/Concealment): ΗΔΥΚΑ's refusal to produce or confirm the existence of audit logs after formal preservation demand constitutes potential obstruction of a federal investigation. This is not a Greek administrative matter — it is a U.S. federal crime.
+
+The consequence of continued Greek institutional non-cooperation is not merely administrative inconvenience for a U.S. taxpayer — it is the active frustration of U.S. treaty enforcement, IRS criminal investigation authority, and the rights of a U.S. citizen's estate under international law.
+
 ---
 
 ## III. RECORDS REQUESTED -- 12 COMPULSION TARGETS
