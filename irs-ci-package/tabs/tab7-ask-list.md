@@ -28,6 +28,7 @@ These are the five asks to resolve at the April 21 meeting.
 | **4** | Assign DS Agent Athens as MLAT liaison | U.S. Embassy Athens | Establish direct coordination for Greek agency interface | **E-43, E-45** | Rows 2–9 | Accelerates MLAT execution. On-ground investigation support. |
 | **5** | Criminal referral assessment — H&R Block preparers | IRS-CI domestic | Review Form 1116 (-$830K), Weissgerber (P00694437), Worman | **E-45** | Row 10 | 26 USC §7206(1)/(2) referral for preparer fraud. |
 | **6** | Greek legal representation via DS Athens | DS Agent Athens / ACS | Referral to administrative δικηγόρος for Art.205 filing at Πρωτοδικείο Πειραιώς | **E-23 v2** | — | Enables judicial suspension without Stamatina flying to Greece. |
+| **7** | NBG bank records for AFM 051422558 (post-mortem) | National Bank of Greece via MLAT | All transactions on John's account(s) from 13/06/2021 to present — payments, deposits (pension?), authorized signatories | **E-63** | — | Identifies who transacted on dead man's bank account. Pension deposits = post-mortem collection. €35 Κτηματολόγιο fee = unmasks AIT.1 actor. |
 
 ---
 
@@ -84,7 +85,7 @@ These are the five asks to resolve at the April 21 meeting.
 | B — DS Agent | 4 | 2 (#4, #6) | 2 |
 | C — Domestic | 5 | 1 (#5) | 4 |
 | D — Info | 4 | All | — |
-| **Total** | **19** | **6 + 4 info** | **9** |
+| **Total** | **20** | **7 + 4 info** | **9** |
 
 ---
 
