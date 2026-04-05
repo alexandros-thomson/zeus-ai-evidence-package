@@ -1,0 +1,5 @@
+debt_type,atb,tax_year,assessment_eur,balance_eur,afm_source,afm_charged,classification,status,monthly_report,notes
+Income Tax,251737-17/07/2024,2023,456.87,29.76,051422558,044594747,GHOST_E1_FILING,PARTIAL_PAID,July 2025,Deceased AFM ghost filing - refund with tokoi
+Income Tax,250329-15/07/2025,2024,555.32,0.00,051422558,044594747,GHOST_E1_FILING,PAID+WRITEOFF,July 2025,544.21 paid + 11.11 written off per law/decision
+ENFIA,625044-09/03/2025,2025,1090.87,636.98,044594747,044594747,LEGITIMATE,PARTIAL_PAID,July 2025,Property tax - legitimate obligation
+Income Tax,PRIOR_ATB,2022,308.05,0.00,051422558,044594747,GHOST_E1_FILING,PAID,April 2024,First ghost filing cycle - fully paid under duress
