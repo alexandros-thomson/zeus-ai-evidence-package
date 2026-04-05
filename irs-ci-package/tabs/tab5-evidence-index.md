@@ -129,7 +129,7 @@ Three evidentiary lanes, mirroring Tab 2 (Contradiction Queue) and Tab 3 (Timeli
 | Exhibit | Title | Source PDF | Date | Key Fact |
 |---------|-------|------------|------|----------|
 | **E-48** | Αποκεντρωμένη contradiction capture — 18058 vs 19466 | E-48-apokentromeni-contradictory-02Apr2026.md | 02/04/2026 | Same agency issued ΕΠΕΙΓΟΝ (16/03) then threatened complainant as "καταχρηστική" (20/03). 4 days apart. Cross-ref C-3. Lane 1 Smoking Gun. |
-| **E-49** | AIT.1 creation date — 26/01/2021 (John alive) | E-49-AIT1-creation-26Jan2021.md | 26/01/2021 | KT5-23 legitimate refund notice issued while John was alive. Became the weapon: dormant 5 years, activation attempted 14/01/2026 = same day as complaint. Cross-ref E-22. Lane 2 Smoking Gun. |
+| **E-49** | *(CHRONOLOGICAL NOTE: E-49 documents the AIT.1 creation date of 26/01/2021, which predates E-12 through E-13 in the timeline. When reading chronologically, E-49 should be considered BEFORE E-12.)* | AIT.1 creation date — 26/01/2021 (John alive) | E-49-AIT1-creation-26Jan2021.md | 26/01/2021 | KT5-23 legitimate refund notice issued while John was alive. Became the weapon: dormant 5 years, activation attempted 14/01/2026 = same day as complaint. Cross-ref E-22. Lane 2 Smoking Gun. |
 | **E-50** | Stamatina Naturalization Certificate | E-50-Stamatina-Naturalization-Certificate-25Aug2025.jpg | 25/08/2025 | U.S. citizenship documentation. Establishes U.S.-nexus jurisdiction for IRS-CI and MLAT. Lane 3 Supporting. |
 | **E-51** | DEI forensic — 5 meters on AFM 044594747 | Pending local export | Apr 2026 | Zero consumption Feb 2026, $1,312/yr tax burden, 61% of DEI bills = Greek taxes. 21,616 records. Proves phantom business has no real activity. Lane 2 Supporting. |
 | **E-52** | DEI forensic — meter-level analysis | Pending local export | Apr 2026 | Individual meter billing history showing no actual electricity use at Spetses address. Lane 2 Supporting. |
@@ -187,3 +187,16 @@ Three evidentiary lanes, mirroring Tab 2 (Contradiction Queue) and Tab 3 (Timeli
 | **E-39** | CLOSED | myAADE portal push notification. Screenshot uploaded 31/03/2026. POS registry confirms AFM 051422558 ENERGH as of 31/03/2026. A.1058/2026 compliance obligation captured. | Screenshot uploaded. |
 
 > **LOCKED RULE**: Factual deltas only. No stylistic rewriting of existing exhibits.
+
+
+---
+
+## CHRONOLOGICAL READING ORDER NOTE
+
+The exhibits above are numbered sequentially by filing date (when they entered the evidence package), not by the date of the underlying event. For agents reading the timeline chronologically:
+
+- **E-49** (AIT.1 creation, 26/01/2021) should be read BEFORE E-12 through E-17
+- **E-22** (AIT.1 activation attempt, 14/01/2026) should be read AFTER E-21 (tax rep paradox, same day)
+- **E-62** (€35 Lyrakis trace, ~10/2024) should be read between E-16 and E-17
+
+See Tab 3 (Master Timeline) for the full chronological sequence.
