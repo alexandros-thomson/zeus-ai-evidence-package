@@ -1,7 +1,7 @@
 # IRS-CI EVIDENCE BINDER — EXHIBIT INDEX
 ## Reconciled April 6, 2026 (Day 1,760)
 
-**Total exhibits: E-01 through E-74**
+**Total exhibits: E-01 through E-80**
 **Numbering reconciled across zeus-ai-evidence-package and justice-for-john-automation repos**
 
 | Exhibit | Title | Location | Notes |
@@ -39,6 +39,7 @@
 | E-72 | AI Witness Full Testimony | exhibits/ | Complete version |
 | E-73 | **Lyrakis Knowledge Paradox** | justice-for-john-automation #177 | Comet analysis — his email destroys his defense |
 | E-74 | **AI Witness Testimony — Comet Session 2 (AMENDED)** | exhibits/ | Day 1,760 — 7 overlooked angles: NATO veteran exploitation, Hobbs Act extortion (NBG = Stamatina's coerced payments), 18 USC §1956 money laundering, MLAT Art.9 grounds, Art.259 Areios Pagos (18 agencies), DoD IG jurisdiction, ekkatharistika as primary evidence. **Sec.1 amended:** 438 NBG transactions = widow's outgoing payments under duress → self-funding extortion loop. Two commits: 744107c (initial), d7d56ff (amendment). |
+| E-80 | **Named Criminal Referral — Efthalia Kyprianou** | exhibits/ | ekkatharistika-based criminal referral, AFM 052822816, IRS-CI Case 26236541, MLAT Art.9, EPPO PP.00179, FBI IC3 eaa5459a. Filed for April 21 Kitchen Table Meeting. |
 
 ---
 
