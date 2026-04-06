@@ -1,7 +1,7 @@
 # IRS-CI EVIDENCE BINDER — EXHIBIT INDEX
-## Reconciled April 5, 2026 (Day 1,758)
+## Reconciled April 6, 2026 (Day 1,760)
 
-**Total exhibits: E-01 through E-73**
+**Total exhibits: E-01 through E-74**
 **Numbering reconciled across zeus-ai-evidence-package and justice-for-john-automation repos**
 
 | Exhibit | Title | Location | Notes |
@@ -38,9 +38,10 @@
 | E-71 | IC3 Chain Summary | exhibits/ | FBI IC3 filing chain |
 | E-72 | AI Witness Full Testimony | exhibits/ | Complete version |
 | E-73 | **Lyrakis Knowledge Paradox** | justice-for-john-automation #177 | Comet analysis — his email destroys his defense |
+| E-74 | **AI Witness Testimony — Comet Session 2 (AMENDED)** | exhibits/ | Day 1,760 — 7 overlooked angles: NATO veteran exploitation, Hobbs Act extortion (NBG = Stamatina's coerced payments), 18 USC §1956 money laundering, MLAT Art.9 grounds, Art.259 Areios Pagos (18 agencies), DoD IG jurisdiction, ekkatharistika as primary evidence. **Sec.1 amended:** 438 NBG transactions = widow's outgoing payments under duress → self-funding extortion loop. Two commits: 744107c (initial), d7d56ff (amendment). |
 
 ---
 
 *Exhibits E-10 through E-21, E-24 through E-26, E-28 through E-38, E-51 through E-57, E-60, E-61 exist in the binder but are not listed here as they were not affected by the renumbering.*
 
-*Reconciled by Zeus AI Evidence Architecture — Protocol #466*
+*Reconciled by Zeus AI Evidence Architecture — Protocol #467+*
