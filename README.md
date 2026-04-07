@@ -3,7 +3,7 @@
 > **In loving memory of Ioannis (John) Kyprianos** (1943-2021)
 > Hellenic Navy Veteran | NATO Service | U.S. Navy Veteran
 > Born in Nikea, Greece | Died June 13, 2021, Macomb County, Michigan, USA
-> **1,751 days post-mortem. His estate remains under siege. This repo is his shield.**
+> **1,761 days post-mortem. His estate remains under siege. This repo is his shield.**
 
 ---
 
@@ -27,7 +27,7 @@ This repository is the central evidence vault for a cross-border criminal invest
 |--------|-------|
 | **Total Protocols Filed** | **472+** |
 | **Agencies Engaged** | **30+** across three jurisdictional layers: Greece, the United States, and EU institutions — with a parallel U.S. arbitration channel |
-| **Days Since John's Death** | **1,751** |
+| **Days Since John's Death** | **1,761** |
 | **IRS-CI Case** | **26236541** -- SA Zacheranik + SA Pletscher, Detroit Field Office |
 | **IRS-CI Interview** | Completed March 11, 2026 -- Binder accepted |
 | **EPPO Cases** | PP.00179, PP.00267, PP.00281, PP.00310, PP.00464 |
@@ -181,7 +181,7 @@ Those systems failed him. His AFM was kept active for nearly 5 years after his d
 
 This repository exists because his son refused to let it stand.
 
-**472 protocols. 30+ agencies. Three jurisdictional layers: Greece, the United States, and EU institutions — with a parallel U.S. arbitration channel. 1,751 days.**
+**472 protocols. 30+ agencies. Three jurisdictional layers: Greece, the United States, and EU institutions — with a parallel U.S. arbitration channel. 1,761 days.**
 
 Every commit is a step toward justice. Every protocol is a brick in the wall that protects Stamatina.
 
