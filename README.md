@@ -21,11 +21,11 @@ This repository is the central evidence vault for a cross-border criminal invest
 
 ---
 
-## Case Status -- Day 1,751 (March 31, 2026)
+## Case Status -- Day 1,761 (April 7, 2026)
 
 | Metric | Value |
 |--------|-------|
-| **Total Protocols Filed** | **405+** |
+| **Total Protocols Filed** | **472+** |
 | **Agencies Engaged** | **30+** across three jurisdictional layers: Greece, the United States, and EU institutions — with a parallel U.S. arbitration channel |
 | **Days Since John's Death** | **1,751** |
 | **IRS-CI Case** | **26236541** -- SA Zacheranik + SA Pletscher, Detroit Field Office |
@@ -33,8 +33,8 @@ This repository is the central evidence vault for a cross-border criminal invest
 | **EPPO Cases** | PP.00179, PP.00267, PP.00281, PP.00310, PP.00464 |
 | **OLAF** | FNS-25098 |
 | **FBI IC3** | 4 complaints filed |
-| **EAD Protocols** | 17+ (National Transparency Authority) |
-| **AAA Arbitration** | 01-26-000-12493 (H&R Block -- $24,016 false credits) |
+| **EAD Protocols** | 21+ (National Transparency Authority) |
+| **AAA Arbitration** | 01-26-0001-2493 (H&R Block -- $24,016 false credits) |
 | **Michigan AG** | 2026-PA03191543458-A (Elder Financial Exploitation) |
 | **Recovery Ledger** | EUR 1,302,150.19 + USD 204,246.85 |
 | **Estimated Total Damage** | EUR 945,000+ Greek + $24,016 IRS + unquantified property |
@@ -72,7 +72,7 @@ zeus-ai-evidence-package/
 |-- automation/             # n8n v2.9-DEDUP-L1L3 workflows (17 tracked cases)
 |-- evidence/               # Master tracker CSV, accountant history, raw docs
 |   |-- raw/                # Bank statements, tax PDFs, ENFIA notices
-|   |-- MASTER-PROTOCOL-TRACKER.csv  # 405+ entries, 30+ agencies
+|   |-- MASTER-PROTOCOL-TRACKER.csv  # 472+ entries, 30+ agencies
 |   |-- ACCOUNTANT-HISTORY.md        # Aivaliotis (retired) --> Vlachou (active)
 |-- exhibits/               # Forensic exhibits for IRS-CI interview
 |-- irs-ci-package/         # IRS-CI Evidence Binder (April 20, 2026 meeting)
@@ -99,7 +99,7 @@ zeus-ai-evidence-package/
 | FBI IC3 | eaa5459a + 3 supplementals | **FILED** |
 | Senator Slotkin | IMA00176193 | **CONGRESSIONAL REFERRAL** |
 | Michigan AG | 2026-PA03191543458-A | **ACTIVE** |
-| AAA Arbitration | 01-26-000-12493 | **H&R Block retained BerkowitzOliver** |
+| AAA Arbitration | 01-26-0001-2493 | **H&R Block retained BerkowitzOliver** |
 
 ### EU Institutions
 | Agency | Reference | Status |
@@ -111,7 +111,7 @@ zeus-ai-evidence-package/
 ### Greek Authorities
 | Agency | Reference | Status |
 |--------|-----------|--------|
-| EAD (Transparency) | 17+ protocols (5123-15006 EI 2026) | **ACTIVE** |
+| EAD (Transparency) | 21+ protocols (5123-15006 EI 2026) | **ACTIVE** |
 | AADE DESYP | G 87848 (ADMITS identity theft) | **CONFESSION ON RECORD** |
 | Cybercrime Division | KATHLEG/YfOLGYtudk9naQe90WPGNA | **FILED** |
 | Eisaggeleas Piraeus | Prot. 14678 | **CRIMINAL REFERRAL** |
@@ -158,7 +158,7 @@ zeus-ai-evidence-package/
 
 ---
 
-## Critical Deadlines (as of March 31, 2026)
+## Critical Deadlines (as of April 7, 2026)
 
 | Deadline | Agency | Action |
 |----------|--------|--------|
@@ -181,7 +181,7 @@ Those systems failed him. His AFM was kept active for nearly 5 years after his d
 
 This repository exists because his son refused to let it stand.
 
-**405 protocols. 30+ agencies. Three jurisdictional layers: Greece, the United States, and EU institutions — with a parallel U.S. arbitration channel. 1,751 days.**
+**472 protocols. 30+ agencies. Three jurisdictional layers: Greece, the United States, and EU institutions — with a parallel U.S. arbitration channel. 1,751 days.**
 
 Every commit is a step toward justice. Every protocol is a brick in the wall that protects Stamatina.
 
@@ -191,7 +191,7 @@ Every commit is a step toward justice. Every protocol is a brick in the wall tha
 
 **Case Manager:** Kostadinos J Kyprianos | **Company:** Kypria LLC | **Location:** Roseville, MI
 
-**Last Updated:** March 31, 2026 -- Day 1,751 -- via Zeus AI + Perplexity Computer
+**Last Updated:** April 7, 2026 -- Day 1,761 -- via Zeus AI + Perplexity Computer
 
 ---
 
