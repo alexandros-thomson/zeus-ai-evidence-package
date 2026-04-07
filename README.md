@@ -1,6 +1,6 @@
 # Zeus AI Evidence Package
 
-> **In loving memory of Ioannis (John) Kyprianos** (1943-2021)
+> **In loving memory of Ioannis (John) Kyprianos** (1940-2021)
 > Hellenic Navy Veteran | NATO Service | U.S. Navy Veteran
 > Born in Nikea, Greece | Died June 13, 2021, Macomb County, Michigan, USA
 > **1,761 days post-mortem. His estate remains under siege. This repo is his shield.**
