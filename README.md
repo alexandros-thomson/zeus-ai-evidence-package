@@ -25,7 +25,7 @@ This repository is the central evidence vault for a cross-border criminal invest
 
 | Metric | Value |
 |--------|-------|
-| **Total Protocols Filed** | **472+** |
+| **Total Protocols Filed** | **473+** |
 | **Agencies Engaged** | **30+** across three jurisdictional layers: Greece, the United States, and EU institutions — with a parallel U.S. arbitration channel |
 | **Days Since John's Death** | **1,761** |
 | **IRS-CI Case** | **26236541** -- SA Zacheranik + SA Pletscher, Detroit Field Office |
@@ -34,7 +34,7 @@ This repository is the central evidence vault for a cross-border criminal invest
 | **OLAF** | FNS-25098 |
 | **FBI IC3** | 4 complaints filed |
 | **EAD Protocols** | 21+ (National Transparency Authority) |
-| **AAA Arbitration** | 01-26-0001-2493 (H&R Block -- $24,016 false credits) |
+| **AAA Arbitration** | 01-26-0001-2493 (H&R Block -- $24,016 false credits) -- **P#391 ESCALATION FILED Apr 7, 2026 -- Intake overdue Day 25** |
 | **Michigan AG** | 2026-PA03191543458-A (Elder Financial Exploitation) |
 | **Recovery Ledger** | EUR 1,302,150.19 + USD 204,246.85 |
 | **Estimated Total Damage** | EUR 945,000+ Greek + $24,016 IRS + unquantified property |
