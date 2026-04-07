@@ -24,12 +24,18 @@
 
 | Field | Detail |
 |-------|--------|
-| **Full Name (Greek)** | ΛΥΡΑΚΗΣ Γ.Κ. |
+| **Full Name (Greek)** | ΛΥΡΑΚΗΣ ΓΕΩΡΓΙΟΣ Κ. (Γεώργιος Κωνσταντίνου Λυράκης) |
+| **Full Name (Latin)** | Georgios K. Lyrakis |
 | **Profession** | Συμβολαιογράφος (Notary Public) — Σπέτσες |
-| **Phone** | +30 22980 72329 |
-| **Address** | Σπέτσες 18050, Ελλάδα |
-| **Address (Latin)** | Spetses 18050, Greece |
-| **Notarial Seat** | Ειρηνοδικείο Σπετσών (Spetses district — Piraeus jurisdiction) |
+| **Office Address** | Αγ. Μάμας, 180 50 Σπέτσες |
+| **Office Address (Latin)** | Ag. Mamas, 18050 Spetses, Greece |
+| **Office Phone** | +30 22980 73686 |
+| **Mobile** | +30 6946 115599 |
+| **Second Phone** | +30 22980 72329 |
+| **Email** | lyrakisg@yahoo.gr |
+| **Notarial Seat** | Ειρηνοδικείο Σπετσών (Piraeus jurisdiction) |
+| **Member of** | Συμβολαιογραφικός Σύλλογος Εφετείων Αθηνών – Πειραιώς – Αιγαίου & Δωδεκανήσου |
+| **AFM** | **UNKNOWN — request via ΣΣΕΑΠΑΔ (#E-79) or Κτηματολόγιο AIT.1 metadata (MLAT A-5)** |
 | **Role in Fraud** | Author of forged deed 6020/2020 (6 phantom units on 230m² lot at Βοσπόρου 14, Κερατσίνι). Created AIT.1 KAEK 050681726008 on 26/01/2021 (5 months pre-death). Self-contradicted via email 10/2024 admitting properties "don't meet building specifications." €35 e-Paravolo fee = traceable. |
 | **Filed Against At** | Εισαγγελία Αθηνών (#438), Εισαγγελία Πειραιώς ΑΒΜ 14678/2026, ΣΣΕΑΠΑΔ/Perati (#440), EPPO, FBI IC3, IRS-CI, ΕΑΔ |
 | **Key Evidence** | E-22 (self-contradiction), E-46 (criminal narrative), E-49 (AIT.1 creation), E-62 (€35 trace), E-64 (street view — physical impossibility), E-73 (Lyrakis Knowledge Paradox) |
