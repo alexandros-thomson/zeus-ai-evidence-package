@@ -8,7 +8,7 @@
 | Field | Detail |
 |-------|--------|
 | **Full Name (Greek)** | ΚΥΠΡΙΑΝΟΥ ΕΥΘΑΛΙΑ ΝΙΚ. |
-| **Full Name (Latin)** | Euthaleia (Thalia) Kyprianos |
+| **Full Name (Latin)** | Euthaleia Kyprianou (alias: Thalia) |
 | **Relation to Victim** | Niece of deceased Ioannis Kyprianos |
 | **Greek AFM** | 05282816 |
 | **Phone** | +30 22980 72228 |
