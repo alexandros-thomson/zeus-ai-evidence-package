@@ -41,7 +41,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Full history for commit metadata in manifest
+          fetch-depth: 0
+          ref: main  # Full history for commit metadata in manifest
 
       - name: Install Pandoc + LaTeX
         run: |
