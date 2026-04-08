@@ -83,7 +83,7 @@ zeus-ai-evidence-package/
 |-- protocols/              # Protocol documentation (253-261+)
 |-- scripts/                # Python parsers (pdfplumber + pikepdf + XLSX)
 |-- DEADLINE-DIGEST.md      # Live deadline tracker with cross-border map
-|-- evidence-log.csv        # Chronological evidence entries (#396-#405)
+|-- evidence-log.csv        # Chronological evidence entries (#396-#407)
 |-- README.md               # This file
 ```
 
@@ -118,7 +118,7 @@ zeus-ai-evidence-package/
 | Ktimatologio | ND0113/26/06549 | **FALSE KT5-23 CONFIRMED** |
 | SDOE | Filed via sdoe@mnec.gr | **SENT** |
 
-Attikis | Prot. 16630 (Spetses inaction) | **PROTOCOLLED** |
+| Attikis | Prot. 16630 (Spetses inaction) | **PROTOCOLLED** |
 | Συνήγορος του Πολίτη | Prot. 24130/31.03.2026 — KPA 202603310024 (full complaint submitted 07/04/2026) | **FILED** |
 
 ---
