@@ -1,5 +1,5 @@
 # SUSPECT CONTACT INFORMATION
-## For Law Enforcement Use — Updated April 7, 2026
+## For Law Enforcement Use — Updated April 8, 2026
 
 ---
 
@@ -11,7 +11,10 @@
 | **Full Name (Latin)** | Euthaleia Kyprianou (alias: Thalia) |
 | **Relation to Victim** | Niece of deceased Ioannis Kyprianos |
 | **Greek AFM** | 05282816 |
-| **Phone** | +30 22980 72228 |
+| **Work Phone** | +30 22980 72228 (ΕΛΤΑ Σπετσών) |
+| **Cell Phone** | +30 694 057 8705 |
+| **Home Landline** | +30 22980 73414 |
+| **Work Fax** | +30 22980 73101 (ΕΛΤΑ Σπετσών) |
 | **Address** | Αγορά Σπετσών 1, Σπέτσες 18050, Ελλάδα |
 | **Address (Latin)** | Agora Spetson 1, Spetses 18050, Greece |
 | **Employer** | ΕΛΤΑ (Hellenic Post) — Spetses branch |
