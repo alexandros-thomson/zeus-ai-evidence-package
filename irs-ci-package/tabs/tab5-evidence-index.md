@@ -144,15 +144,16 @@ Three evidentiary lanes, mirroring Tab 2 (Contradiction Queue) and Tab 3 (Timeli
 | **E-61** | EFKA Tsikni ΑΠ 613493 — routing confirmation | EFKA-Tsikni-AP609161-routing-confirmation-30Mar2026.pdf + 613493.pdf | 30/03/2026 | Third routing confirmation. Unified request ΑΠ 609161 now at 6 directorates. International Cooperation directorate activated. Lane 2 Supporting. |
 | **E-62** | THE €35 QUESTION — Lyrakis trace | E-62-lyrakis-35-euro-trace.md | Oct 2024 | €35 payment to Lyrakis on dead man's AFM. 3 scenarios, all criminal. The thread that unravels the network. MLAT entry point. Cross-ref Tab 6 Row 5, Tab 7 A-7/A-8. Lane 2 Smoking Gun. |
 | **E-63** | Wahl/BerkowitzOliver silence memorandum | E-63-wahl-silence-memo.md | 04/04/2026 | AAA document exchange deadline expired. Zero production, zero communication, zero extension request from H&R Block counsel. Timestamped 17:59 ET. For ISC Apr 15. Lane 3 Supporting. |
+| **E-64** | myKEPlive phantom service — satisfaction survey without service | Gmail: myKEPlive αξιολόγηση emails (08/04/2026, 1:30 AM + 2:00 AM EDT) | 08/04/2026 | KEP Αργοστολίου (0428) issued TWO satisfaction surveys at 1:30 AM and 2:00 AM EDT for appointments booked at 1:00 PM EDT (8:00 PM Greek time) — surveys sent BEFORE the scheduled service. No video call occurred. No certificate issued. System auto-closed both requests (πιστοποιητικό περί μη αμφισβήτησης κληρονομικού δικαιώματος + πτωχεύσεις/αφερεγγυότητα) and solicited feedback for services never rendered. Proves even the digital remedy channel (myKEPlive) — designed to bypass physical-presence barriers for diaspora Greeks — produces phantom compliance: the appearance of service delivery without substance. Day 1,760. Art. 259 ΠΚ (dereliction). Lane 1 Supporting. |
 
 ## EXHIBIT COUNT SUMMARY
 
 | Lane | Smoking Guns | Supporting | Total |
 |------|-------------|-----------|-------|
-| L1 -- Contradiction | 7 (E-01 to E-07) | 10 (E-08 to E-11, E-42, E-46, E-47, E-48, E-58, E-59) | **17** |
+| L1 -- Contradiction | 7 (E-01 to E-07) | 11 (E-08 to E-11, E-42, E-46, E-47, E-48, E-58, E-59, E-64) | **18** |
 | L2 -- Intent & Reaction | 12 (E-12 to E-17, E-38 to E-40, E-49, E-55, E-62) | 10 (E-18 to E-23, E-41, E-51 to E-54, E-57, E-61) | **22** |
 | L3 -- Treaty & Jurisdiction | 5 (E-24 to E-27, E-45) | 17 (E-28 to E-37, E-43, E-44, E-50, E-56, E-60, E-63) | **22** |
-| **TOTAL** | **24** | **37** | **61** |
+| **TOTAL** | **24** | **38** | **62** |
 
 ---
 

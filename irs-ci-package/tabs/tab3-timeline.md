@@ -1,6 +1,6 @@
 # TAB 3: MASTER TIMELINE
 
-**31 Critical Events — Chronological Sequence Establishing Criminal Intent**
+**32 Critical Events — Chronological Sequence Establishing Criminal Intent**
 
 Each entry includes a verifiable date, the actors involved, the act or omission, and the evidentiary significance for IRS-CI purposes. Cross-references to Tab 2 (Contradiction Matrix) and Tab 5 (Evidence Index) are noted where applicable.
 
@@ -42,6 +42,7 @@ Each entry includes a verifiable date, the actors involved, the act or omission,
 | T-29 | 30/03/2026 | **ΕΦΚΑ Τσικνή second routing — ΓΔ Διεθνών Συνεργασιών activated** | ΕΦΚΑ (Τσικνή Αικατερίνη) | Second response for ΑΠ 609161 unified request (3/30/2026, 2:22 AM). Routed to 5 directorates including ΓΔ Διεθνών Συνεργασιών (International Cooperation) — a new directorate not in first routing. EFKA's international division now examining the case. | E-41 |
 | T-30 | 15/04/2026 | **ISC hearing via Zoom** | ISC (corrected) | 9:30-11:00 AM CT (10:30 AM-12:00 PM ET). Date corrected from original scheduling. Two weeks before IRS-CI in-person meeting. | E-27 |
 | T-31 | 03/04/2026 | **ΚΕΦΟΔΕ identical-boilerplate anomaly discovered** | ΚΕΦΟΔΕ Attikis | Prot. 644726 (GDPR/KAEK) and Prot. 502834 (death/heir) use identical 3-paragraph template citing GDPR Art. 15/Reg. 2016/679 despite completely different subject matter. Scripted obstruction pattern. FBI IC3 identical-boilerplate anomaly. Day 1,755. | E-46, E-47 |
+| T-32 | 08/04/2026 | **myKEPlive phantom service — survey before appointment** | KEP Αργοστολίου (0428) / myKEPlive | Two satisfaction surveys sent at 1:30 AM + 2:00 AM EDT for appointments scheduled at 1:00 PM EDT. Service never rendered, certificates never issued. System auto-completed both requests. Day 1,760. Proves digital remedy channel (myKEPlive) produces same phantom compliance as physical channels. 39th formal request with zero result. Cross-ref C-15. | E-64 |
 
 ---
 
@@ -67,5 +68,5 @@ Death finally registered (T-09) but cover-up intensifies: consciousness-of-guilt
 **For IRS-CI**: The timeline demonstrates that the fraud was not opportunistic — it required deliberate, sustained action across multiple actors over 4+ years, followed by coordinated institutional obstruction when exposed. This satisfies the willfulness requirement under 26 USC §7201 and §7206.
 
 ---
-*Cross-references: Tab 2 Contradiction Matrix (C-1 through C-9) | Tab 5 Evidence Index (E-01 through E-45)*
-*Source: Zeus AI Evidence Architecture — commit-tracked, 412+ protocols*
+*Cross-references: Tab 2 Contradiction Matrix (C-1 through C-15) | Tab 5 Evidence Index (E-01 through E-64)*
+*Source: Zeus AI Evidence Architecture — commit-tracked, 455+ protocols*
