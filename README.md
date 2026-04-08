@@ -117,7 +117,9 @@ zeus-ai-evidence-package/
 | Eisaggeleas Piraeus | Prot. 14678 | **CRIMINAL REFERRAL** |
 | Ktimatologio | ND0113/26/06549 | **FALSE KT5-23 CONFIRMED** |
 | SDOE | Filed via sdoe@mnec.gr | **SENT** |
-| Apokentromeni Attikis | Prot. 16630 (Spetses inaction) | **PROTOCOLLED** |
+
+Attikis | Prot. 16630 (Spetses inaction) | **PROTOCOLLED** |
+| Συνήγορος του Πολίτη | Prot. 24130/31.03.2026 — KPA 202603310024 (full complaint submitted 07/04/2026) | **FILED** |
 
 ---
 
