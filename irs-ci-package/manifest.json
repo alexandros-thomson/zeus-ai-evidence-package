@@ -1,14 +1,127 @@
 {
   "build_metadata": {
-    "build_date": "2026-03-31T07:21:26Z",
-    "build_commit": "0639f6be3c35557ebd828244523420f98d09c2f9",
+    "build_date": "2026-04-07T23:59:00Z",
+    "build_commit": "ec264ec",
     "build_branch": "main",
     "repository": "alexandros-thomson/zeus-ai-evidence-package",
     "generator": "scripts/generate-manifest.sh",
-    "protocol_count": "405+",
-    "exhibit_count": 37
+    "protocol_count": "459+",
+    "exhibit_count": 66
   },
   "files": [
-    {"file": "irs-ci-package/tabs/appendix-a-chain-of-custody.md", "sha256": "97e086a98be4238e4165df4afce6b101dd05f0a29d62d5bbb2d1244543cd22a0", "last_commit": "", "last_modified": ""},    {"file": "irs-ci-package/tabs/tab1-executive-summary.md", "sha256": "055abe4fc7d6cc87f058f75c0000a53619b86a21f41fcb736c9cc14689e4bc0c", "last_commit": "91b36ddf55e2c75bef040811ae5a2f64f2a41224", "last_modified": "2026-03-30"},    {"file": "irs-ci-package/tabs/tab2-contradiction-matrix.md", "sha256": "11e1cece55cc5a8a0eb5c0c2fc269959a42e342014736c184bb33da6b68b49e8", "last_commit": "40c9649398b178f7a409a9ea21945f4f260e1e8b", "last_modified": "2026-03-31"},    {"file": "irs-ci-package/tabs/tab3-timeline.md", "sha256": "a590db74c39a0d977b1b1f1bdb8c92d15e8e69971f614ddfafc2598aab5918cc", "last_commit": "", "last_modified": ""},    {"file": "irs-ci-package/tabs/tab4-actor-map.md", "sha256": "98138b115df9e017581943003f0ab274241c081379003042d2d4de3f2cec7784", "last_commit": "", "last_modified": ""},    {"file": "irs-ci-package/tabs/tab5-evidence-index.md", "sha256": "db76d6b32da7a270b6010edfd71391287d83410dee8e402c9e5c42d1ff6f38af", "last_commit": "a4bd857f898c737dbea20c751a2f01075f8c2f2c", "last_modified": "2026-03-31"},    {"file": "irs-ci-package/tabs/tab6-mlat-map.md", "sha256": "d55310dd80f3347be11c3958eea27b471383bad344349c2d1d8a6a385661db73", "last_commit": "", "last_modified": ""},    {"file": "irs-ci-package/tabs/tab7-ask-list.md", "sha256": "34c60020d7cd1a7958e7b1339699bb8646f8584de41f80f318ead0687d4b687d", "last_commit": "", "last_modified": ""},    {"file": "irs-ci-package/exhibits/609161.pdf", "sha256": "9a440c79956ad13ee829b57e31fc63ca1a831ea35dbea9f4cae8db56b43aba0b", "last_commit": "b0a813ff225e9767ced6adacce4b9c1ebf952a66", "last_modified": "2026-03-30"},    {"file": "irs-ci-package/exhibits/APDPX-Art77-Complaint-HDYKA-AuditLogs-26Mar2026.txt", "sha256": "6ba5df258549f242ec770634a8d95dd41fb44a01508213bf4888aeaf8cb2fda7", "last_commit": "56b29f5c556add08504a3a1e982ec73756d29701", "last_modified": "2026-03-30"},    {"file": "irs-ci-package/exhibits/DED-APPEAL-33123-2026-GREEK.pdf", "sha256": "56b62ab14e32dfd55e87521defed931fdcf7638cb39f72db92a1947b98d0313f", "last_commit": "ffd0695dce807d58da8c9c558f15f65882e74711", "last_modified": "2026-03-30"},    {"file": "irs-ci-package/exhibits/E-22-AIT1-SMOKING-GUN-THE-DAY-THEY-BLINKED.md", "sha256": "af9967887a07dd4dd5a48f0e296fa17c31475711c6381346f74d765efa1ca166", "last_commit": "0639f6be3c35557ebd828244523420f98d09c2f9", "last_modified": "2026-03-31"},    {"file": "irs-ci-package/exhibits/E-23-INHERITANCE-TRAP-5-LAYERS.md", "sha256": "2e71dcdadc8cc8d6a6704f13f45773170fdfc733067d0c9d1ff1067a74b20c6a", "last_commit": "5ed68c55c5bccd6b44db7b47f81a1b894134142f", "last_modified": "2026-03-31"},    {"file": "irs-ci-package/exhibits/E-DIAGRAPhE-TOU-PhOROLOGIKOU-EKPROSOPOU.pdf", "sha256": "c897899a870e08cd7bc24b52843d062e5d8973f1d78d668fdb845ec5714cac8e", "last_commit": "ff13d4dabc9cab0c5bb3a4d6346eff462036fd0a", "last_modified": "2026-03-30"},    {"file": "irs-ci-package/exhibits/Tax-Treaty-Violations.pdf", "sha256": "d6933226edaebf12e62ea1fe2556d27fa712cb50c52eafba5a47399fdf0eefdf", "last_commit": "e9a405ce43f72992a4b3b434212e7dcaa5bbb2ad", "last_modified": "2026-03-30"},    {"file": "irs-ci-package/exhibits/my1521-tax-rep-paradox.md", "sha256": "72eb64e0ebca8b14f5db06af358057a6e1559015ed4b474795a1c4e1d3f61e92", "last_commit": "fc1f163fb2301bfe015f171038f930c2ea813863", "last_modified": "2026-03-31"},    {"file": "irs-ci-package/README.md", "sha256": "a61b41375a16e666bd74e7f5b6b8e29c01fd1f91d5ec2ad0abadb4268fcafe9b", "last_commit": "a16c53bf0d6e0cf375b9713bc29f1dae3c940f83", "last_modified": "2026-03-30"},    {"file": "evidence/MASTER-PROTOCOL-TRACKER.csv", "sha256": "9b86e1982955207f446fc1e940509891fe17aacf366e66f6bf37b86660b7ad4f", "last_commit": "75b73feea56864c55b10eda4482873cc0495128d", "last_modified": "2026-03-30"},    {"file": "evidence-log.csv", "sha256": "7f150f645554f1ce9650109a4e7f10f3bc9dff9bb32a669c07d4294b70970895", "last_commit": "5a93c7fb7f4e06bf1d06f0b81f96fbdb97d005d4", "last_modified": "2026-03-22"}
+    {
+      "file": "irs-ci-package/tabs/appendix-a-chain-of-custody.md",
+      "sha256": "97e086a98be4238e4165df4afce6b101dd05f0a29d62d5bbb2d1244543cd22a0",
+      "last_commit": "ec264ec",
+      "last_modified": "2026-04-07"
+    },
+    {
+      "file": "irs-ci-package/tabs/tab1-executive-summary.md",
+      "sha256": "055abe4fc7d6cc87f058f75c0000a53619b86a21f41fcb736c9cc14689e4bc0c",
+      "last_commit": "91b36ddf55e2c75bef040811ae5a2f64f2a41224",
+      "last_modified": "2026-03-30"
+    },
+    {
+      "file": "irs-ci-package/tabs/tab2-contradiction-matrix.md",
+      "sha256": "11e1cece55cc5a8a0eb5c0c2fc269959a42e342014736c184bb33da6b68b49e8",
+      "last_commit": "40c9649398b178f7a409a9ea21945f4f260e1e8b",
+      "last_modified": "2026-03-31"
+    },
+    {
+      "file": "irs-ci-package/tabs/tab3-timeline.md",
+      "sha256": "a590db74c39a0d977b1b1f1bdb8c92d15e8e69971f614ddfafc2598aab5918cc",
+      "last_commit": "ec264ec",
+      "last_modified": "2026-04-07"
+    },
+    {
+      "file": "irs-ci-package/tabs/tab4-actor-map.md",
+      "sha256": "98138b115df9e017581943003f0ab274241c081379003042d2d4de3f2cec7784",
+      "last_commit": "ec264ec",
+      "last_modified": "2026-04-07"
+    },
+    {
+      "file": "irs-ci-package/tabs/tab5-evidence-index.md",
+      "sha256": "db76d6b32da7a270b6010edfd71391287d83410dee8e402c9e5c42d1ff6f38af",
+      "last_commit": "a4bd857f898c737dbea20c751a2f01075f8c2f2c",
+      "last_modified": "2026-03-31"
+    },
+    {
+      "file": "irs-ci-package/tabs/tab6-mlat-map.md",
+      "sha256": "d55310dd80f3347be11c3958eea27b471383bad344349c2d1d8a6a385661db73",
+      "last_commit": "ec264ec",
+      "last_modified": "2026-04-07"
+    },
+    {
+      "file": "irs-ci-package/tabs/tab7-ask-list.md",
+      "sha256": "34c60020d7cd1a7958e7b1339699bb8646f8584de41f80f318ead0687d4b687d",
+      "last_commit": "ec264ec",
+      "last_modified": "2026-04-07"
+    },
+    {
+      "file": "irs-ci-package/exhibits/609161.pdf",
+      "sha256": "9a440c79956ad13ee829b57e31fc63ca1a831ea35dbea9f4cae8db56b43aba0b",
+      "last_commit": "b0a813ff225e9767ced6adacce4b9c1ebf952a66",
+      "last_modified": "2026-03-30"
+    },
+    {
+      "file": "irs-ci-package/exhibits/APDPX-Art77-Complaint-HDYKA-AuditLogs-26Mar2026.txt",
+      "sha256": "6ba5df258549f242ec770634a8d95dd41fb44a01508213bf4888aeaf8cb2fda7",
+      "last_commit": "56b29f5c556add08504a3a1e982ec73756d29701",
+      "last_modified": "2026-03-30"
+    },
+    {
+      "file": "irs-ci-package/exhibits/DED-APPEAL-33123-2026-GREEK.pdf",
+      "sha256": "56b62ab14e32dfd55e87521defed931fdcf7638cb39f72db92a1947b98d0313f",
+      "last_commit": "ffd0695dce807d58da8c9c558f15f65882e74711",
+      "last_modified": "2026-03-30"
+    },
+    {
+      "file": "irs-ci-package/exhibits/E-22-AIT1-SMOKING-GUN-THE-DAY-THEY-BLINKED.md",
+      "sha256": "af9967887a07dd4dd5a48f0e296fa17c31475711c6381346f74d765efa1ca166",
+      "last_commit": "0639f6be3c35557ebd828244523420f98d09c2f9",
+      "last_modified": "2026-03-31"
+    },
+    {
+      "file": "irs-ci-package/exhibits/E-23-INHERITANCE-TRAP-5-LAYERS.md",
+      "sha256": "2e71dcdadc8cc8d6a6704f13f45773170fdfc733067d0c9d1ff1067a74b20c6a",
+      "last_commit": "5ed68c55c5bccd6b44db7b47f81a1b894134142f",
+      "last_modified": "2026-03-31"
+    },
+    {
+      "file": "irs-ci-package/exhibits/E-DIAGRAPhE-TOU-PhOROLOGIKOU-EKPROSOPOU.pdf",
+      "sha256": "c897899a870e08cd7bc24b52843d062e5d8973f1d78d668fdb845ec5714cac8e",
+      "last_commit": "ff13d4dabc9cab0c5bb3a4d6346eff462036fd0a",
+      "last_modified": "2026-03-30"
+    },
+    {
+      "file": "irs-ci-package/exhibits/Tax-Treaty-Violations.pdf",
+      "sha256": "d6933226edaebf12e62ea1fe2556d27fa712cb50c52eafba5a47399fdf0eefdf",
+      "last_commit": "e9a405ce43f72992a4b3b434212e7dcaa5bbb2ad",
+      "last_modified": "2026-03-30"
+    },
+    {
+      "file": "irs-ci-package/exhibits/my1521-tax-rep-paradox.md",
+      "sha256": "72eb64e0ebca8b14f5db06af358057a6e1559015ed4b474795a1c4e1d3f61e92",
+      "last_commit": "fc1f163fb2301bfe015f171038f930c2ea813863",
+      "last_modified": "2026-03-31"
+    },
+    {
+      "file": "irs-ci-package/README.md",
+      "sha256": "a61b41375a16e666bd74e7f5b6b8e29c01fd1f91d5ec2ad0abadb4268fcafe9b",
+      "last_commit": "a16c53bf0d6e0cf375b9713bc29f1dae3c940f83",
+      "last_modified": "2026-03-30"
+    },
+    {
+      "file": "evidence/MASTER-PROTOCOL-TRACKER.csv",
+      "sha256": "9b86e1982955207f446fc1e940509891fe17aacf366e66f6bf37b86660b7ad4f",
+      "last_commit": "75b73feea56864c55b10eda4482873cc0495128d",
+      "last_modified": "2026-03-30"
+    },
+    {
+      "file": "evidence-log.csv",
+      "sha256": "7f150f645554f1ce9650109a4e7f10f3bc9dff9bb32a669c07d4294b70970895",
+      "last_commit": "5a93c7fb7f4e06bf1d06f0b81f96fbdb97d005d4",
+      "last_modified": "2026-03-22"
+    }
   ]
 }
