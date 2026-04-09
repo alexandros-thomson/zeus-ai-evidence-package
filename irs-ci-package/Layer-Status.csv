@@ -1,0 +1,13 @@
+Layer,Description,Lane,Status,SmokingGuns,Apr21Ready
+Y1,Identity Theft / AFM Hijacking,L2,Proven,3,Yes
+Y2,Unauthorized Tax Filings (E1/E9/Checkbox 319),L1,Proven,4,Yes
+Y3,Phantom Pension / EFKA-NAT-GLK Triangle,L1,Proven,2,Yes
+Y4,Property Fraud / Ktimatologio KAEK Chain,L2,Proven,2,Yes
+Y5,Death Registration Gap / False Certificates,L1,Proven,2,Yes
+Y6,Post-Death Financial Diversion (NBG/IBAN),L2,Active,3,Yes
+Y7,HR Block Tax Prep Fraud (Form 1116/CP25),L3,Filed,2,Yes
+Y8,Notary Misconduct (Lyrakis N.2830/2000),L2,Filed,1,Yes
+Y9,DEI/DEH Utility Tax Burden (5 Meters),L3,Documented,1,Yes
+Y10,Government Obstruction / Silence Clocks,L2,Active,3,Yes
+Y11,ENFIA on Deceased AFM (2014-2024),L1,Documented,3,Yes
+Y12,Cross-Border Conspiracy Pattern,L3,Mapped,2,Yes
