@@ -419,7 +419,7 @@ The following questions are raised for SA Zacheranik and SA Pletscher at the Apr
 
 6. **The unpublished will:** IRS-CI should flag to EPPO that the will Lyrakis drafted for John Kyprianos (Art. 1769 ΑΚ violation — never published through 1,762 days) may contain financial provisions that explain the estate targeting. Compellable via εισαγγελική παραγγελία in ABM 14678.
 
-7. **Exhibit binder (April 19 freeze):** The exhibit index reconciliation (CSV #466, Exhibit E-73 = "Lyrakis Paradox") locked the binder on April 19. Confirm the SA team has the 12 prosecution-phase files from commit 3be54d5 and the updated MLAT Tab 6.
+7. **Exhibit binder (April 19 freeze):** The exhibit index reconciliation (CSV #466, Exhibit E-73 = "Lyrakis Paradox") locked the binder on April 18. Confirm the SA team has the 12 prosecution-phase files from commit 3be54d5 and the updated MLAT Tab 6.
 
 8. **EPPO status:** What has EPPO PP.00179 produced to date? Has there been any contact with Greek domestic prosecutors? Is EPPO's compulsory production authority being exercised?
 

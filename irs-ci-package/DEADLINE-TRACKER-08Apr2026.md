@@ -27,7 +27,7 @@
 | **15 Apr** | Form 7216 Wahl deadline | +7 | SET | Referral triggers if missed |
 | **17 Apr** | Lyrakis ΣΣΕΑΠΑΔ 10-day silence expires | +9 | WATCHING | Auto-escalation to MLAT Row 5 |
 | **17 Apr** | Art. 227 appeal deadline | +9 | WATCHING | DED appeal protection |
-| **19 Apr 6PM** | Binder freeze — all content locked | +11 | SET | No further edits to evidence |
+| **18 Apr 6PM** | Binder freeze — all content locked | +11 | SET | No further edits to evidence |
 | **21 Apr 9AM** | IRS-CI kitchen table meeting | +13 | SET | Zacheranik + Pletscher |
 | **21 Apr** | SSA OIG Protocol 470 deadline | +13 | SET | Social Security OIG response |
 | **08 May** | AEAD 30-day silent rejection expires | +30 | PENDING | Auto-escalation to EPPO |

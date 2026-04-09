@@ -175,7 +175,7 @@ I am here in good faith to resolve this. My expectation is full correction: $24,
 | **Apr 10** | Protocol #410 10-day silence deadline |
 | **Apr 10–12** | IRS-CI binder final lock |
 | **Apr 15** | **ISC — 9:30 AM CT** |
-| **Apr 19** | Binder freeze |
+| **Apr 18** | Binder freeze |
 | **Apr 21** | **IRS-CI in-person — Roseville** |
 | **May 25** | Informal Resolution Period expires |
 

@@ -116,7 +116,7 @@ Without Efthalia's unauthorized actions at Layer 2, the entire fraud chain colla
 | 2 | Reference in updated Form 3949-A supplement |
 | 3 | Add to MLAT Tab 6 as named subject |
 | 4 | CC to EPPO as supplement to PP.00179 |
-| 5 | Include ekkatharistika evidence in binder (pre-freeze April 19) |
+| 5 | Include ekkatharistika evidence in binder (pre-freeze April 18) |
 
 ---
 

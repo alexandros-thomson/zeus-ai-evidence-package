@@ -602,7 +602,7 @@ Both nodes are necessary. Both nodes are culpable. Together: one criminal enterp
 4. **Papageorgiou (accountant):** She is named in FBI IC3 I2502040432132952 and EPPO PP.00310/2026/EN. What is her status — under investigation, interviewed, or still uncontacted?
 5. **Efthalia Kyprianou:** AADE admitted her unauthorized operation via Protocol 76022/20260114/45105 but did not prosecute. What Greek domestic enforcement action is IRS-CI coordinating with, if any?
 6. **The will:** IRS-CI should flag to EPPO that the unpublished will (Art. 1769 ΑΚ violation) may contain financial provisions that explain the estate targeting. Compellable via Εισαγγελική Παραγγελία — ask Piraeus prosecution to include it in ABM 14678 action.
-7. **April 19 binder freeze:** The exhibit index reconciliation (CSV #466, Exhibit E-73 = "Lyrakis Paradox") locks the binder on April 19. Confirm the SA team has the 12 prosecution-phase files from commit 3be54d5 and the updated MLAT Tab 6.
+7. **April 18 binder freeze:** The exhibit index reconciliation (CSV #466, Exhibit E-73 = "Lyrakis Paradox") locks the binder on April 18. Confirm the SA team has the 12 prosecution-phase files from commit 3be54d5 and the updated MLAT Tab 6.
 8. **EPPO status:** What has EPPO PP.00179 produced to date? Has there been any contact with Greek domestic prosecutors? Is EPPO's compulsory production authority being used against AADE or Ktimatologio?
 
 ---

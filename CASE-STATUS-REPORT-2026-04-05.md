@@ -142,7 +142,7 @@ All 19 upcoming deadlines from April 6 through June 14, 2026. **Day 0 = April 5,
 | 19 | **Jun 14, 2026** | **70** | DED-33123-2026 — 120-day deemed rejection (AADE DED Prot. 33123) | ❌ NOT IN CALENDAR |
 
 **Calendar Gap Summary:**
-- ✅ In Google Calendar: **4 of 19** (Apr 15 ISC, Apr 19 Binder Freeze, Apr 21 IRS-CI, Apr 2 past-due AAA)
+- ✅ In Google Calendar: **4 of 19** (Apr 15 ISC, Apr 18 Binder Freeze, Apr 21 IRS-CI, Apr 2 past-due AAA)
 - ❌ NOT in Google Calendar: **15 of 19**
 
 ---
@@ -188,7 +188,7 @@ All 19 upcoming deadlines from April 6 through June 14, 2026. **Day 0 = April 5,
 | `ingest-evidence.yml` | Unknown |
 | `mirror-to-justice.yml` | Unknown |
 
-**CI Failure Root Cause:** Missing `requirements.txt` causes `setup-python` cache failure. Build annotation: "Build Evidence Binder PDF failed — 2 annotations." Must be resolved before April 19 Binder Freeze.
+**CI Failure Root Cause:** Missing `requirements.txt` causes `setup-python` cache failure. Build annotation: "Build Evidence Binder PDF failed — 2 annotations." Must be resolved before April 18 Binder Freeze.
 
 ### Open Issues Summary
 
@@ -298,7 +298,7 @@ Sorted by urgency from April 5, 2026:
 | 🔴 CRITICAL | **Apr 8** | Provide Tracy Liao: DOBs for Kostas + son; upload 1099-R ($1,257 + $8,359); upload 2024 SS benefit statement | Kostas/Stamatina |
 | 🔴 CRITICAL | **Apr 8** | AEAD deadlines 5054/5057/5127 — ΕΠΕΙΓΟΝ phantom AFM criminal complaints | Kostas |
 | 🔴 CRITICAL | **Apr 9** | Lyrakis Notary Disciplinary (#416) — send formal complaint | Kostas |
-| 🔴 CRITICAL | **Immediately** | Fix GitHub Actions CI (`build-pdf.yml`) — add `requirements.txt` to repo; resolve before Apr 19 Binder Freeze | Kostas |
+| 🔴 CRITICAL | **Immediately** | Fix GitHub Actions CI (`build-pdf.yml`) — add `requirements.txt` to repo; resolve before Apr 18 Binder Freeze | Kostas |
 | 🟠 HIGH | **Apr 12** | AADE Protocol 214142 rebuttal (60-day deadline) | Kostas |
 | 🟠 HIGH | **Apr 14** | ΥΠΕΘΑ hard deadline — if no response, file Art.4 N.2690/1999 with Council of State | Kostas |
 | 🟠 HIGH | **Apr 14** | AADE (ΚΔΔ) 60-day DESYP default notice | Kostas |

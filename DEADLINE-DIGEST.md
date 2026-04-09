@@ -22,7 +22,7 @@
 | HARD CLOSE: All AAA gates | April 14 | 6:00 PM EDT | T-7 |
 | ISC — Kyprianos v. HRB Digital LLC | April 15 | 9:30 AM CT | T-8 |
 | Αποκεντρωμένη Art.227 deadline | April 17 | — | T-10 |
-| **BINDER FREEZE** | **April 19** | **6:00 PM EDT** | **T-12** |
+| **BINDER FREEZE** | **April 18** | **6:00 PM EDT** | **T-12** |
 | **IRS-CI KITCHEN TABLE** | **April 21** | **9:00 AM EDT** | **T-14** |
 
 ---

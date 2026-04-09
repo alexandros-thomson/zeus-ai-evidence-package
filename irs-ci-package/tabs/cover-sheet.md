@@ -106,7 +106,7 @@ See Tab 6 for full MLAT mechanism and Tab 7 for 19 specific asks.
 This package is maintained in a version-controlled GitHub repository:  
 `alexandros-thomson/zeus-ai-evidence-package`
 
-Every document change is tracked with a cryptographic commit hash, timestamp, and author. The version control system IS the chain of custody. The frozen binder version will be tagged `irs-ci-binder-v1` on April 19, 2026.
+Every document change is tracked with a cryptographic commit hash, timestamp, and author. The version control system IS the chain of custody. The frozen binder version will be tagged `irs-ci-binder-v1` on April 18, 2026.
 
 ---
 
@@ -119,5 +119,5 @@ Every document change is tracked with a cryptographic commit hash, timestamp, an
 
 ---
 
-*Prepared April 4, 2026 — Living document until freeze date April 19, 2026*  
+*Prepared April 4, 2026 — Living document until freeze date April 18, 2026*  
 *Zeus AI Evidence Architecture — commit-tracked, append-only*
