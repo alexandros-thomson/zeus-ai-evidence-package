@@ -57,10 +57,10 @@
 | E-48 | Αποκεντρωμένη Contradictory Response / Protocol #175 (ΣΚΟΝΙΚΑΠΡΟΤ) | exhibits/ | 02/04/2026; contradictory signals; Certificate 504 institutional trap; supports C-14 |
 | E-49 | AIT.1 Form Creation — 26/01/2021 | exhibits/ | Pre-death positioning |
 | E-50 | Stamatina Naturalization Certificate | exhibits/ | 25/08/2025 |
-| E-51 | Foundation Exhibit 51 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
-| E-52 | Foundation Exhibit 52 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
-| E-53 | Foundation Exhibit 53 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
-| E-54 | Foundation Exhibit 54 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
+| E-84 | Foundation Exhibit 51 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
+| E-85 | Foundation Exhibit 52 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
+| E-86 | Foundation Exhibit 53 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
+| E-87 | Foundation Exhibit 54 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
 | E-55 | Foundation Exhibit 55 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
 | E-56 | Master Payment Registry — NBG 2025–2026 | exhibits/ (root) | Full NBG payment log |
 | E-57 | Fraud Timeline — Deceased Tax Generation | exhibits/ (root) | Timeline of post-mortem tax filings |

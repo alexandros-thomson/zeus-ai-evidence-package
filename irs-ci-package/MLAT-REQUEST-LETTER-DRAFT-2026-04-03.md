@@ -101,10 +101,10 @@ The following exhibits, committed to the evidence repository with SHA-256 hashes
 | E-48 | AFM Activation Timeline | Establishes identity compromise sequence |
 | E-49 | Ktimatologio AIT.1 Form Analysis | EUR 35 state fee payment trail identifies unknown submitter |
 | E-50 | ENFIA Assessment Deceased AFM | Tax authority generating obligations for dead person |
-| E-51 | AADE Deflection Pattern Analysis | Systematic non-response across 8+ DESYP protocols |
-| E-52 | Notary Lyrakis Obstruction Timeline | 1,025-day death registration block |
-| E-53 | H&R Block Preparer Fraud Analysis | $24,016 false Foreign Tax Credits, -$830K entry |
-| E-54 | Recovery Ledger | EUR 1,302,150.19 + USD 204,246.85 total damages |
+| E-84 | AADE Deflection Pattern Analysis | Systematic non-response across 8+ DESYP protocols |
+| E-85 | Notary Lyrakis Obstruction Timeline | 1,025-day death registration block |
+| E-86 | H&R Block Preparer Fraud Analysis | $24,016 false Foreign Tax Credits, -$830K entry |
+| E-87 | Recovery Ledger | EUR 1,302,150.19 + USD 204,246.85 total damages |
 | E-55 | COSMOTE Payment Evidence (NBG) | Utility payments from deceased's account |
 | E-56 | Master Payment Registry NBG | Complete payment mapping -- DEH, COSMOTE, ENFIA, Ktimatologio |
 | E-57 | ENFIA Fraud Timeline -- Deceased Tax Generation | Tax obligations generated for dead person, paid from estate |
@@ -149,7 +149,7 @@ IRS-CI Detroit (SA Zacheranik)
 - [ ] Tab 6: MLAT / Record-Compulsion Map (12 rows)
 - [ ] Tab 7: Ask List (19 items, 6 day-of asks)
 - [ ] Master Protocol Tracker (435+ entries, CSV)
-- [ ] Recovery Ledger (E-54)
+- [ ] Recovery Ledger (E-87)
 
 ---
 

@@ -104,7 +104,7 @@ The Diplomatic Security Agent stationed at the U.S. Embassy in Athens is already
 - [ ] Exhibit Index with SHA-256 hashes (Appendix A)
 - [ ] MLAT Request Letter Draft (dated April 3, 2026)
 - [ ] Master Protocol Tracker (435+ entries, CSV)
-- [ ] Recovery Ledger (E-54)
+- [ ] Recovery Ledger (E-87)
 
 ---
 

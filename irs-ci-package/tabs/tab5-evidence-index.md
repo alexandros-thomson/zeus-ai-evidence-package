@@ -131,10 +131,10 @@ Three evidentiary lanes, mirroring Tab 2 (Contradiction Queue) and Tab 3 (Timeli
 | **E-48** | Αποκεντρωμένη contradiction capture — 18058 vs 19466 | E-48-apokentromeni-contradictory-02Apr2026.md | 02/04/2026 | Same agency issued ΕΠΕΙΓΟΝ (16/03) then threatened complainant as "καταχρηστική" (20/03). 4 days apart. Cross-ref C-3. Lane 1 Smoking Gun. |
 | **E-49** | *(CHRONOLOGICAL NOTE: E-49 documents the AIT.1 creation date of 26/01/2021, which predates E-12 through E-13 in the timeline. When reading chronologically, E-49 should be considered BEFORE E-12.)* | AIT.1 creation date — 26/01/2021 (John alive) | E-49-AIT1-creation-26Jan2021.md | 26/01/2021 | KT5-23 legitimate refund notice issued while John was alive. Became the weapon: dormant 5 years, activation attempted 14/01/2026 = same day as complaint. Cross-ref E-22. Lane 2 Smoking Gun. |
 | **E-50** | Stamatina Naturalization Certificate | E-50-Stamatina-Naturalization-Certificate-25Aug2025.jpg | 25/08/2025 | U.S. citizenship documentation. Establishes U.S.-nexus jurisdiction for IRS-CI and MLAT. Lane 3 Supporting. |
-| **E-51** | DEI forensic — 5 meters on AFM 044594747 | Pending local export | Apr 2026 | Zero consumption Feb 2026, $1,312/yr tax burden, 61% of DEI bills = Greek taxes. 21,616 records. Proves phantom business has no real activity. Lane 2 Supporting. |
-| **E-52** | DEI forensic — meter-level analysis | Pending local export | Apr 2026 | Individual meter billing history showing no actual electricity use at Spetses address. Lane 2 Supporting. |
-| **E-53** | DEI forensic — tax component breakdown | Pending local export | Apr 2026 | Itemized breakdown showing Greek tax surcharges comprise majority of utility bills. Lane 3 Supporting. |
-| **E-54** | DEI forensic — 21,616 record summary | Pending local export | Apr 2026 | Full dataset summary for MLAT Tab 6 Row 7 (DEH records). Lane 3 Supporting. |
+| **E-84** | DEI forensic — 5 meters on AFM 044594747 | Pending local export | Apr 2026 | Zero consumption Feb 2026, $1,312/yr tax burden, 61% of DEI bills = Greek taxes. 21,616 records. Proves phantom business has no real activity. Lane 2 Supporting. |
+| **E-85** | DEI forensic — meter-level analysis | Pending local export | Apr 2026 | Individual meter billing history showing no actual electricity use at Spetses address. Lane 2 Supporting. |
+| **E-86** | DEI forensic — tax component breakdown | Pending local export | Apr 2026 | Itemized breakdown showing Greek tax surcharges comprise majority of utility bills. Lane 3 Supporting. |
+| **E-87** | DEI forensic — 21,616 record summary | Pending local export | Apr 2026 | Full dataset summary for MLAT Tab 6 Row 7 (DEH records). Lane 3 Supporting. |
 | **E-55** | NBG Account 438 — banking nexus (MLAT target) | Tab 6 Row 6 | Pending MLAT | National Bank of Greece account linked to AFM 051422558. Transaction records needed to trace €35 Lyrakis payment, pension disbursements, and AIT.1 refund routing. MLAT Art. 9 compulsion required. Lane 3 Smoking Gun. |
 | **E-56** | EPPO PP.00736/2026/EN — 6th filing | PP_00736_2026_EN.pdf | 04/04/2026 | Sixth EPPO filing. Covers Pitsilis direct escalation + multi-channel obstruction evidence. Lane 3 Supporting. |
 | **E-57** | Pitsilis direct — AADE Governor letter | Protocol #445 | 04/04/2026 | Direct escalation to AADE Governor Γ. Πιτσιλής. Copied to IRS-CI. Lane 2 Supporting. |
@@ -152,7 +152,7 @@ Three evidentiary lanes, mirroring Tab 2 (Contradiction Queue) and Tab 3 (Timeli
 | Lane | Smoking Guns | Supporting | Total |
 |------|-------------|-----------|-------|
 | L1 -- Contradiction | 7 (E-01 to E-07) | 12 (E-08 to E-11, E-42, E-46, E-47, E-48, E-58, E-59, E-64, E-73) | **19** |
-| L2 -- Intent & Reaction | 12 (E-12 to E-17, E-38 to E-40, E-49, E-55, E-62) | 10 (E-18 to E-23, E-41, E-51 to E-54, E-57, E-61) | **22** |
+| L2 -- Intent & Reaction | 12 (E-12 to E-17, E-38 to E-40, E-49, E-55, E-62) | 10 (E-18 to E-23, E-41, E-84 to E-87, E-57, E-61) | **22** |
 | L3 -- Treaty & Jurisdiction | 5 (E-24 to E-27, E-45) | 17 (E-28 to E-37, E-43, E-44, E-50, E-56, E-60, E-63) | **22** |
 | **TOTAL** | **24** | **38** | **62** |
 
