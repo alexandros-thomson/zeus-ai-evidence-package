@@ -85,3 +85,22 @@ The art205-judicial-suspension-draft.docx is prepared and committed. Each of the
 *4/4 silent rejections. 0 explicit decisions. 0 written rationales. 51+ days. Enforcement ongoing.*
 *John Kyprianos (ΑΦΜ 051422558) — †13 June 2021 — Day 1,756*
 *Η σιωπή δεν αποτελεί απάντηση — αποτελεί αποδεικτικό στοιχείο.*
+
+---
+
+## APPENDIX: Dead Agency Email Addresses — Systematic Inaccessibility Evidence
+
+Documented on 09/04/2026 during phantom business escalation. These are not bounce-and-fix situations — they are structural evidence that Greek agencies do not maintain accessible communication channels.
+
+| Address | Failure Mode | Significance |
+|---------|-------------|--------------|
+| grammateia@aade.gr | Unknown user | AADE's own general inbox doesn't exist |
+| gemi@aade.gr | Mail loop (MX misconfiguration) | ΓΕΜΗ business registry has broken email infrastructure |
+| sdoe@sdoe.gr | Domain gone — ΣΔΟΕ has no public-facing email domain | SDOE is unreachable by email entirely |
+
+Three confirmations that DID deliver:
+- info@eppo.europa.eu — EPPO PP.00179 (and related cases)
+- press@synigoros.gr — Synigoros direct
+- grammateia@synigoros.gr — Synigoros registry
+
+The ΣΔΟΕ domain absence (sdoe.gr does not exist) goes directly into the domestic exhaustion / systematic inaccessibility argument: Art.13 ECHR, Tab 6 Lane 2.
