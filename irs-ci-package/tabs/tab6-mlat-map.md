@@ -14,6 +14,8 @@
 
 Before MLAT activation is warranted, the requesting party must demonstrate that domestic legal channels have been pursued and have failed or are insufficient. As of Protocol #486 (April 9, 2026), 486 documented protocols have been filed across U.S. and Greek authorities over 1,763 days since John Kyprianos's death (June 13, 2021). Every request for voluntary disclosure has either been refused, ignored beyond statutory deadlines, or produced materially incomplete responses.
 
+Protocol 4180 ΕΞ 2026 is a self-contradictory administrative response: the Ministry's own MS Bookings extract shows a 3:00–3:20 a.m. Eastern Time customer window for a U.S.-based user, while the response itself attributes the failed myKEPlive appointment to the citizen's non-connection. This is best characterized as institutional deflection through internally contradictory system-generated evidence, not an ordinary service denial.
+
 The following custodians hold records that are:
 - **Material** to establishing criminal tax fraud (26 USC §§7206, 7212), wire fraud (18 USC §1343), mail fraud (18 USC §1341), identity theft (18 USC §1028A), and elder financial exploitation
 - **Non-producible** through voluntary means given custodian conduct to date
