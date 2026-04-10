@@ -24,6 +24,7 @@
 | sdoe@sdoe.gr | Domain does not exist | 09/04/2026 | sdoe.gr is gone — use kefode.attikis@aade.gr (Protocol #451-R confirmed) |
 | grammateia@notariat.gr | 550 No longer accepts | Prior | Use notaries@notariat.gr |
 | Athens.Office@eppo.europa.eu | 550 Does not exist | 08/04/2026 | EPPO HAS NO PUBLIC EMAIL — see Section 3 |
+| info@ktimatologio.gr | 550 Address not found | 10/04/2026 | Use nd@ktimatologio.gr or ktimagen@ktimatologio.gr |
 
 ---
 
