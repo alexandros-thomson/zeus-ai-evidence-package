@@ -11,7 +11,7 @@
 | grammateia@aade.gr | registry@aade.gr | AADE | Confirmed dead |
 | protocol@aade.gr | desyp@aade.gr | AADE | Confirmed dead |
 | gemi@aade.gr | gemi@gemi.gr | GEMI | Wrong domain |
-| sdoe@sdoe.gr | sdoe@aade.gr | ΣΔΟΕ | Wrong domain — ΣΔΟΕ operates under aade.gr |
+| sdoe@sdoe.gr | kefode.attikis@aade.gr | ΣΔΟΕ / ΚΕΦΟΔΕ | Domain dead — ΚΕΦΟΔΕ Αττικής is correct replacement (Protocol #451-R, 07/04/2026) |
 | eisaggelia.protodikon.peiraia@gmail.com | eisaggelika@eispp.gr | Εισαγγελία Πρωτοδικών Πειραιά | Gmail inbox full / unofficial |
 | eisap@eisap.gr | dioikitiko@eisap.gr | ΕΙΣΑΠ / Εισαγγελία Αρείου Πάγου | 550 User unknown — confirmed 08/04/2026 |
 
@@ -21,7 +21,7 @@
 
 | Address | Error | Confirmed | Notes |
 |---------|-------|-----------|-------|
-| sdoe@aade.gr | User not found | Prior | Use kataggelies@sdoe.gr or sdoe@aade.gr (verify) |
+| sdoe@sdoe.gr | Domain does not exist | 09/04/2026 | sdoe.gr is gone — use kefode.attikis@aade.gr (Protocol #451-R confirmed) |
 | grammateia@notariat.gr | 550 No longer accepts | Prior | Use notaries@notariat.gr |
 | Athens.Office@eppo.europa.eu | 550 Does not exist | 08/04/2026 | EPPO HAS NO PUBLIC EMAIL — see Section 3 |
 
@@ -67,7 +67,7 @@
 | AADE general | registry@aade.gr |
 | AADE DESYP fraud | desyp@aade.gr |
 | GEMI | gemi@gemi.gr |
-| ΣΔΟΕ | sdoe@aade.gr |
+| ΣΔΟΕ / ΚΕΦΟΔΕ | kefode.attikis@aade.gr |
 | Εισαγγελία Πρωτοδικών Πειραιά | minisis@eispp.gr / poinikidioxi@eispp.gr |
 | Εισαγγελία Αρείου Πάγου | dioikitiko@eisap.gr |
 | Συμβολαιογραφικός Σύλλογος | notaries@notariat.gr |

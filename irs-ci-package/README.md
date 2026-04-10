@@ -1,4 +1,4 @@
-# IRS-CI Evidence Package — April 20, 2026
+# IRS-CI Evidence Package — April 21, 2026
 
 **Prepared for:** SA Clint Zacheranik + SA Henry Pletscher, IRS Criminal Investigation
 **Prepared by:** Stamatina Kyprianos (also appearing in Greek records as Σταματίνα Κυπριανού)
@@ -11,14 +11,17 @@
 | Tab | Title | Status |
 |-----|-------|--------|
 | Cover | [Cover Sheet](tabs/cover-sheet.md) | ✅ Complete |
-| 1 | [Executive Summary](tabs/tab1-executive-summary.md) | ✅ Draft |
+| 1 | [Executive Summary](tabs/tab1-executive-summary.md) | ✅ Complete |
 | 2 | [Contradiction Matrix](tabs/tab2-contradiction-matrix.md) | ✅ Draft |
 | 3 | [Master Timeline](tabs/tab3-timeline.md) | ✅ Draft |
 | 4 | [Actor Map](tabs/tab4-actor-map.md) | ✅ Draft |
-| 5 | [Evidence Index](tabs/tab5-evidence-index.md) | ✅ Skeleton |
-| 6 | [MLAT / Record-Compulsion Map](tabs/tab6-mlat-map.md) | ✅ Draft |
-| 7 | [Ask List](tabs/tab7-ask-list.md) | ✅ Draft |
+| 5 | [Evidence Index](tabs/tab5-evidence-index.md) | ✅ Draft (66 exhibits, 3 lanes) |
+| 6 | [MLAT / Record-Compulsion Map](tabs/tab6-mlat-map.md) | 🔒 LOCKED (13 custodians, commit 79071be) |
+| 7 | [Ask List](tabs/tab7-ask-list.md) | 🔒 LOCKED (22 asks + 7 day-of asks, commit 79071be) |
+| 8 | [Damage Quantification](tabs/tab8-damage-quantification.md) | ✅ Complete (€6,600,000 total) |
 | A | [Chain of Custody / Source Authentication](tabs/appendix-a-chain-of-custody.md) | ✅ Auto-generated |
+| B | [Death Registration Obstruction](tabs/appendix-b-death-registration-obstruction.md) | ✅ Complete |
+| PB1 | [Ask List Binder Tab](ASK-PB1-binder-tab7.md) | ✅ Complete |
 
 ## Architecture
 
@@ -76,7 +79,7 @@ Generates `irs-ci-package/manifest.json` and updates Appendix A with SHA-256 has
 
 - Package started: March 30, 2026
 - Pipeline added: March 31, 2026
-- Last updated: March 31, 2026
-- Target freeze: April 18, 2026
-- Meeting date: ~April 20, 2026
-- Protocol count at creation: 445++
+- Last updated: April 9, 2026
+- Target freeze: April 18, 2026 (6PM EDT — HARD FREEZE)
+- Meeting date: April 21, 2026 (confirmed)
+- Protocol count at last sync: 486+

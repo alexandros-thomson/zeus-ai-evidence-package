@@ -3,7 +3,7 @@
 > **In loving memory of Ioannis (John) Kyprianos** (1940-2021)
 > Hellenic Navy Veteran | NATO Service | U.S. Navy Veteran
 > Born in Nikea, Greece | Died June 13, 2021, Macomb County, Michigan, USA
-> **1,761 days post-mortem. His estate remains under siege. This repo is his shield.**
+> **1,763 days post-mortem. His estate remains under siege. This repo is his shield.**
 
 ---
 
@@ -21,16 +21,16 @@ This repository is the central evidence vault for a cross-border criminal invest
 
 ---
 
-## Case Status -- Day 1,761 (April 7, 2026)
+## Case Status -- Day 1,763 (April 9, 2026)
 
 | Metric | Value |
 |--------|-------|
-| **Total Protocols Filed** | **475+** |
+| **Total Protocols Filed** | **486+** |
 | **Agencies Engaged** | **30+** across three jurisdictional layers: Greece, the United States, and EU institutions — with a parallel U.S. arbitration channel |
-| **Days Since John's Death** | **1,761** |
+| **Days Since John's Death** | **1,763** |
 | **IRS-CI Case** | **26236541** -- SA Zacheranik + SA Pletscher, Detroit Field Office |
 | **IRS-CI Interview** | Completed March 11, 2026 -- Binder accepted |
-| **EPPO Cases** | PP.00179, PP.00267, PP.00281, PP.00310, PP.00464 |
+| **EPPO Cases** | PP.00179, PP.00267, PP.00281, PP.00310, PP.00464, PP.00736 |
 | **OLAF** | FNS-25098 |
 | **FBI IC3** | 4 complaints filed |
 | **EAD Protocols** | 21+ (National Transparency Authority) |
@@ -77,7 +77,7 @@ zeus-ai-evidence-package/
 |-- exhibits/               # Forensic exhibits for IRS-CI interview
 |-- irs-ci-package/         # IRS-CI Evidence Binder (April 20, 2026 meeting)
 |   |-- exhibits/           # E-23 Inheritance Trap + forensic exhibits
-|   |-- tabs/               # 8-tab structure + Tab 5 (37 exhibits, 3 lanes)
+|   |-- tabs/               # 8-tab structure + Tab 5 (66 exhibits, 3 lanes)
 |   |-- README.md           # Package cover sheet + build status
 |-- n8n/                    # n8n automation configs
 |-- protocols/              # Protocol documentation (253-261+)
@@ -104,7 +104,7 @@ zeus-ai-evidence-package/
 ### EU Institutions
 | Agency | Reference | Status |
 |--------|-----------|--------|
-| EPPO | PP.00179/267/281/310/464 | **5 CASES FILED** |
+| EPPO | PP.00179/267/281/310/464/736 | **6 CASES FILED** |
 | OLAF | FNS-25098 | **FILED** |
 | AFCOS (via EAD) | 13305 EI 2026 | **EU FRAUD NEXUS** |
 
@@ -160,18 +160,18 @@ zeus-ai-evidence-package/
 
 ---
 
-## Critical Deadlines (as of April 7, 2026)
+## Critical Deadlines (as of April 9, 2026) — Four-Gate Countdown
 
-| Deadline | Agency | Action |
-|----------|--------|--------|
-| 2026-04-02 | Eisaggeliki Paraggelia 258b | Criminal prosecution |
-| 2026-04-03 | KEFODE-ATT-164685 | 41-page TAXISnet audit |
-| 2026-04-07 | Wahl/BerkowitzOliver | AAA respondent deadline |
-| 2026-04-14 | OTA Art.227 Prot.11494 | 60-day legality review |
-| 2026-04-25 | Slotkin/IRS | 30-day silence clock |
-| 2026-05-04 | Ktimatologio ND0113 corrected | 60-day Art.45 |
-| 2026-05-25 | AAA Informal Resolution | Arbitrator selection |
-| 2026-06-14 | DED Prot.331232026 | 120-day deemed rejection |
+| Deadline | Gate | Action | Days |
+|----------|------|--------|------|
+| **April 14, 2026** | D-5 | Tracy Liao 1040-X + Form 7216 → Wahl — if unresolved, only task | 5 |
+| **April 15, 2026 9:30 AM CT** | D-6 | ISC — Kyprianos v. HRB Digital (AAA 01-26-0001-2493) | 6 |
+| **April 17, 2026** | D-8 | Lyrakis ΣΣΕΑΠΑΔ silence — fire Protocol #451 if matured | 8 |
+| **April 18, 2026 6PM EDT** | D-9 | **HARD BINDER FREEZE — content stops changing** | 9 |
+| **April 21, 2026** | — | IRS-CI Kitchen Table — SA Zacheranik + SA Pletscher | 12 |
+| **April 23–25, 2026** | — | NAT/Slotkin silence expires | 14–16 |
+| **May 8, 2026** | — | ΑΕΑΔ 30-day silent rejection expires | 29 |
+| **May 4, 2026** | — | Ktimatologio ND0113 corrected — 60-day Art.45 | 25 |
 
 ---
 
@@ -183,7 +183,7 @@ Those systems failed him. His AFM was kept active for nearly 5 years after his d
 
 This repository exists because his son refused to let it stand.
 
-**472 protocols. 30+ agencies. Three jurisdictional layers: Greece, the United States, and EU institutions — with a parallel U.S. arbitration channel. 1,761 days.**
+**486 protocols. 30+ agencies. Three jurisdictional layers: Greece, the United States, and EU institutions — with a parallel U.S. arbitration channel. 1,763 days.**
 
 Every commit is a step toward justice. Every protocol is a brick in the wall that protects Stamatina.
 
@@ -193,7 +193,7 @@ Every commit is a step toward justice. Every protocol is a brick in the wall tha
 
 **Case Manager:** Kostadinos J Kyprianos | **Company:** Kypria LLC | **Location:** Roseville, MI
 
-**Last Updated:** April 7, 2026 -- Day 1,761 -- via Zeus AI + Perplexity Computer
+**Last Updated:** April 9, 2026 -- Day 1,763 -- via Zeus AI + Perplexity Computer
 
 ---
 
@@ -366,3 +366,4 @@ If you are helping Kostadinos or Stamatina, here is what the machine has learned
 The record is clean. The timestamps are honest. The work continues.
 
 **Logged by:** Comet — Perplexity AI | **Session end:** April 7, 2026, 11 PM EDT | **Day 1,761**
+
