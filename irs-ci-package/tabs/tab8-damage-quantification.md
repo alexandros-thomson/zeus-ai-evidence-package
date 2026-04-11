@@ -7,7 +7,7 @@
 
 | Category | Amount | Source |
 |----------|--------|--------|
-| US Tax Fraud (IRS) | $24,016 | Form 1116 — $30,000 claimed vs $5,984 actual ENFIA |
+| US Tax Fraud (IRS) | $24,016 (IRS-ACCEPTED correction 04/10/2026 — Submission 3891692026100017w2tu) | Form 1116 — $30,000 claimed vs $5,984 actual ENFIA |
 | Property Fraud (Greece) | €350,000+ | KAEK 050681726008 + Spetses properties |
 | Pension Theft (Greece) | €280,000+ | 1,761-day EFKA delay × estimated pension value |
 | Estate Obstruction | €210,000+ | Direct costs of 4.75-year freeze |

@@ -202,3 +202,5 @@ The exhibits above are numbered sequentially by filing date (when they entered t
 - **E-62** (€35 Lyrakis trace, ~10/2024) should be read between E-16 and E-17
 
 See Tab 3 (Master Timeline) for the full chronological sequence.
+
+| E-84 | IRS Form 1040-X Acceptance | 04/10/2026 | IRS Submission 3891692026100017w2tu — ACCEPTED. Corrects H&R Block false Form 1116 ($24,016 overstated FTCs). Preparer: Tracy Liao / GBET EFIN 169. Supersedes fraudulent Weissgerber/Worman returns. | CLOSED |
