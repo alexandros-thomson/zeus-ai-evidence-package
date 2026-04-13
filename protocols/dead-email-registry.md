@@ -1,5 +1,5 @@
 # Dead Email Registry — Justice for John
-## Last updated: 09/04/2026 — Day 1,763
+## Last updated: 13/04/2026 — Day 1,767
 ## Rule: NEVER use any address in the left column. Use right column only.
 
 ---
@@ -11,7 +11,7 @@
 | grammateia@aade.gr | registry@aade.gr | AADE | Confirmed dead |
 | protocol@aade.gr | desyp@aade.gr | AADE | Confirmed dead |
 | gemi@aade.gr | gemi@gemi.gr | GEMI | Wrong domain |
-| sdoe@sdoe.gr | kefode.attikis@aade.gr | ΣΔΟΕ / ΚΕΦΟΔΕ | Domain dead — ΚΕΦΟΔΕ Αττικής is correct replacement (Protocol #451-R, 07/04/2026) |
+| sdoe@sdoe.gr | sdoe@mnec.gr + kataggelies@sdoe.gr | ΣΔΟΕ | Domain dead — use Ministry of Economy addresses (confirmed working 06/04/2026). Also: kefode.attikis@aade.gr for ΚΕΦΟΔΕ Αττικής |
 | eisaggelia.protodikon.peiraia@gmail.com | eisaggelika@eispp.gr | Εισαγγελία Πρωτοδικών Πειραιά | Gmail inbox full / unofficial |
 | eisap@eisap.gr | dioikitiko@eisap.gr | ΕΙΣΑΠ / Εισαγγελία Αρείου Πάγου | 550 User unknown — confirmed 08/04/2026 |
 
@@ -25,14 +25,19 @@
 | grammateia@notariat.gr | 550 No longer accepts | Prior | Use notaries@notariat.gr |
 | Athens.Office@eppo.europa.eu | 550 Does not exist | 08/04/2026 | EPPO HAS NO PUBLIC EMAIL — see Section 3 |
 | info@ktimatologio.gr | 550 Address not found | 10/04/2026 | Use nd@ktimatologio.gr or ktimagen@ktimatologio.gr |
+| report@eppo.europa.eu | 550 User unknown | 13/04/2026 | DEAD — use info@eppo.europa.eu for general contact or online form for crime reports |
+| sdoe@aade.gr | User not found | 07/04/2026 | sdoe is not under aade.gr — use sdoe@mnec.gr or kataggelies@sdoe.gr |
 
 ---
 
 ## Section 3: Authorities With No Public Email — Use Portal Only
 
 ### EPPO (European Public Prosecutor's Office)
-- **No public email inbox for external parties**
-- Online OTP form (PRIMARY): https://www.eppo.europa.eu/en/report-crime/otp
+- **info@eppo.europa.eu** — General contact (confirmed working per eppo.europa.eu/contact)
+- **press@eppo.europa.eu** — Media/communications
+- **EPPO-DPO@eppo.europa.eu** — Data Protection Officer
+- **report@eppo.europa.eu** — ❌ DEAD (550 User unknown, confirmed 13/04/2026)
+- Online crime report form (PRIMARY for new cases): https://www.eppo.europa.eu/en/report-crime/otp
 - Athens physical: Κυρίλλου Λουκάρεως 14, ΤΚ 11522 / Tel: +30 2132159819
 - Luxembourg HQ: 11 Avenue John F. Kennedy, L-1855
 - European Prosecutor from Greece: Nikolaos Paschalis
@@ -78,4 +83,6 @@
 | ΑΠΔΠΧ contact | contact@dpa.gr |
 | SSA OIG | oig.hotline@ssa.gov |
 | IRS-CI Detroit | Clint.Zacheranik@ci.irs.gov / henry.pletscher@ci.irs.gov |
-| EPPO | Online form only: https://www.eppo.europa.eu/en/report-crime/otp |
+| EPPO general | info@eppo.europa.eu |
+| EPPO crime reports | Online form: https://www.eppo.europa.eu/en/report-crime/otp |
+| ΣΔΟΕ (working) | sdoe@mnec.gr + kataggelies@sdoe.gr |
