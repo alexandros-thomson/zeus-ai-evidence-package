@@ -14,6 +14,8 @@
 | sdoe@sdoe.gr | sdoe@mnec.gr + kataggelies@sdoe.gr | ΣΔΟΕ | Domain dead — use Ministry of Economy addresses (confirmed working 06/04/2026). Also: kefode.attikis@aade.gr for ΚΕΦΟΔΕ Αττικής |
 | eisaggelia.protodikon.peiraia@gmail.com | eisaggelika@eispp.gr | Εισαγγελία Πρωτοδικών Πειραιά | Gmail inbox full / unofficial |
 | eisap@eisap.gr | dioikitiko@eisap.gr | ΕΙΣΑΠ / Εισαγγελία Αρείου Πάγου | 550 User unknown — confirmed 08/04/2026 |
+| complaints@1702.gr | press@synigoros.gr + grammateia@synigoros.gr | Συνήγορος του Πολίτη | 1702.gr domain dead (NXDOMAIN) — use synigoros.gr domain |
+| contact@sdoe.gr | sdoe@mnec.gr + kataggelies@sdoe.gr | ΣΔΟΕ | 550 via gsis.gr — use Ministry of Economy addresses |
 
 ---
 
@@ -27,6 +29,8 @@
 | info@ktimatologio.gr | 550 Address not found | 10/04/2026 | Use nd@ktimatologio.gr or ktimagen@ktimatologio.gr |
 | report@eppo.europa.eu | 550 User unknown | 13/04/2026 | DEAD — use info@eppo.europa.eu for general contact or online form for crime reports |
 | sdoe@aade.gr | User not found | 07/04/2026 | sdoe is not under aade.gr — use sdoe@mnec.gr or kataggelies@sdoe.gr |
+| complaints@1702.gr | Domain does not exist (NXDOMAIN) | 13/04/2026 | 1702.gr domain gone — Συνήγορος του Πολίτη uses synigoros.gr (press@synigoros.gr, grammateia@synigoros.gr) |
+| contact@sdoe.gr | 550 User not found (o365.gsis.gr) | 13/04/2026 | ΣΔΟΕ address under gsis.gr rejected — use sdoe@mnec.gr + kataggelies@sdoe.gr + kefode.attikis@aade.gr |
 
 ---
 
@@ -76,6 +80,8 @@
 | ΣΔΟΕ / ΚΕΦΟΔΕ | kefode.attikis@aade.gr |
 | Εισαγγελία Πρωτοδικών Πειραιά | minisis@eispp.gr / poinikidioxi@eispp.gr |
 | Εισαγγελία Αρείου Πάγου | dioikitiko@eisap.gr |
+| Συνήγορος του Πολίτη | press@synigoros.gr + grammateia@synigoros.gr |
+| ΣΔΟΕ (working) | sdoe@mnec.gr + kataggelies@sdoe.gr |
 | Συμβολαιογραφικός Σύλλογος | notaries@notariat.gr |
 | ΑΕΑΔ formal | grammateia@aead.gr |
 | ΑΕΑΔ DMS | dms@aead.gr |
@@ -86,3 +92,4 @@
 | EPPO general | info@eppo.europa.eu |
 | EPPO crime reports | Online form: https://www.eppo.europa.eu/en/report-crime/otp |
 | ΣΔΟΕ (working) | sdoe@mnec.gr + kataggelies@sdoe.gr |
+
