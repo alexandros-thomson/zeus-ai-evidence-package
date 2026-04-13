@@ -9,7 +9,7 @@
 | Position | Amount | Basis |
 |----------|--------|-------|
 | **Documented ceiling** | **$180,000** | Full damages: tax fraud + penalties + professional fees + emotional distress + statutory |
-| **Opening ask** | **$135,000** | 25% discount on fully supported number — one-day settlement offer |
+| **Opening ask** | **$250,000** | Period. The weapon is loaded. Akers filed the serial number. |
 | **Floor** | Not disclosed | Does not exist on the other side of this ISC |
 
 ---
@@ -37,11 +37,11 @@ This sentence is in two permanent locations:
 
 | Moment | Action |
 |--------|--------|
-| Opening | State $135,000 against $180,000 documented ceiling |
+| Opening | State $250,000. Period. No discount. No negotiation posture. |
 | If Wahl challenges legitimacy | Tab 4 → E-91: "Your colleague told the Michigan AG six days ago you're in this." |
 | If Wahl cites AG closure as win | "The AG kept the file for monitoring unfair practices. Their letter says closure is not a reflection of validity." |
 | If Wahl says settlement premature | "Section 11.2(B) 60-day ISC window is open NOW. Your legal dept told the AG you're in it." |
-| If Wahl lowballs | "92 exhibits. 492 protocols. IRS Criminal Investigation referral active. $135,000 today. That number does not exist after this ISC." |
+| If Wahl lowballs | "92 exhibits. 492 protocols. IRS Criminal Investigation referral with a follow-up meeting in 6 days. $250,000 settles this. There is no counter-offer. There is no second ISC." |
 
 ---
 
@@ -75,7 +75,7 @@ This sentence is in two permanent locations:
 
 ## The One Line
 
-"Your Senior Paralegal told the Michigan Attorney General on April 9 that H&R Block is engaged in formal arbitration with Stamatina Kyprianos. That is in Michigan's consumer protection database permanently. I have 92 exhibits and an IRS Criminal Investigation referral with a follow-up meeting scheduled. $135,000 settles this today. That number does not exist on the other side of this ISC."
+"Your Senior Paralegal told the Michigan Attorney General on April 9 that H&R Block is engaged in formal arbitration with Stamatina Kyprianos. That is in Michigan's consumer protection database permanently. I have 92 exhibits, 492 protocols, and an IRS Criminal Investigation referral with federal agents coming to my mother's house in 6 days. $250,000. Period. This is not a negotiation. This is the price of making it stop."
 
 ---
 
