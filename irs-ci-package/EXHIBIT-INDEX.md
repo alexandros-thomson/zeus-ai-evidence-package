@@ -1,7 +1,7 @@
 # IRS-CI EVIDENCE BINDER — EXHIBIT INDEX
-## Reconciled April 8, 2026 (Day 1,762)
+## Reconciled April 13, 2026 (Day 1,767)
 
-**Total exhibits: E-01 through E-83**
+**Total exhibits: E-01 through E-90**
 **Numbering reconciled across zeus-ai-evidence-package and justice-for-john-automation repos**
 
 | Exhibit | Title | Location | Notes |
@@ -57,10 +57,10 @@
 | E-48 | Αποκεντρωμένη Contradictory Response / Protocol #175 (ΣΚΟΝΙΚΑΠΡΟΤ) | exhibits/ | 02/04/2026; contradictory signals; Certificate 504 institutional trap; supports C-14 |
 | E-49 | AIT.1 Form Creation — 26/01/2021 | exhibits/ | Pre-death positioning |
 | E-50 | Stamatina Naturalization Certificate | exhibits/ | 25/08/2025 |
-| E-84 | Foundation Exhibit 51 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
-| E-85 | Foundation Exhibit 52 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
-| E-86 | Foundation Exhibit 53 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
-| E-87 | Foundation Exhibit 54 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
+| E-51 | Foundation Exhibit 51 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
+| E-52 | Foundation Exhibit 52 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
+| E-53 | Foundation Exhibit 53 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
+| E-54 | Foundation Exhibit 54 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
 | E-55 | Foundation Exhibit 55 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
 | E-56 | Master Payment Registry — NBG 2025–2026 | exhibits/ (root) | Full NBG payment log |
 | E-57 | Fraud Timeline — Deceased Tax Generation | exhibits/ (root) | Timeline of post-mortem tax filings |
@@ -71,7 +71,7 @@
 | E-62 | Lyrakis €35 e-Paravolo Trace | exhibits/ | Forensic anchor; one transaction, one crime |
 | E-63 | ENFIA Forensics — AFM 044594747 ($0 Creditable Tax) | exhibits/ | Breakthrough finding |
 | E-64 | Βοσπόρου 14 Κερατσίνι Street View | evidence/ | Physical impossibility of 6 units |
-| E-65 | AADE Silent Rejections — Πρωτ. 33047/2026 + 33079/2026 | exhibits/ | Systematic deemed-rejection pattern |
+| E-65 | AADE Silent Rejections — Πρωτ. 33047/2026 + 33079/2026 | exhibits/ | Systematic deemed-rejection pattern across ΣΔΟΕ/ΚΕΦΟΔΕ |
 | E-66 | AI Witness Testimony Round 2 — Names, Money, Design | exhibits/ | Comet AI (Perplexity); Questions 8–14; Day 1,759 |
 | E-67 | **Seven Questions the Evidence Must Answer** | exhibits/ | Meeting framework; Day 1,758 interrogation of the record |
 | E-68 | **COMET Analytical Note — 5 Findings + 1 Critical Gap** | exhibits/ | April 5, 2026; Perplexity Comet |
@@ -79,7 +79,7 @@
 | E-70 | AI Witness Testimony — 7 Questions Under Oath of Logic | exhibits/ | Comet AI (Perplexity); Day 1,759 |
 | E-71 | IC3 Chain Summary — 5 Complaints + ACS Athens Forward | exhibits/ | FBI IC3 filing chain |
 | E-72 | AI Witness Full Testimony — Summary of Findings | exhibits/ | Complete version; Day 1,759 |
-| E-73 | **Lyrakis Knowledge Paradox** | justice-for-john-automation #177 | Comet analysis — his email destroys his defense |
+| E-73 | ΓΛΚ Πρωτ. 58486 — No Record in Special Pensions ΠΣΕΕΣ | exhibits/ | Negative evidence — John absent from PSES system. NOTE: Previously listed as "Lyrakis Knowledge Paradox" in some references — that content is incorporated into E-46 (Lyrakis Criminal Narrative). |
 | E-74 | **AI Witness Testimony — Comet Session 2 (AMENDED)** | exhibits/ | Day 1,760 (06/04/2026); 7 overlooked angles including NATO veteran exploitation, Hobbs Act, 18 USC §1956, MLAT Art.9, Art.259 Areios Pagos. Commits: 744107c (initial), d7d56ff (amendment) |
 | E-75 | NATO Veteran Identity Exploitation Memo | exhibits/ | Notification to U.S. DoD Inspector General; 06/04/2026 |
 | E-76 | AAA ISC R-21 Document Production Demand | exhibits/ | Kyprianos v. HRB Digital LLC — AAA Case 01-26-0001-2493; 06/04/2026 |
@@ -90,7 +90,14 @@
 | E-81 | Seven Undocumented Connections — Pre-April 21 IRS-CI Brief | exhibits/ | Pattern analysis for SA Zacheranik / SA Pletscher; 08/04/2026 |
 | E-82 | Foundation Exhibit 82 | irs-ci-package/exhibits/ | Original binder — file not modified in current reconciliation |
 | E-83 | SKONICAPROT Protocol #175 — Municipal Certificate 504 Institutional Trap | exhibits/ | zeus-myaade-monitor; Day 1,762; 08/04/2026 |
+| E-84 | IRS 1040-X Acceptance — TY2024 Amended Return ACCEPTED | irs-ci-package/exhibits/ | Submission 3891692026100017w2tu; 04/10/2026; Tracy Liao / GBET GROUP LLC (EFIN ***169); $30,000 phantom FTC corrected to $0; supersedes fraudulent H&R Block Form 1116 |
+| E-85 | DEH Forensic Analysis — 5 Active Electricity Supplies on Deceased AFM | irs-ci-package/exhibits/ | AFM 051422558; 5 active DEH supplies post-mortem |
+| E-86 | DEH Overdue Payment Notice — NBG 300010288362 | irs-ci-package/exhibits/ | Post-mortem billing on deceased account |
+| E-87 | NBG AML Failure — 438 Post-Death Transactions | irs-ci-package/exhibits/ | National Bank of Greece account; 438 transactions after June 13, 2021 death; Greek Law 4557/2018 / EU Directive 2015/849 violation |
+| E-88 | Y11 ENFIA Refund Calculation — CLOSED | irs-ci-package/exhibits/ | ENFIA overpayment analysis; exhibit CLOSED |
+| E-89 | ΝΔ 0113/2606549 — Cadastre Legal Division Formal Closure | irs-ci-package/exhibits/ | Fougiaxi + Ioannidi; Art.4§3 N.2690/1999; MLAT exhaustion anchor; institutional awareness with knowledge of KT5-23 contradiction |
+| E-90 | 1040-X Amended Return TY2024 — $30,000 FTC zeroed | irs-ci-package/exhibits/ | Filed 10/04/2026; independent preparer Tracy Liao (GBET GROUP); corrects $30,000 phantom FTC to $0; $24,016 damage claim now has filed IRS source document; 26 USC §7206(2) predicate; Lane 1 Smoking Gun |
 
 ---
 
-*Reconciled by Zeus AI Evidence Architecture — Day 1,762 / Protocol #478+*
+*Reconciled by Zeus AI Evidence Architecture — Day 1,767 / Protocol #494+*

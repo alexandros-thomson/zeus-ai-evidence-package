@@ -3,7 +3,7 @@
 > **In loving memory of Ioannis (John) Kyprianos** (1940-2021)
 > Hellenic Navy Veteran | NATO Service | U.S. Navy Veteran
 > Born in Nikea, Greece | Died June 13, 2021, Macomb County, Michigan, USA
-> **1,763 days post-mortem. His estate remains under siege. This repo is his shield.**
+> **1,767 days post-mortem. His estate remains under siege. This repo is his shield.**
 
 ---
 
@@ -21,13 +21,13 @@ This repository is the central evidence vault for a cross-border criminal invest
 
 ---
 
-## Case Status -- Day 1,763 (April 9, 2026)
+## Case Status -- Day 1,767 (April 13, 2026)
 
 | Metric | Value |
 |--------|-------|
-| **Total Protocols Filed** | **486+** |
+| **Total Protocols Filed** | **494+** |
 | **Agencies Engaged** | **30+** across three jurisdictional layers: Greece, the United States, and EU institutions — with a parallel U.S. arbitration channel |
-| **Days Since John's Death** | **1,763** |
+| **Days Since John's Death** | **1,767** |
 | **IRS-CI Case** | **26236541** -- SA Zacheranik + SA Pletscher, Detroit Field Office |
 | **IRS-CI Interview** | Completed March 11, 2026 -- Binder accepted |
 | **EPPO Cases** | PP.00179, PP.00267, PP.00281, PP.00310, PP.00464, PP.00736 |

@@ -1,5 +1,5 @@
 # Tab 8: Damage Quantification
-## IRS-CI Binder | Kyprianos Estate | Day 1,761 (07/04/2026)
+## IRS-CI Binder | Kyprianos Estate | Day 1,767 (13/04/2026)
 
 ---
 
@@ -7,9 +7,9 @@
 
 | Category | Amount | Source |
 |----------|--------|--------|
-| US Tax Fraud (IRS) | $24,016 (IRS-ACCEPTED correction 04/10/2026 — Submission 3891692026100017w2tu) | Form 1116 — $30,000 claimed vs $5,984 actual ENFIA |
+| US Tax Fraud (IRS) | $24,016 (IRS-ACCEPTED correction 04/10/2026 — Submission 3891692026100017w2tu) | Form 1116 — $30,000 claimed vs $5,984 actual ENFIA. **IRS-ACCEPTED correction 04/10/2026 — Submission 3891692026100017w2tu (E-90). Independent preparer Tracy Liao / GBET GROUP LLC.** |
 | Property Fraud (Greece) | €350,000+ | KAEK 050681726008 + Spetses properties |
-| Pension Theft (Greece) | €280,000+ | 1,761-day EFKA delay × estimated pension value |
+| Pension Theft (Greece) | €280,000+ | 1,767-day EFKA delay × estimated pension value |
 | Estate Obstruction | €210,000+ | Direct costs of 4.75-year freeze |
 | Non-Material (Greece) | Claimed €5,760,000 | Art.105 N.1406/1983 state tort |
 | **TOTAL CLAIMED** | **€6,600,000** | **DAMAGES-PROTOKOLO-6.6M-2026-02-24.md** |
@@ -29,6 +29,13 @@
 - Michael Weissgerber (01/17/2026): "good to know. i don't like making mistakes"
 - Bree Cox (01/26/2026): "based on what you entered, it is correct" — closed case
 - Mellissa Worman (06/08/2025): "I cannot do what you are asking" — refused IRS CP25
+
+**IRS Correction — E-90 (Lane 1 Smoking Gun):**
+- 1040-X filed 10/04/2026 by Tracy Liao (GBET GROUP LLC, EFIN ***169)
+- IRS ACCEPTED — Submission 3891692026100017w2tu
+- $30,000 phantom FTC corrected to $0
+- $24,016 damage claim now has filed IRS source document
+- 26 USC §7206(2) predicate established against H&R Block preparers
 
 **Statutes:** 26 USC 7206 (false returns) | 18 USC 1343 (wire fraud) | 18 USC 1341 (mail fraud)
 
@@ -52,9 +59,18 @@
 
 - John's pension: ΑΜ ΠΝ 39685
 - ΕΦΚΑ routing chain: ΑΠ 419690 → 434147 → 609161 → 613493
-- 1,761 days since death: pension unresolved
+- 1,767 days since death: pension unresolved
 - ΗΔΥΚΑ: GDPR Art.15 request filed — verification docs sent 06/04/2026
-- Estimated loss: €280,000+ (1,761 days × estimated daily pension value)
+- Estimated loss: €280,000+ (1,767 days × estimated daily pension value)
+
+---
+
+## Estate Obstruction — Itemized Costs
+
+| Item | Amount | Source |
+|------|--------|--------|
+| Direct legal and filing costs (protocols, e-paravolo, filings) | Tracked per protocol | Evidence log |
+| Consequential: Greenback Tax Services Fee | $565 | Greenback Invoice OMOJZMVC-0001 + Receipt 2984-1358 — cost of correcting H&R Block's fraudulent preparation |
 
 ---
 
@@ -69,4 +85,4 @@
 
 ---
 
-*Cross-references: DAMAGES-PROTOKOLO-6.6M-2026-02-24.md | E-23 Inheritance Trap | E-46 Lyrakis Narrative | Protocol #447 ΕΓΚΛΗΣΗ €35 | Tab 6 MLAT Map*
+*Cross-references: DAMAGES-PROTOKOLO-6.6M-2026-02-24.md | E-23 Inheritance Trap | E-46 Lyrakis Narrative | E-90 1040-X Acceptance | Protocol #447 ΕΓΚΛΗΣΗ €35 | Tab 6 MLAT Map*
