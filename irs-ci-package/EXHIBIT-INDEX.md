@@ -1,7 +1,7 @@
 # IRS-CI EVIDENCE BINDER — EXHIBIT INDEX
 ## Reconciled April 13, 2026 (Day 1,767)
 
-**Total exhibits: E-01 through E-90**
+**Total exhibits: E-01 through E-92**
 **Numbering reconciled across zeus-ai-evidence-package and justice-for-john-automation repos**
 
 | Exhibit | Title | Location | Notes |
@@ -97,6 +97,8 @@
 | E-88 | Y11 ENFIA Refund Calculation — CLOSED | irs-ci-package/exhibits/ | ENFIA overpayment analysis; exhibit CLOSED |
 | E-89 | ΝΔ 0113/2606549 — Cadastre Legal Division Formal Closure | irs-ci-package/exhibits/ | Fougiaxi + Ioannidi; Art.4§3 N.2690/1999; MLAT exhaustion anchor; institutional awareness with knowledge of KT5-23 contradiction |
 | E-90 | 1040-X Amended Return TY2024 — $30,000 FTC zeroed | irs-ci-package/exhibits/ | Filed 10/04/2026; independent preparer Tracy Liao (GBET GROUP); corrects $30,000 phantom FTC to $0; $24,016 damage claim now has filed IRS source document; 26 USC §7206(2) predicate; Lane 1 Smoking Gun |
+| E-91 | HRB Akers Request to Close Michigan AG Complaint | irs-ci-package/exhibits/ | H&R Block representative Akers requested closure of Michigan AG complaint; demonstrates awareness of regulatory exposure; cross-ref AAA Case 01-26-0001-2493 |
+| E-92 | Michigan AG Closure — File 2026-0449236-A CLOSED | irs-ci-package/exhibits/ | Michigan AG closed File 2026-0449236-A on 09/04/2026; AG stated "no further action at this time"; preserves right to reopen; evidence of H&R Block lobbying to close before ISC; committed 03843e1 |
 
 ---
 
