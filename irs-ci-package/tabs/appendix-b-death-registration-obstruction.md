@@ -201,6 +201,26 @@ A Greek notary failed to register a U.S. citizen's death for 1,025 days, enablin
 
 ---
 
-**Cross-references:** Tab 1 (Executive Summary) | Tab 3 (Timeline: T-01 through T-10) | Tab 4 (Actor Map: Lyrakis) | Tab 5 (Evidence Index: E-04, E-05, E-07, E-12, E-15, E-16) | Appendix A (Chain of Custody)
+## Cadastral Track: Domestic Remedy Exhaustion — AEAD 23063 ΕΙ 2026
 
-Source: Zeus AI Evidence Architecture — Day 1,753 — 412+ protocols — commit-tracked
+On 14/04/2026 (Day 1,768), ΑΕΑΔ Πρωτ. 23063 ΕΙ 2026 was filed and protocolled via ΣΗΔΕ, formally anchoring **ΝΔ 0113/2606549** (Κτηματολόγιο Νήσων Αττικής Legal Division formal closure) as the domestic remedy exhaustion point for the cadastral track.
+
+**What this establishes:**
+
+| Element | Status |
+|---------|--------|
+| KT5-23 triple refusal (Prot. 448/2026) | Documented — Art. 4§1 N.2690/1999 violated ×3 |
+| ΝΔ 0113/2606549 Legal Division closure | CLOSED — formal administrative closure by Cadastre Legal Division |
+| ΑΕΑΔ 23063 ΕΙ 2026 | PROTOCOLLED — government-timestamped receipt of exhaustion evidence |
+| Domestic remedies at Κτηματολόγιο | **EXHAUSTED** — no further administrative avenue available |
+
+**Significance for IRS-CI / MLAT / ECHR:** The cadastral obstruction is no longer a matter of administrative follow-up. All domestic remedies at the Κτηματολόγιο have been formally pursued and closed. ΑΕΑΔ 23063 is the state-stamped proof of exhaustion, establishing the prerequisite for:
+- MLAT Art. 9 compulsion (Tab 6) for cadastral records via IRS-CI
+- ECHR Art. 6 / Art. 13 (right to effective remedy) — domestic remedies demonstrably exhausted
+- Art. 1 Protocol 1 ECHR (protection of property) — property rights systematically obstructed
+
+---
+
+**Cross-references:** Tab 1 (Executive Summary) | Tab 3 (Timeline: T-01 through T-10) | Tab 4 (Actor Map: Lyrakis) | Tab 5 (Evidence Index: E-04, E-05, E-07, E-12, E-15, E-16) | E-89 (ΝΔ 0113/2606549) | Appendix A (Chain of Custody)
+
+Source: Zeus AI Evidence Architecture — Day 1,768 — 496+ protocols — commit-tracked

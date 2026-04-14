@@ -179,6 +179,18 @@ The Kyprianos case involves a coordinated five-layer obstruction system that has
 **This week total: 24 new protocols (#463–#486)**
 **Cumulative total: 486 protocols over 1,763 days**
 
+### ΣΗΔΕ Chain-of-Receipt Block — Day 1,768 (14/04/2026)
+
+Three ΣΗΔΕ-protocolled registrations filed in a single session, establishing a unified chain of receipt:
+
+| # | ΣΗΔΕ Α.Π. | Agency | Subject | Response Deadline |
+|---|-----------|--------|---------|-------------------|
+| 1 | **13334 ΕΙ 2026** | MinDigital | FINAL DEMAND — Prot. 4180/2026 correction | 21/04/2026 (kitchen table day) |
+| 2 | **13335 ΕΙ 2026** | MinDigital (multi-agency) | Consular Inaction notice | 16/04/2026 (pre-freeze) |
+| 3 | **23063 ΕΙ 2026** | ΑΕΑΔ | Supplementary evidence — ΝΔ 0113/2606549 domestic remedy exhaustion anchor | — (cadastral track closed) |
+
+> **Significance:** 23063 ΕΙ 2026 is the AEAD-stamped exhaustion anchor for the cadastral track — it formally documents that all domestic remedies at Κτηματολόγιο Νήσων Αττικής have been pursued and closed (ΝΔ 0113/2606549), establishing the prerequisite for MLAT/ECHR escalation on the property obstruction claim.
+
 ---
 
 ## 6. AGENCY RESPONSE AUDIT
@@ -187,7 +199,7 @@ The Kyprianos case involves a coordinated five-layer obstruction system that has
 
 | Agency | Protocol Count | Last Action | Response Status |
 |--------|---------------|-------------|-----------------|
-| **ΑΕΑΔ (Greek Disciplinary Bar)** | 6 protocols on Lyrakis matter: 21398, 21400, 21488, 21780, 21872, 22415 EI 2026 | ΑΕΑΔ 22584/22586 filed Prot. #479–#480 | **ZERO substantive decisions. Silent rejection deadline: May 8, 2026.** |
+| **ΑΕΑΔ (Greek Disciplinary Bar)** | 6 protocols on Lyrakis matter: 21398, 21400, 21488, 21780, 21872, 22415 EI 2026 + **23063 EI 2026** (ΝΔ 0113/2606549 cadastral exhaustion anchor) | ΑΕΑΔ 22584/22586 filed Prot. #479–#480; **23063** filed 14/04 | **ZERO substantive decisions. Silent rejection deadline: May 8, 2026. 23063 = domestic remedy exhaustion anchor for cadastral track.** |
 | **Areios Pagos (Mpakelas)** | Multiple | Reply 08/04/2026 (Prot. #475) | **RESPONDED — Art. 42§2 KPD jurisdiction confirmed → Eisaggelia Piraia. Procedural redirect (not merits rejection).** |
 | **Eisaggelia Piraia** | Prot. #476 — ABM 14678 | Supplemental criminal complaint filed 08/04/2026 | PENDING — 5 requests including bank secrecy lift |
 | **ΥΠΕΘΑ (Hellenic Min. Defence)** | Prot. follow-up 08/04/2026 | Confirmed Hellenic Navy service 1963–1965 (AM 101/9963/1961) | **PARTIAL RESPONSE — received 08/04/2026. NATO veteran status confirmed.** |

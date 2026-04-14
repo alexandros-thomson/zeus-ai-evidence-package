@@ -36,6 +36,16 @@
 | 6 | Form 7216 signed | ⚠️ CHECK — Wahl sent, deadline was Apr 8 | Verify Kostas signed |
 | 7 | ΝΔ 0113/2606549 filed as E-89 | ✅ Filed with Piraeus + IRS-CI (#487–491) | — |
 
+**ΣΗΔΕ Chain-of-Receipt Block — Day 1,768 (14/04/2026):**
+
+| # | ΣΗΔΕ Α.Π. | Subject | Deadline | Clock Status |
+|---|-----------|---------|----------|--------------|
+| 1 | **13334 ΕΙ 2026** | MinDigital FINAL DEMAND — Prot. 4180/2026 correction | **21/04/2026** (kitchen table day) | 🔴 7-day Art.4 N.2690/1999 |
+| 2 | **13335 ΕΙ 2026** | Consular Inaction notice — Gen. Consulate Chicago + 5 agencies | **16/04/2026** (pre-freeze) | 🔴 48-hour acknowledgment |
+| 3 | **23063 ΕΙ 2026** | AEAD supplementary evidence — ΝΔ 0113/2606549 domestic remedy exhaustion anchor | — | ✅ Cadastral track closed |
+
+> Three government-timestamped receipts in a single session. 13335 expires first (16/04), 13334 aligns with IRS-CI kitchen table (21/04), 23063 anchors the cadastral domestic remedy exhaustion for MLAT/ECHR escalation.
+
 **Open Items Before Freeze:**
 - Confirm Form 7216 signature status (was due Apr 8)
 - Incorporate #486 Phantom Business escalation into binder
@@ -194,7 +204,7 @@ Gate 4 (NAT/Peters Apr 23-25) ──→ Auto-escalation if silent
 
 | Metric | Value |
 |--------|-------|
-| Protocol count | **493** |
+| Protocol count | **496** |
 | Agencies engaged | **30+** |
 | Jurisdictions | **3** (US Federal, Greek Administrative, Greek Criminal) |
 | Response rate | **18%** (4/22 primary entities responded) |
