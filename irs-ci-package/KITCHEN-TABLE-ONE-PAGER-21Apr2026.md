@@ -25,7 +25,7 @@ Lyrakis (forged deed) → AADE (phantom AFM 4.75 yrs) → Efthalia (unauthorized
 ---
 
 ### ISC RESULT (April 15, 2026)
-H&R Block attorney Colin Wahl DEFENDED -$830,000 on Form 1116 as "possible." Three actors (Worman/Cox/Wahl) now on record authenticating the impossible figure. Settlement rejected. Demand amended to $312,384. IRS-CI firewall held — zero disclosure.
+H&R Block attorney Colin Wahl DEFENDED -$830,000 on Form 1116 as "possible." Three actors (Worman/Cox/Wahl) now on record authenticating the impossible figure. $250,000 demand rejected. Demand amended to $312,384. IRS-CI firewall held — zero disclosure.
 
 ---
 
