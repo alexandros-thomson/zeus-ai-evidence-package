@@ -64,3 +64,46 @@
 | Κακλαμάνου | Τοπική Α Πειραιώς response, 09/03/2026 |
 | Παπασταύρου | Διοικητική Διεύθυνση responses, 11–16/03/2026 (3x ουδέποτε) |
 | ΗΔΥΚΑ / Vachari | AP3997 Response, 15/04/2026 (HDYKA-AP3997-RESPONSE-15042026.pdf) |
+
+---
+
+## RESOLUTION HYPOTHESIS: NAT (Ναυτικό Απομαχικό Ταμείο)
+
+**Updated 2026-04-15:** The contradiction resolves to **NAT**.
+
+### Why NAT is the answer:
+
+1. **Κακλαμάνου said "συνταξιούχος ΠΝ"** — Hellenic Navy pensioner. Naval pensions are administered by **NAT** (Ναυτικό Απομαχικό Ταμείο), not ΗΔΥΚΑ/ΕΣΕΠΣ.
+2. **Παπασταύρου denies 3x** — because Δ Δ/νση is the wrong office; NAT records sit in a separate system.
+3. **ΗΔΥΚΑ/ΕΣΕΠΣ shows nothing** — because military/naval pensions may not be in the civilian ΕΣΕΠΣ system.
+4. **GLK Prot. 58486 (09/04)** — already confirmed NO RECORD in Special Pensions (wrong system — eliminates ΓΛΚ).
+5. **NAT contacted via mhtrwo2@nat.gr** — THE CORRECT SYSTEM. Protocol 403 demand sent 09/04/2026.
+6. **NAT silence** — Zero response as of 15/04 (T+6). Silence expires ~April 23-25.
+
+### The chain of elimination:
+
+| System Checked | Result | Conclusion |
+|---------------|--------|------------|
+| ΗΔΥΚΑ / ΕΣΕΠΣ | No record (2013-present) | Not the right system for ΠΝ pensions |
+| ΓΛΚ (Special Pensions) | No record (Prot. 58486) | Eliminated |
+| Δ Δ/νση (Παπασταύρου) | "ουδέποτε" 3x | Denial — wrong office or concealment |
+| **NAT** | **PENDING — SILENT** | **The last remaining custodian** |
+
+### Implication:
+If NAT confirms the pension existed, then:
+- Payments were made through NAT's system (not ΕΣΕΠΣ)
+- Someone collected them post-mortem (death: June 13, 2021)
+- Παπασταύρου's triple denial becomes evidence of concealment
+- Cross-reference: 438 unauthorized post-mortem NBG transactions (EUR 21,616)
+
+If NAT denies/stays silent:
+- Their silence is the exhibit (E-74)
+- MLAT A-1 compulsion ask at April 21 IRS-CI meeting
+- NAT becomes Target #1 for compelled production
+
+### Related Exhibits:
+- E-74: NAT silence exhibit
+- E-75: NATO Veteran Identity Exploitation Memo
+- Protocol 403: NAT Pension Demand (09/04/2026)
+- EFKA-NAT-SEEDD Formal Demand AP419690
+- HDYKA-AP3997-RESPONSE-15042026.pdf
