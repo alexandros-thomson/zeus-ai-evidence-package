@@ -1,7 +1,7 @@
 # IRS-CI EVIDENCE BINDER — EXHIBIT INDEX
 ## Reconciled April 13, 2026 (Day 1,767)
 
-**Total exhibits: E-01 through E-92**
+**Total exhibits: E-01 through E-100**
 **Numbering reconciled across zeus-ai-evidence-package and justice-for-john-automation repos**
 
 | Exhibit | Title | Location | Notes |
@@ -99,7 +99,15 @@
 | E-90 | 1040-X Amended Return TY2024 — $30,000 FTC zeroed | irs-ci-package/exhibits/ | Filed 10/04/2026; independent preparer Tracy Liao (GBET GROUP); corrects $30,000 phantom FTC to $0; $24,016 damage claim now has filed IRS source document; 26 USC §7206(2) predicate; Lane 1 Smoking Gun |
 | E-91 | HRB Akers Request to Close Michigan AG Complaint | irs-ci-package/exhibits/ | H&R Block representative Akers requested closure of Michigan AG complaint; demonstrates awareness of regulatory exposure; cross-ref AAA Case 01-26-0001-2493 |
 | E-92 | Michigan AG Closure — File 2026-0449236-A CLOSED | irs-ci-package/exhibits/ | Michigan AG closed File 2026-0449236-A on 09/04/2026; AG stated "no further action at this time"; preserves right to reopen; evidence of H&R Block lobbying to close before ISC; committed 03843e1 |
+| E-93 | HRB Akers Letter to Michigan AG — Request to Close | irs-ci-package/exhibits/ | Akers requested AG closure; demonstrates awareness of regulatory exposure; cross-ref AAA 01-26-0001-2493. NOTE: E-93 also maps to AAA Invoice $375 HRB Filing Fee (14/04/2026) |
+| E-94 | AAA Claimant Receipt $225 — 13 March 2026 | irs-ci-package/exhibits/ | Filing fee receipt; NOTE: E-94 also maps to Michigan AG Closure alternate format |
+| E-95 | AAA Invoice $375 — HRB Filing Fee — 14 April 2026 | irs-ci-package/exhibits/ | AAA administrative record |
+| E-96 | AADE ΚΕΦΟΔΕ Response 443642 — Death Confirmed | irs-ci-package/exhibits/ | ΚΕΦΟΔΕ confirmed death of AFM 051422558 holder; institutional acknowledgment |
+| E-97 | ΗΔΥΚΑ Zero Pension Confirmation — ΑΠ 3997 | irs-ci-package/exhibits/ | ΗΔΥΚΑ confirms zero pension for AFM 051422558; no survivor benefit paid; 15/04/2026 |
+| E-98 | Ghost in the Gap — AADE/EFKA Disconnect Analysis | irs-ci-package/exhibits/ | Analytical memo documenting systemic disconnect between AADE tax records and EFKA pension records for deceased AFM |
+| E-99 | ISC Three-Actor Chain — Weissgerber/Cox/Wahl | irs-ci-package/exhibits/ | ISC 15/04/2026 analytical exhibit; three-actor fraud chain; Wahl defended -$830K as possible |
+| E-100 | myKEPLive No-Show — 82-Day Digital Obstruction Thread | irs-ci-package/exhibits/ | 82-day obstruction timeline from Protocol 4180/2026 through ΣΗΔΕ 13334; 5 days after Jan 14 panic removal of Efthalia |
 
 ---
 
-*Reconciled by Zeus AI Evidence Architecture — Day 1,767 / Protocol #494+*
+*Reconciled by Zeus AI Evidence Architecture — Day 1,769 / Protocol #503*
