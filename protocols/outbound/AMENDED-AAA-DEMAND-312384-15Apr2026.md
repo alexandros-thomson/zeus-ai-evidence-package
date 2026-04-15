@@ -32,7 +32,7 @@ ConsumerFiling@adr.org
 
 ## I. OPENING — INITIAL SCHEDULING CONFERENCE, APRIL 15, 2026
 
-This amended demand is submitted following the Initial Scheduling Conference ("ISC") held on April 15, 2026, in the above-captioned matter. At that conference, Respondent's counsel, Christina M. Wahl of BerkowitzOliver LLP, characterized the -$830,000 foreign-source income entry appearing on Claimant's Form 1116 as a figure that was "possible." Respondent's counsel simultaneously rejected Claimant's settlement offer of $135,000 and otherwise declined to engage in any meaningful resolution discussion, causing the ISC to close without agreement.
+This amended demand is submitted following the Initial Scheduling Conference ("ISC") held on April 15, 2026, in the above-captioned matter. At that conference, Respondent's counsel, Christina M. Wahl of BerkowitzOliver LLP, characterized the -$830,000 foreign-source income entry appearing on Claimant's Form 1116 as a figure that was "possible." Respondent's counsel simultaneously rejected Claimant's $250,000 settlement demand and otherwise declined to engage in any meaningful resolution discussion, causing the ISC to close without agreement.
 
 Respondent's posture at the ISC — defending a negative-income entry that is a mathematical impossibility under the Internal Revenue Code while rejecting a below-cost settlement — removes any ambiguity about the nature of this dispute. Claimant hereby exercises her reserved right to amend this demand.
 

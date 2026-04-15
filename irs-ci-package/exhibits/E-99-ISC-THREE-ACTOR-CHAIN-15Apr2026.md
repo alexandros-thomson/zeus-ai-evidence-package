@@ -16,7 +16,7 @@
 | Purpose | Informal Settlement Conference (ISC) pursuant to AAA Consumer Arbitration Rules |
 | Outcome | Settlement rejected by respondent. Demand amended to $312,384. |
 
-The ISC was convened as a final pre-arbitration settlement opportunity. Claimant offered settlement at $135,000 (approximately 25% off the then-operative $180,000 ceiling), subsequently raised to $250,000. Respondent counsel rejected both figures and declined to engage meaningfully on the merits. Respondent instead affirmatively defended the -$830,000 foreign source income figure on the record.
+The ISC was convened as a final pre-arbitration settlement opportunity. Claimant demanded $250,000 — no step-down, no negotiation. Respondent counsel rejected both figures and declined to engage meaningfully on the merits. Respondent instead affirmatively defended the -$830,000 foreign source income figure on the record.
 
 The ISC did not produce a settlement. It produced something more durable: institutional authentication of the fraudulent figure by a third independent actor.
 
@@ -30,7 +30,7 @@ Each of the three actors below independently encountered the -$830,000 figure an
 |---|-------|------|---------------|------|--------------------|
 | 1 | **Mellissa Worman** | Original preparer, H&R Block | Filed -$830,000 on Form 1116 Line 1a (TY2024); inflated FTC from $5,984 actual ENFIA to $30,000 claimed | 2024 filing season | Originating act — preparer misconduct under IRC §7434 and 26 USC §7206(2) |
 | 2 | **Bree Cox** | Executive Escalations, H&R Block | Reviewed the filed return upon complaint; responded: *"Based on what you entered, it is correct"* — closed the case without correction | January 2026 | Administrative ratification — converts preparer error into institutional policy; supports bad-faith finding under AAA Rule R-47 |
-| 3 | **Christina Wahl** | Outside counsel, BerkowitzOliver LLP (respondent's ISC representative) | Defended -$830,000 as *"possible"* on the AAA ISC record; rejected $250,000 and $250,000 settlement offers | April 15, 2026 | Litigation-stage ratification — law firm and client jointly own the impossibility; strengthens willfulness inference and punitive damages claim |
+| 3 | **Christina Wahl** | Outside counsel, BerkowitzOliver LLP (respondent's ISC representative) | Defended -$830,000 as *"possible"* on the AAA ISC record; rejected the $250,000 settlement demand | April 15, 2026 | Litigation-stage ratification — law firm and client jointly own the impossibility; strengthens willfulness inference and punitive damages claim |
 
 **Key principle:** Each actor independently transforms the figure. Worman created it. Cox ratified it administratively. Wahl ratified it legally, on the record, in a formal AAA proceeding. The IRS has already accepted the amended return correcting the figure to $0. Three actors defended what the IRS corrected.
 
@@ -66,7 +66,7 @@ A good-faith response from competent counsel would have been: *"We are reviewing
 
 **Fishing for military pension information:** During the ISC, Wahl inquired about the claimant's military pension. Kostas remained on script. Zero information was disclosed regarding the federal investigative track. Wahl's inquiry suggests respondent is probing for alternative characterizations of the claimant's income profile — possibly to construct a post-hoc rationale for the -$830,000 figure. The deflection was complete.
 
-**Settlement position:** Claimant offered settlement at $135,000 (approximately 25% discount from the then-operative ceiling). Claimant subsequently offered $250,000 with seven days' notice. Respondent rejected both offers. Wahl demonstrated no authority or willingness to settle above H&R Block's opening position.
+**Settlement position:** Claimant demanded $250,000. There was no step-down. Respondent rejected the demand. Wahl demonstrated no authority or willingness to settle above H&R Block's opening position.
 
 **Procedural posture:** Respondent also missed the April 4, 2026 document production deadline and lacks a signed Form 7216 (consent for disclosure of tax return information). These are not peripheral issues — they are independently sanctionable under AAA Consumer Rules and relevant to the evidentiary record the arbitrator will receive.
 
