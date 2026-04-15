@@ -21,11 +21,11 @@ This repository is the central evidence vault for a cross-border criminal invest
 
 ---
 
-## Case Status -- Day 1,767 (April 13, 2026)
+## Case Status -- Day 1,769 (April 13, 2026)
 
 | Metric | Value |
 |--------|-------|
-| **Total Protocols Filed** | **494+** |
+| **Total Protocols Filed** | **503** |
 | **Agencies Engaged** | **30+** across three jurisdictional layers: Greece, the United States, and EU institutions — with a parallel U.S. arbitration channel |
 | **Days Since John's Death** | **1,767** |
 | **IRS-CI Case** | **26236541** -- SA Zacheranik + SA Pletscher, Detroit Field Office |
