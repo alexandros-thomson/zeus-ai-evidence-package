@@ -1,5 +1,5 @@
 # Dead Email Registry — Justice for John
-## Last updated: 13/04/2026 — Day 1,767
+## Last updated: 16/04/2026 — Day 1,770
 ## Rule: NEVER use any address in the left column. Use right column only.
 
 ---
@@ -16,6 +16,8 @@
 | eisap@eisap.gr | dioikitiko@eisap.gr | ΕΙΣΑΠ / Εισαγγελία Αρείου Πάγου | 550 User unknown — confirmed 08/04/2026 |
 | complaints@1702.gr | press@synigoros.gr + grammateia@synigoros.gr | Συνήγορος του Πολίτη | 1702.gr domain dead (NXDOMAIN) — use synigoros.gr domain |
 | contact@sdoe.gr | sdoe@mnec.gr + kataggelies@sdoe.gr | ΣΔΟΕ | 550 via gsis.gr — use Ministry of Economy addresses |
+| nat@efka.gov.gr | mhtrwo2@nat.gr + gram.prnat@nat.gr | ΝΑΤ / e-ΕΦΚΑ | NAT addresses under nat.gr confirmed working (Varelaki routing 16/04) |
+| d.esotherikon@efka.gov.gr | int.investigation@efka.gov.gr | e-ΕΦΚΑ Internal Investigation | Use efka.gov.gr subdomain confirmed working |
 
 ---
 
@@ -31,6 +33,8 @@
 | sdoe@aade.gr | User not found | 07/04/2026 | sdoe is not under aade.gr — use sdoe@mnec.gr or kataggelies@sdoe.gr |
 | complaints@1702.gr | Domain does not exist (NXDOMAIN) | 13/04/2026 | 1702.gr domain gone — Συνήγορος του Πολίτη uses synigoros.gr (press@synigoros.gr, grammateia@synigoros.gr) |
 | contact@sdoe.gr | 550 User not found (o365.gsis.gr) | 13/04/2026 | ΣΔΟΕ address under gsis.gr rejected — use sdoe@mnec.gr + kataggelies@sdoe.gr + kefode.attikis@aade.gr |
+| nat@efka.gov.gr | Address not found | 09/04/2026 | NAT merged into e-ΕΦΚΑ — use mhtrwo2@nat.gr, plirofories@nat.gr, gram.prnat@nat.gr, gdief@nat.gr |
+| d.esotherikon@efka.gov.gr | Address not found | 09/04/2026 | Internal investigation unit — use int.investigation@efka.gov.gr + protocol@efka.gov.gr |
 
 ---
 
