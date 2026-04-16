@@ -1,8 +1,8 @@
 # TAB 7 — IRS-CI ASK LIST
 ## IRS-CI Evidence Binder | zeus-ai-evidence-package
 ### Case: Stamatina Kyprianos | IRS-CI Case 26236541
-### Updated: 09 April 2026 — Day 1,763 Sync (486 Protocols)
-### 12 days to IRS-CI meeting
+### Updated: 09 April 2026 — Day 1,770 Sync (486 Protocols)
+### 5 days to IRS-CI meeting
 
 ---
 
@@ -44,7 +44,7 @@ These are the seven actions SA Zacheranik can initiate or confirm at or immediat
 ### D-1: CASE ACCEPTANCE CONFIRMATION
 **Ask:** Confirm IRS-CI Case 26236541 is active and assigned. Confirm SA Zacheranik and SA Pletscher remain the assigned agents.
 **Why now:** 1,763 days since death. First in-person meeting. Case number confirmation locks the investigation timeline.
-**Evidence anchor:** All 486 protocols reference Case 26236541.
+**Evidence anchor:** All 502 protocols reference Case 26236541.
 
 ### D-2: IRS ADMINISTRATIVE SUMMONS — H&R BLOCK (26 USC §7602)
 **Ask:** Issue IRS administrative summons to HRB Digital LLC / H&R Block for all tax return files, preparer worksheets, MyBlock portal records, and internal case notes for Kyprianos account, TY 2021–2024.
@@ -282,12 +282,35 @@ on federal elder financial exploitation charges under 18 USC §§1341, 1343, 102
 | Cat D | D-EV-4 | Phantom Business 1992 records | Active (silence expired 09/04) |
 | Cat D | D-EV-5 | PSES no-record formal confirmation | Active |
 
-**Total Asks: 7 day-of + 22 full set = 29 discrete asks across 4 categories**
+| **Cat A** | **A-20** | **SURVIVOR'S PENSION TRANSFER + RECOVERY** | **CRITICAL — NEW** |
+
+**A-20: Immediate transfer of survivor's pension (σύνταξη χηρείας) to Stamatina Kyprianos**
+
+Request that ΕΦΚΑ/ΓΛΚ/ΝΑΤ:
+
+1. **Immediately establish and transfer** the survivor's pension (σύνταξη χηρείας, N.4387/2016 Art.12) to Stamatina Kyprianos (AFM 044594747) — 50-70% of deceased's pension rate
+2. **Back-pay 58 months** (July 2021 – April 2026) plus statutory interest — estimated €14,500+ at minimum pension rates
+3. **Identify all pension disbursements** made on AFM 051422558 from date of earliest ΝΑΤ pension payment through present — including pre-2013 legacy system records not visible in ΕΣΕΠΣ
+4. **Trace the IBAN(s)** that received those payments (cross-ref Protocol #479 Item 6, NBG Account 438)
+5. **Recover diverted funds** from unauthorized recipients and credit to Stamatina's survivor benefit
+
+**Why this matters for IRS-CI:** The survivor's pension is income Stamatina should have been reporting on US returns since 2021. Its diversion prevented proper US tax compliance and constitutes a continuing violation of the US-Greece Tax Treaty. The pension payments diverted from a US citizen's entitled survivor benefit are not merely Greek administrative fraud — they directly affect US Treasury interests and Stamatina's tax obligations.
+
+**The Pension Triangle (Day 1,770):**
+- Κακλαμάνου (ΕΦΚΑ local): pension existed
+- Παπασταύρου (ΕΦΚΑ HQ): never existed (3x)
+- ΗΔΥΚΑ/Vachari: zero in new system (2013-present)
+- NAT/Varelaki: distributed to 4 directorates at leadership level (searching)
+
+**Duration question:** If someone has been collecting John's ΝΑΤ pension since he left Greece (~1976), the total diverted amount could be €100,000-200,000+. The IBAN trace answers who collected. MLAT Article 9 compels ΓΛΚ/ΝΑΤ production of the complete disbursement history.
+
+
+**Total Asks: 7 day-of + 23 full set = 30 discrete asks across 4 categories (A-20 added Day 1,770)**
 
 *(Note: Tab 7 header references 22 as the formal numbered ask count across Categories A–D; the 7 day-of asks are the priority subset for the April 21 meeting.)*
 
 ---
 
-*Source: Zeus AI Evidence Architecture — 486 protocols — commit-tracked — Day 1,763 Sync | Hard Freeze: April 18, 2026 6PM EDT | 12 days to IRS-CI meeting*
+*Source: Zeus AI Evidence Architecture — 502 protocols — commit-tracked — Day 1,770 Sync | Hard Freeze: April 18, 2026 6PM EDT | 5 days to IRS-CI meeting*
 
 *Repo: zeus-ai-evidence-package | Tag: v1.0-IRS-CI-BINDER (1aba021) | Branch: main | 425 commits*
