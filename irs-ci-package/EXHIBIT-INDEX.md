@@ -1,7 +1,7 @@
 # IRS-CI EVIDENCE BINDER — EXHIBIT INDEX
 ## Reconciled April 13, 2026 (Day 1,767)
 
-**Total exhibits: E-01 through E-100**
+**Total exhibits: E-01 through E-102**
 **Numbering reconciled across zeus-ai-evidence-package and justice-for-john-automation repos**
 
 | Exhibit | Title | Location | Notes |
@@ -107,6 +107,8 @@
 | E-98 | Ghost in the Gap — AADE/EFKA Disconnect Analysis | irs-ci-package/exhibits/ | Analytical memo documenting systemic disconnect between AADE tax records and EFKA pension records for deceased AFM |
 | E-99 | ISC Three-Actor Chain — Weissgerber/Cox/Wahl | irs-ci-package/exhibits/ | ISC 15/04/2026 analytical exhibit; three-actor fraud chain; Wahl defended -$830K as possible |
 | E-100 | myKEPLive No-Show — 82-Day Digital Obstruction Thread | irs-ci-package/exhibits/ | 82-day obstruction timeline from Protocol 4180/2026 through ΣΗΔΕ 13334; 5 days after Jan 14 panic removal of Efthalia |
+| E-101 | Stamatina Kyprianos — Αστυνομική Ταυτότητα Θ-039694 (1972) | irs-ci-package/exhibits/ | Greek police ID card — front and back. Establishes identity chain for all filings. Committed 840f640. |
+| E-102 | Ioannis Kyprianos — Αστυνομική Ταυτότητα Λ-899556 (1981) ΣΥΝΤΑΞΙΟΥΧΟΣ | irs-ci-package/exhibits/ | Greek police ID card — PENSIONER stamp. Proves John was receiving Greek pension pre-death. Critical for ΗΔΥΚΑ zero-pension contradiction (E-97). Committed 840f640. |
 
 ---
 
