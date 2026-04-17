@@ -7,3 +7,5 @@ tabula-py
 pandas
 python-dotenv
 openpyxl
+# --- test dependencies ---
+pytest
