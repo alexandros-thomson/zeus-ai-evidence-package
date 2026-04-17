@@ -1,2 +1,9 @@
 reportlab
 markdown
+# --- ingest-evidence dependencies ---
+pdfplumber
+pikepdf
+tabula-py
+pandas
+python-dotenv
+openpyxl
