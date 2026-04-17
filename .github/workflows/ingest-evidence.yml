@@ -20,7 +20,10 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update && sudo apt-get install -y default-jre
-          pip install pdfplumber pikepdf tabula-py pandas python-dotenv openpyxl
+          pip install -r requirements.txt
+      - name: Ensure output directories exist
+        run: |
+          mkdir -p evidence/processed evidence/reports
       - name: Parse PDFs to CSV
         run: python scripts/parse_statements.py
       - name: Validate Totals
