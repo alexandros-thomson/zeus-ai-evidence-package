@@ -113,3 +113,4 @@
 ---
 
 *Reconciled by Zeus AI Evidence Architecture — Day 1,769 / Protocol #503*
+| E-104 | ΔΕΣΥΠ Attachment-Stripping Pattern — 5 Instances (Art. 259 ΠΚ) | irs-ci-package/exhibits/ | Tab 8 exhibit documenting systematic evidence loss by AADE's complaints unit. 5/5 filings protocolled with 0 attachments (Γ 110163/257171/267352/293028/300924). Art. 259 ΠΚ (Breach of Duty). Supports MLAT necessity argument. Compiled Day 1,771 / Protocol #510. |
