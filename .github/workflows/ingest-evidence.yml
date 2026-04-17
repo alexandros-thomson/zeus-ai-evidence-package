@@ -5,7 +5,7 @@ on:
       - 'evidence/raw/**'
   workflow_dispatch:
 
-  permissions:
+permissions:
   contents: read
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update && sudo apt-get install -y default-jre
-                    pip install pdfplumber pikepdf tabula-py pandas python-dotenv openpyxl
+          pip install pdfplumber pikepdf tabula-py pandas python-dotenv openpyxl
       - name: Parse PDFs to CSV
         run: python scripts/parse_statements.py
       - name: Validate Totals
