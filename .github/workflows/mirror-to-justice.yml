@@ -18,23 +18,36 @@ jobs:
         with:
           fetch-depth: 2
 
+      - name: Validate MIRROR_PAT secret is set
+        run: |
+          if [ -z "${{ secrets.MIRROR_PAT }}" ]; then
+            echo "::error::MIRROR_PAT secret is not set. Go to Settings > Secrets > Actions and add MIRROR_PAT with a fine-grained PAT that has Contents:Read+Write access to Kypria-LLC/justice-for-john-automation"
+            exit 1
+          fi
+          echo "MIRROR_PAT secret is present."
+
       - name: Detect changed exhibit files
         id: changes
         run: |
           CHANGED=$(git diff --name-only HEAD~1 HEAD -- 'irs-ci-package/exhibits/' 'exhibits/' 'evidence/' | head -50)
           if [ -z "$CHANGED" ]; then
             echo "skip=true" >> $GITHUB_OUTPUT
+            echo "No exhibit files changed — skipping mirror."
           else
             echo "skip=false" >> $GITHUB_OUTPUT
             echo "files<<EOF" >> $GITHUB_OUTPUT
             echo "$CHANGED" >> $GITHUB_OUTPUT
             echo "EOF" >> $GITHUB_OUTPUT
+            echo "Changed exhibit files:"
+            echo "$CHANGED"
           fi
 
       - name: Clone mirror target
         if: steps.changes.outputs.skip != 'true'
         run: |
-          git clone https://x-access-token:${{ secrets.MIRROR_PAT }}@github.com/Kypria-LLC/justice-for-john-automation.git /tmp/mirror
+          git clone \
+            https://x-access-token:${{ secrets.MIRROR_PAT }}@github.com/Kypria-LLC/justice-for-john-automation.git \
+            /tmp/mirror
         env:
           MIRROR_PAT: ${{ secrets.MIRROR_PAT }}
 
@@ -43,12 +56,13 @@ jobs:
         run: |
           mkdir -p /tmp/mirror/exhibits/proto-source-docs
 
-          # Copy exhibit PDFs and images
           while IFS= read -r file; do
             if [ -f "$file" ]; then
               BASENAME=$(basename "$file")
               cp "$file" "/tmp/mirror/exhibits/proto-source-docs/$BASENAME"
               echo "Copied: $file -> exhibits/proto-source-docs/$BASENAME"
+            else
+              echo "Skipped (not found): $file"
             fi
           done <<< "${{ steps.changes.outputs.files }}"
 
@@ -61,7 +75,7 @@ jobs:
           git add exhibits/proto-source-docs/
 
           if git diff --cached --quiet; then
-            echo "No new files to mirror"
+            echo "No new files to mirror — nothing to commit."
             exit 0
           fi
 
