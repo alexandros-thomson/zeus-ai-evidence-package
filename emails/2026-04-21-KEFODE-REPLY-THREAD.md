@@ -2,7 +2,7 @@
 
 **Subject:** RE: Επικοινωνία με το Τμήμα Μητρώου Φυσικών Προσώπων ΚΕΦΟΔΕ ΑΤΤΙΚΗΣ
 **Exhibit:** E-106
-**Protocol tracker rows:** 514, 515
+**Protocol tracker rows:** 514, 515, 516
 **Attachment:** E-106-KEFODE-REPLY-ENGLISH-21Apr2026.pdf
 
 ---
@@ -64,13 +64,25 @@
 
 ---
 
+## Message 5 — Συνήγορος του Πολίτη Response (Inbound — Rejection)
+
+- **From:** press@synigoros.gr (Συνήγορος του Πολίτη / Greek Ombudsman)
+- **To:** Stamatina Kyprianos, press
+- **Date:** Tuesday 22 April 2026, 04:44 AM (Athens) / Mon 21 Apr 2026 21:44 EDT
+- **Content summary:** The Ombudsman's Secretariat Directorate (Tμήμα Γραμματειακής Υποστήριξης / Διεύθυνση Γραμματείας) stated that CC'd/forwarded correspondence that is not addressed directly to the Συνήγορος does not constitute a formal complaint (αναφορά) and will not be examined by the Authority. Directed to https://www.synigoros.gr/el/anafora for formal submission. Noted that filing with Συνήγορος does not suspend statutory deadlines for administrative objections or judicial remedies.
+- **Contact:** +30 213 13 06 600 / press@synigoros.gr / Χαλκοκονδύλη 17, 104 32 Αθήνα
+- **Tracker row:** 516
+- **Significance:** Procedural rejection — the Συνήγορος was CC'd (not directly addressed) so this response was expected. Confirms a separate formal αναφορά must be filed via the synigoros.gr portal if Ombudsman involvement is desired. Cross-ref Συνήγορος Πρωτ. 391925/28249/2026 (E-103 Ombudsman incompetence declaration on Lyrakis notarial complaint).
+
+---
+
 ## Cross-references
 
 | Item | Reference |
 |------|----------|
 | Exhibit | E-106 (irs-ci-package/exhibits/IRS-CI-DETROIT-BUSINESS-CARDS-22Apr2026.md) |
 | Exhibit Index | irs-ci-package/EXHIBIT-INDEX.md — row E-106 |
-| Protocol tracker | evidence/MASTER-PROTOCOL-TRACKER.csv — rows 514, 515 |
+[](url)| Protocol tracker | evidence/MASTER-PROTOCOL-TRACKER.csv — rows 514, 515, 516 |
 | Prior KEFODE entry | Row 513 (KEFODE midnight outreach 21/04/2026) |
 | Prior ΕΑΔ filings | Πρωτ. 5995/2026, 20560/2026 |
 | Prior DESYP filing | DESYP G 87848 (identity-theft notice) |
@@ -79,3 +91,4 @@
 | OLAF report | 24711 |
 | Εισαγγελία Πειραιώς | ΑΒΜ 14678 |
 | Deadline | Friday 25 April 2026 |
+| Συνήγορος του Πολίτη | Rejection of CC'd correspondence (22/04/2026 04:44); formal αναφορά required via synigoros.gr; cross-ref Πρωτ. 391925/28249/2026 (E-103) |
