@@ -1,0 +1,42 @@
+Subject: IRS-CI Case 26236541 — Evidence Binder Physically Delivered April 21, 2026 | E-01 through E-105
+From: Kostas Kyprianos <kostaskyprianos@gmail.com>
+To: clint.zacheranik@ci.irs.gov, henry.pletscher@ci.irs.gov
+Date: Tue, 21 Apr 2026 19:37:00 -0400
+Content-Type: text/plain; charset=UTF-8
+
+IRS-CI Case 26236541
+
+Dear Special Agent Zacheranik and Special Agent Pletscher,
+
+This email serves as written confirmation of the in-person delivery of the IRS-CI Evidence Binder on Tuesday, April 21, 2026, received by both of you today.
+
+Case Reference: IRS-CI Case No. 26236541
+Complainant: Kostas Kyprianos, on behalf of Stamatina Kyprianos (widow)
+Binder Contents: Exhibits E-01 through E-105, as indexed in the EXHIBIT-INDEX.md reconciled April 13, 2026 (Day 1,767)
+
+The full evidence package — including all digital source files, commit history, and exhibit manifest — is preserved and publicly timestamped at the following GitHub repository:
+
+https://github.com/alexandros-thomson/zeus-ai-evidence-package
+
+The binder was frozen on April 18, 2026 at 6:00 PM EDT (Hard Freeze — Gate D-9) and delivered in final unmodified form today. The frozen commit hash is:
+
+ec376dc0f5852ccb2f4c90287e1ca99b08792628
+
+A formal Delivery Confirmation Exhibit (E-106) has been committed to the repository today at:
+https://github.com/alexandros-thomson/zeus-ai-evidence-package/blob/main/irs-ci-package/exhibits/E-106-IRS-CI-BINDER-DELIVERY-CONFIRMATION-21Apr2026.md
+
+Key exhibits I ask you to prioritize:
+
+E-90 — 1040-X Accepted: $30,000 phantom Foreign Tax Credit corrected to $0 (26 USC §7206(2) predicate)
+E-87 — NBG: 438 post-death transactions (AML violation, Greek Law 4557/2018)
+E-99 — ISC Three-Actor Chain: Weissgerber/Cox/Wahl — Wahl defended -$830,000 as "possible"
+E-105 — FBI IC3 Complaint #2: ~$900,000 total, 5 named subjects (IC3 Ref: 3ebed7bb80d04e73)
+E-80 — Criminal Referral re: Efthalia Kyprianou (AFM 052822816) under 18 USC §1343, §1956, §1341
+
+Please confirm receipt of both the physical binder and this email. I remain available by phone or email at your earliest convenience.
+
+Respectfully submitted,
+
+Kostas Kyprianos
+Complainant / Authorized Representative
+Roseville, Michigan
