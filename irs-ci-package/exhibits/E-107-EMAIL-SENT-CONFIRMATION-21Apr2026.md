@@ -17,6 +17,14 @@
 
 ---
 
+## GMAIL SENT SCREENSHOT — VISUAL PROOF
+
+![E-107 Gmail Sent Screenshot — IRS-CI Case 26236541 — April 21, 2026 7:37 PM EDT](E-107-EMAIL-SENT-CONFIRMATION-21Apr2026.jpg)
+
+> Screenshot captured April 21, 2026 at 8:04 PM EDT showing sent email in Gmail, addressed to SA Clint Zacheranik and SA Henry Pletscher. Subject confirmed: "IRS-CI Case 26236541 — Evidence Binder Physically Delivered April 21, 2026 | E-01 through E-105". Labels: Awaiting Reply, Orders.
+
+---
+
 ## EMAIL BODY SUMMARY
 
 - Confirmed physical delivery of Evidence Binder E-01 through E-105 on April 21, 2026
@@ -28,12 +36,15 @@
 
 ---
 
-## SCREENSHOT NOTE
+## KEY EXHIBITS REFERENCED IN EMAIL
 
-Screenshot of sent email from Gmail inbox should be saved here as:
-`E-107-EMAIL-SENT-CONFIRMATION-21Apr2026.png`
-
-To capture: Gmail → Sent → Subject "IRS-CI Case 26236541 — Evidence Binder..."→ Full screenshot
+| Exhibit | Description |
+|---------|-------------|
+| **E-90** | 1040-X Accepted: $30,000 phantom Foreign Tax Credit corrected to $0 (26 USC §7206(2)) |
+| **E-87** | NBG: 438 post-death transactions (AML violation, Greek Law 4557/2018) |
+| **E-99** | ISC Three-Actor Chain: Weissgerber/Cox/Wahl — Wahl defended ~$830,000 as "possible" |
+| **E-105** | FBI IC3 Complaint #2: ~$900,000 total, 5 named subjects (IC3 Ref: 3ebed7bb80d04e73) |
+| **E-80** | Criminal Referral re: Efthalia Kyprianou (AFM 052822816) under 18 USC §1343, §1956, §1341 |
 
 ---
 
@@ -47,4 +58,5 @@ To capture: Gmail → Sent → Subject "IRS-CI Case 26236541 — Evidence Binder
 ---
 
 *Committed by Zeus AI Evidence Architecture — Day 1,775 / Protocol #514*
+*Screenshot embedded: commit [4ad6cf8](https://github.com/alexandros-thomson/zeus-ai-evidence-package/commit/4ad6cf87c4c6c5372c2948e680715a6193c6ab72) — April 21, 2026 8:14 PM EDT*
 *Timestamp: 2026-04-21T19:39:00-04:00*
