@@ -1,11 +1,14 @@
-# DOJ OFFICE OF INTERNATIONAL AFFAIRS — COVER LETTER (DRAFT)
+# DOJ OFFICE OF INTERNATIONAL AFFAIRS — COVER LETTER
+**UPDATED: April 21, 2026** *(Originally drafted April 3, 2026)*
 
 **Re: Request for MLAT Article 9 Assistance — Cross-Border Identity Theft, Tax Fraud & Estate Exploitation**
 
 **IRS-CI Case:** 26236541
 **IRS Form:** 14157
-**FBI IC3:** eaa5459ac668431abdb33a7f545c3282
+**FBI IC3 #1:** eaa5459ac668431abdb33a7f545c3282
+**FBI IC3 #2:** 3ebed7bb80d04e73 *(filed April 21, 2026 — ~$900,000, 5 named subjects)*
 **Subject AFMs:** 051422558 (deceased) / 044594747 (widow)
+**Day:** 1,775 (since death of Ioannis Kyprianos, June 13, 2021)
 
 ---
 
@@ -32,11 +35,18 @@ Represented by Kostadinos J. Kyprianos, Kypria LLC
 
 ---
 
+## DELIVERY STATUS — APRIL 21, 2026
+
+> **✅ IRS-CI Evidence Binder (E-01 through E-107) physically delivered to SA Zacheranik and SA Pletscher on April 21, 2026.**
+> Delivery confirmation email transmitted 7:37 PM EDT. Exhibits E-106 (delivery confirmation) and E-107 (email transmission proof) are included in the binder. SA response pending.
+
+---
+
 ## I. PURPOSE
 
 This letter formally requests that IRS-CI initiate an MLAT Article 9 request through the DOJ Office of International Affairs to compel production of records from Greek government agencies that have systematically refused domestic disclosure demands.
 
-The attached IRS-CI Evidence Binder (8-tab structure) documents a cross-border identity theft and tax fraud scheme exploiting the identity of Ioannis Kyprianos, a deceased U.S. Navy veteran and Greek-American citizen (d. June 13, 2021, Roseville, Michigan), and the tax identity of his widow, Stamatina Kyprianos.
+The attached IRS-CI Evidence Binder (8-tab structure, **E-01 through E-107**) documents a cross-border identity theft and tax fraud scheme exploiting the identity of Ioannis Kyprianos, a deceased U.S. Navy veteran and Greek-American citizen (d. June 13, 2021, Roseville, Michigan), and the tax identity of his widow, Stamatina Kyprianos.
 
 ---
 
@@ -51,7 +61,7 @@ The attached IRS-CI Evidence Binder (8-tab structure) documents a cross-border i
 
 ## III. DOMESTIC EXHAUSTION
 
-Between January 26 and March 31, 2026, the complainant filed 412 documented protocols across 25 Greek government agencies. The response pattern demonstrates coordinated non-production:
+Between January 26 and April 21, 2026, the complainant filed 412+ documented protocols across 25 Greek government agencies. The response pattern demonstrates coordinated non-production:
 
 - **EFKA/IDYKA:** 7 formal requests produced 4 circular referrals and zero substantive responses
 - **AADE:** KEFOK unit sham-closed complaint without investigation; automated systems simultaneously generated POS compliance obligations to deceased AFM
@@ -59,7 +69,7 @@ Between January 26 and March 31, 2026, the complainant filed 412 documented prot
 - **Cadastre:** 5 contradictory jurisdictional denials overridden by Deputy Minister confirmation
 - **APDPX:** Archived its own investigation of IDYKA, then rejected supplemental complaint
 
-Every domestic mechanism has been exhausted: GDPR Article 15 SARs, Article 77 supervisory complaints, Administrative Code Article 4 demands, prosecutorial referrals, and direct ministerial appeals. Zero substantive disclosures across 412 protocols.
+Every domestic mechanism has been exhausted: GDPR Article 15 SARs, Article 77 supervisory complaints, Administrative Code Article 4 demands, prosecutorial referrals, and direct ministerial appeals. Zero substantive disclosures across 412+ protocols.
 
 ---
 
@@ -90,25 +100,36 @@ The MLAT request targets 12 custodians across 12 record categories (see Tab 6 �
 
 ---
 
-## VI. DS AGENT ATHENS COORDINATION
+## VI. FBI IC3 FILINGS
+
+Two FBI IC3 complaints have been filed in connection with this matter:
+
+- **IC3 #1:** `eaa5459ac668431abdb33a7f545c3282` — Initial filing
+- **IC3 #2:** `3ebed7bb80d04e73` — Filed April 21, 2026. Estimated damages ~$900,000. Five named subjects. This complaint incorporates the full E-01 through E-107 evidence binder and post-ISC developments of April 15, 2026.
+
+---
+
+## VII. DS AGENT ATHENS COORDINATION
 
 The Diplomatic Security Agent stationed at the U.S. Embassy in Athens is already aware of this case. IRS-CI should coordinate with DS Agent Athens on Rows 2 and 3 (EFKA and AADE) as immediate priority, as the DS Agent can facilitate direct liaison with Greek agencies pending formal MLAT execution.
 
 ---
 
-## VII. ATTACHED MATERIALS
+## VIII. ATTACHED MATERIALS
 
-- [ ] IRS-CI Evidence Binder (8-tab structure, PDF)
-- [ ] Tab 6: MLAT / Record-Compulsion Map (12 rows)
-- [ ] Tab 7: Ask List (19 items, 6 day-of asks)
-- [ ] Exhibit Index with SHA-256 hashes (Appendix A)
-- [ ] MLAT Request Letter Draft (dated April 3, 2026)
-- [ ] Master Protocol Tracker (435+ entries, CSV)
-- [ ] Recovery Ledger (E-87)
+- [x] IRS-CI Evidence Binder (8-tab structure, PDF) — **E-01 through E-107, physically delivered April 21, 2026**
+- [x] Tab 6: MLAT / Record-Compulsion Map (12 rows)
+- [x] Tab 7: Ask List (19 items, 6 day-of asks)
+- [x] Exhibit Index with SHA-256 hashes (Appendix A)
+- [x] MLAT Request Letter Draft (dated April 3, 2026)
+- [x] Master Protocol Tracker (435+ entries, CSV)
+- [x] Recovery Ledger (E-87)
+- [x] E-106: Delivery confirmation
+- [x] E-107: Email transmission proof (7:37 PM EDT, April 21, 2026)
 
 ---
 
-## VIII. REQUESTED ACTION
+## IX. REQUESTED ACTION
 
 1. IRS-CI Detroit to review and adopt this MLAT request package
 2. IRS-CI to transmit package to DOJ Criminal Division, Office of International Affairs
@@ -126,6 +147,8 @@ Kostadinos J. Kyprianos
 On behalf of Stamatina Kyprianos (AFM 044594747)
 Kypria LLC | Roseville, Michigan
 stamatinakyprianos@gmail.com | +1 (734) 560-3742
+
+**Date of this update:** April 21, 2026
 
 ---
 
