@@ -2,7 +2,7 @@
 
 **Subject:** RE: Επικοινωνία με το Τμήμα Μητρώου Φυσικών Προσώπων ΚΕΦΟΔΕ ΑΤΤΙΚΗΣ
 **Exhibit:** E-106
-**Protocol tracker rows:** 514, 515, 516
+**Protocol tracker rows:** 514, 515, 516, 517
 **Attachment:** E-106-KEFODE-REPLY-ENGLISH-21Apr2026.pdf
 
 ---
@@ -76,13 +76,28 @@
 
 ---
 
+## Message 6 — Formal Αναφορά to Συνήγορος του Πολίτη (Outbound — Filed)
+
+- **From:** Stamatina Kyprianos via synigoros.gr portal
+- **To:** Συνήγορος του Πολίτη (Greek Ombudsman)
+- **Date:** Tuesday 22 April 2026, ~05:00 AM EDT
+- **Protocol:** **Πρωτ. 29454 / 22-04-2026**
+- **Tracking code (KPA):** **202604220021**
+- **Subject:** Κλοπή ταυτότητας, παραβίαση ΓΚΠΔ και συστημική αδράνεια ΚΕΦΟΔΕ Αττικής — 1.773 ημέρες χωρίς απενεργοποίηση ΑΦΜ νεκρού
+- **Agency:** ΑΑΔΕ/ΚΕΦΟΔΕ Αττικής, Τμ. Γ1' Μητρώου Φ.Π. (Προϊσταμένη: Χριστίνα Παναγιωτοπούλου)
+- **Content:** 7-point formal complaint. Jurisdictional argument distinguishing from E-103 ΤΕΛΙΚΗ ΑΝΑΡΜΟΔΙΟΤΗΤΑ (Lyrakis). 5 demands: AFM deactivation, GDPR compliance, TAXIS/myAADE reconciliation, Αρ. 259 ΠΚ review, ΑΠΔΠΧ referral.
+- **Tracker row:** 517
+- **Significance:** FORMAL αναφορά filed directly through portal. Direct response to Message 5's rejection (row 516). Συνήγορος can no longer claim improper filing. Priority: CRITICAL. For John.
+
+---
+
 ## Cross-references
 
 | Item | Reference |
 |------|----------|
 | Exhibit | E-106 (irs-ci-package/exhibits/IRS-CI-DETROIT-BUSINESS-CARDS-22Apr2026.md) |
 | Exhibit Index | irs-ci-package/EXHIBIT-INDEX.md — row E-106 |
-[](url)| Protocol tracker | evidence/MASTER-PROTOCOL-TRACKER.csv — rows 514, 515, 516 |
+[](url)| Protocol tracker | evidence/MASTER-PROTOCOL-TRACKER.csv — rows 514, 515, 516 , 517|
 | Prior KEFODE entry | Row 513 (KEFODE midnight outreach 21/04/2026) |
 | Prior ΕΑΔ filings | Πρωτ. 5995/2026, 20560/2026 |
 | Prior DESYP filing | DESYP G 87848 (identity-theft notice) |
@@ -92,3 +107,4 @@
 | Εισαγγελία Πειραιώς | ΑΒΜ 14678 |
 | Deadline | Friday 25 April 2026 |
 | Συνήγορος του Πολίτη | Rejection of CC'd correspondence (22/04/2026 04:44); formal αναφορά required via synigoros.gr; cross-ref Πρωτ. 391925/28249/2026 (E-103) |
+| Συνήγορος του Πολίτη (formal) | Πρωτ. 29454 / 22-04-2026 / KPA 202604220021 — FORMAL αναφορά filed via synigoros.gr portal; response to row 516 rejection |
