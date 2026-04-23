@@ -29,17 +29,14 @@ jobs:
       - name: Detect changed exhibit files
         id: changes
         run: |
-          CHANGED=$(git diff --name-only HEAD~1 HEAD -- 'irs-ci-package/exhibits/' 'exhibits/' 'evidence/' | head -50)
-          if [ -z "$CHANGED" ]; then
+          git diff --name-only HEAD~1 HEAD -- 'irs-ci-package/exhibits/' 'exhibits/' 'evidence/' | head -50 > /tmp/changed-files.txt
+          if [ ! -s /tmp/changed-files.txt ]; then
             echo "skip=true" >> $GITHUB_OUTPUT
             echo "No exhibit files changed — skipping mirror."
           else
             echo "skip=false" >> $GITHUB_OUTPUT
-            echo "files<<EOF" >> $GITHUB_OUTPUT
-            echo "$CHANGED" >> $GITHUB_OUTPUT
-            echo "EOF" >> $GITHUB_OUTPUT
             echo "Changed exhibit files:"
-            echo "$CHANGED"
+            cat /tmp/changed-files.txt
           fi
 
       - name: Clone mirror target
@@ -56,6 +53,7 @@ jobs:
         run: |
           mkdir -p /tmp/mirror/exhibits/proto-source-docs
 
+          # Read from file to avoid heredoc shell injection from filenames
           while IFS= read -r file; do
             if [ -f "$file" ]; then
               BASENAME=$(basename "$file")
@@ -64,7 +62,7 @@ jobs:
             else
               echo "Skipped (not found): $file"
             fi
-          done <<< "${{ steps.changes.outputs.files }}"
+          done < /tmp/changed-files.txt
 
       - name: Commit and push to mirror
         if: steps.changes.outputs.skip != 'true'
@@ -73,12 +71,10 @@ jobs:
           git config user.email "alexandros-thomson@users.noreply.github.com"
           git config user.name "Zeus Mirror Bot"
           git add exhibits/proto-source-docs/
-
           if git diff --cached --quiet; then
             echo "No new files to mirror — nothing to commit."
             exit 0
           fi
-
           SOURCE_SHA="${{ github.sha }}"
           git commit -m "mirror: auto-sync exhibits from zeus-ai-evidence-package
 
