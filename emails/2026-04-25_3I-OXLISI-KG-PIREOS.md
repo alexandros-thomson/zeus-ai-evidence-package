@@ -49,9 +49,13 @@
 
 - PDF 17 πρωτοκόλλων (to be generated)
 - Αντίγραφο 1ης/2ης όχλησης
+- Γ 87848 — smoking gun (αρχική καταχώριση)
+- Γ 267352 — smoking gun (διόρθωση χωρίς ειδοποίηση)
 
 ---
 
 Pair: 2026-04-25_3I-OXLISI-AADE-DSERV.md
 Prepared by: Alexandros Thomson
 Friday-night rule: Draft only
+
+CC: Συνήγορος του Πολίτη — ΚΠΑ 202604230067
