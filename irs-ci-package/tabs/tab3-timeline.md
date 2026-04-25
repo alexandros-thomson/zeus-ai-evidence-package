@@ -1,6 +1,6 @@
 # TAB 3: MASTER TIMELINE
 
-**32 Critical Events — Chronological Sequence Establishing Criminal Intent**
+**34 Critical Events — Chronological Sequence Establishing Criminal Intent**
 
 Each entry includes a verifiable date, the actors involved, the act or omission, and the evidentiary significance for IRS-CI purposes. Cross-references to Tab 2 (Contradiction Matrix) and Tab 5 (Evidence Index) are noted where applicable.
 
@@ -43,6 +43,8 @@ Each entry includes a verifiable date, the actors involved, the act or omission,
 | T-30 | 15/04/2026 | **ISC hearing via Zoom** | ISC (corrected) | 9:30-11:00 AM CT (10:30 AM-12:00 PM ET). Date corrected from original scheduling. Two weeks before IRS-CI in-person meeting. | E-27 |
 | T-31 | 03/04/2026 | **ΚΕΦΟΔΕ identical-boilerplate anomaly discovered** | ΚΕΦΟΔΕ Attikis | Prot. 644726 (GDPR/KAEK) and Prot. 502834 (death/heir) use identical 3-paragraph template citing GDPR Art. 15/Reg. 2016/679 despite completely different subject matter. Scripted obstruction pattern. FBI IC3 identical-boilerplate anomaly. Day 1,755. | E-46, E-47 |
 | T-32 | 08/04/2026 | **myKEPlive phantom service — survey before appointment** | KEP Αργοστολίου (0428) / myKEPlive | Two satisfaction surveys sent at 1:30 AM + 2:00 AM EDT for appointments scheduled at 1:00 PM EDT. Service never rendered, certificates never issued. System auto-completed both requests. Day 1,760. Proves digital remedy channel (myKEPlive) produces same phantom compliance as physical channels. 39th formal request with zero result. Cross-ref C-15. | E-64 |
+| T-33 | 24/04/2026 | **AADE dserv anonymous deflection — 2nd Formal Demand response** | AADE Directorate of Service (dserv@aade.gr) | Response to 2nd Formal Demand redirects to generic portal instead of substantive answer. Anonymous sender, no case officer, no protocol. Art. 4 §2 KDD violation. Day 1,786. Coordinated obstruction with E-94 (same date). Cross-ref C-13, T-31. | E-93 |
+| T-34 | 24/04/2026 | **KG Pireos one-line refusal — Prot. ND0113/26/06549** | Ktimatologio Grafio Pireos | One-line refusal of cadastral record request. No legal basis cited, no reasoning. Art. 18 & 45 n.2664/1998 violation, Art. 20 §2 Constitution. Day 1,786. Coordinated obstruction with E-93 (same date). Cross-ref C-13, T-31. | E-94 |
 
 ---
 
