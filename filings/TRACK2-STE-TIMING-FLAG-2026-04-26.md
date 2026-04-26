@@ -28,9 +28,10 @@
 
 ## e-ΠΑΡΆΒΟΛΟ NOTE
 
-- Draft cites: Code **3317** / **€20** for "Αίτηση Ακυρώσεως κτηματολογικής πράξης"
-- General ΣτΕ individual rate: €100
-- Cadastral-specific codes may differ
+- ~~Draft cited: Code 3317 / €20~~ — **CORRECTED 26/04/2026**
+- **Αίτηση Ακυρώσεως (ΣτΕ): Code 8203 / €150** (ΠΔ 18/1989 Άρθρο 36; Ministry of Justice e-Παράβολο schedule)
+- **Αναστολή εκτέλεσης / ασφαλιστικά μέτρα (ΣτΕ): Code 8202 / €50** (separate filing if interim relief needed)
+- Statutory basis: ΠΔ 18/1989 Άρθρο 36 sets €150 for αίτηση ακυρώσεως, €50 for αναστολή/ασφαλιστικά/διόρθωση-ερμηνεία
 - **Action required:** Verify against live AADE schedule at https://www.aade.gr/e-paravolo no earlier than the week of intended filing
 - Do NOT purchase e-Παράβολο until verified
 
