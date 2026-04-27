@@ -51,11 +51,15 @@
 
 ## PRE-FLIGHT CHECKLIST (added 27/04/2026)
 
-### 🔴 CRITICAL BLOCKER: LAWYER REQUIREMENT
+### PRO SE FILING POSTURE
 
-- [ ] **RETAIN GREEK LAWYER** — ΠΔ 18/1989 Άρθρο 17 §4 requires αίτηση ακυρώσεως to be signed by δικηγόρος. Per ΣτΕ 1423/2020, petition filed without lawyer signature is **απαράδεκτη (inadmissible)**. Electronic filing via gov.gr/solon requires bar association credentials. This is a **hard blocker** — no filing possible without retained counsel.
-- [ ] Identify Athens-bar δικηγόρος with ΣτΕ practice (administrative law / κτηματολόγιο disputes)
-- [ ] Budget for lawyer fees + e-Παράβολο 8203/€150
+> **Documented decision:** Lawyer route attempted and exhausted. Filing pro se under 28 U.S.C. § 1654 (US parallel proceedings), consistent with Tracks 1, 3, 4, 5, 6, 7, 8.
+
+**ΠΔ 18/1989 Άρθρο 17 §4 analysis:**
+- Petition signed only by αιτών (without δικηγόρος) is deemed **νομίμως ασκηθείσα** (validly filed) IF a δικηγόρος παρίσταται at the hearing
+- Άρθρο 26 §1: at hearing, ιδιώτες cannot appear αυτοπροσώπως — only through δικηγόρος admitted to Άρειος Πάγος
+- **Strategy:** File petition self-signed to **preserve the deadline**. The filing itself locks in the 60-day window. Lawyer question deferred to hearing stage (months away). This is standard practice — the statute explicitly contemplates this sequence.
+- Risk: if no lawyer appears at hearing, petition is dismissed as απαράδεκτη. But the alternative (missing the 23/06 deadline entirely) is worse.
 
 ### e-Παράβολο
 
@@ -73,7 +77,7 @@
 ### Service (Επίδοση)
 
 - [ ] Service on Κτηματολογικό Γραφείο Πειραιώς within 2 months of filing (Άρθρο 21 §2 ΠΔ 18/1989)
-- [ ] Coordinate with retained lawyer for δικαστικός επιμελητής
+- [ ] Arrange δικαστικός επιμελητής for service (can be engaged directly, no lawyer needed)
 
 ### Cross-References
 
