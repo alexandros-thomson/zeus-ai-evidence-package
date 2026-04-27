@@ -15,6 +15,7 @@
 | PP.00179/2026/EN | 30/01/2026 | Web form | ✅ Acknowledged |
 | PP.00310/2026/EN | 17/02/2026 | Web form | ✅ Acknowledged |
 | PP.00736/2026/EN | — | — | ❌ NOT VERIFIED — DO NOT USE |
+| PP.00971/2026/EN | 27/04/2026 | Web form | ✅ Acknowledged |
 
 **Controlling case ref for this supplemental: PP.00310/2026/EN**
 
