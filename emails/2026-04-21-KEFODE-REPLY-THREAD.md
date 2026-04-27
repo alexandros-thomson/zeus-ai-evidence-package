@@ -89,6 +89,21 @@
 - **Tracker row:** 517
 - **Significance:** FORMAL αναφορά filed directly through portal. Direct response to Message 5's rejection (row 516). Συνήγορος can no longer claim improper filing. Priority: CRITICAL. For John.
 
+
+---
+
+## Message 7 — KEFODE TaxisNet Deflection (Inbound — Wrong Unit)
+
+- **From:** D.O.Y. KEFODE ATTIKIS (Tmima D' Apeikonisis Synallagon / Department D — Transaction Imaging)
+- **To:** Stamatina Kyprianos (TaxisNet mailbox, AFM 044594747)
+- **Date:** Sunday 27 April 2026, 12:58:50 (Athens) / 05:58 AM EDT
+- **Read:** 27/04/2026 17:55:05 (Athens)
+- **Subject:** ENHMRWSH DIADIKASIAS KATAGGELION (Complaints Procedure Update)
+- **Attachment:** None
+- **Content summary:** Generic canned response listing three ways to file complaints: (1) aade.gr Kataggelies section, (2) email kataggelies@aade.gr, (3) phone 1521. References an email sent to KEFODE on **4.4.2026** — NOT the 21/04/2026 five-demand letter.
+- **Signed by:** Tmima D' Apeikonisis Synallagon, KENTRO FOROLOGIKON DIADIKASION KAI EKSYPIRETISIS (KE.FO.D.E.) ATTIKIS, Smyrnis 23 & Kydonion, 17778 Tavros
+- **Tracker row:** 523
+- **Significance:** DEFLECTION. Wrong unit responded (Tmima D — Transaction Imaging, NOT Panagiotopoulou's Tmima G1 — Registry of Natural Persons). Wrong date referenced (4.4.2026, not 21/04/2026). Zero substance — none of the five demands addressed. No registry printouts, no audit logs, no phone mismatch explanation, no AFM 051422558 status, no internal order disclosure. Does NOT cure the siopiri aporripsi. Art. 227 appeal 10-business-day clock (~May 11) continues. Evidence of institutional evasion and inter-departmental deflection.
 ---
 
 ## Cross-references
@@ -97,7 +112,7 @@
 |------|----------|
 | Exhibit | E-106 (irs-ci-package/exhibits/IRS-CI-DETROIT-BUSINESS-CARDS-22Apr2026.md) |
 | Exhibit Index | irs-ci-package/EXHIBIT-INDEX.md — row E-106 |
-[](url)| Protocol tracker | evidence/MASTER-PROTOCOL-TRACKER.csv — rows 514, 515, 516 , 517|
+| Protocol tracker | evidence/MASTER-PROTOCOL-TRACKER.csv — rows 514, 515, 516, 517, 523|
 | Prior KEFODE entry | Row 513 (KEFODE midnight outreach 21/04/2026) |
 | Prior ΕΑΔ filings | Πρωτ. 5995/2026, 20560/2026 |
 | Prior DESYP filing | DESYP G 87848 (identity-theft notice) |
