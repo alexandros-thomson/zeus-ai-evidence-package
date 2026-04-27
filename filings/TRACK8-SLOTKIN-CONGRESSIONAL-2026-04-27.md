@@ -71,3 +71,4 @@
 | Track 6 (Embassy) | filings/TRACK6-US-EMBASSY-CONSULAR-2026-04-27.md |
 | IRS-CI Case | 26236541 |
 | Protocol tracker | evidence/MASTER-PROTOCOL-TRACKER.csv |
+| EPPO supplemental (Track 4) | PP.00971/2026/EN — filed 27/04/2026, acknowledged |
