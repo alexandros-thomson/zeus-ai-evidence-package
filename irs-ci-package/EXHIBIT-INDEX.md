@@ -1,7 +1,7 @@
 # IRS-CI EVIDENCE BINDER — EXHIBIT INDEX
-## Reconciled April 13, 2026 (Day 1,767)
+## Reconciled April 27, 2026 (Day 1,789)
 
-**Total exhibits: E-01 through E-102**
+**Total exhibits: E-01 through E-109**
 **Numbering reconciled across zeus-ai-evidence-package and justice-for-john-automation repos**
 
 | Exhibit | Title | Location | Notes |
@@ -119,3 +119,5 @@
 | E-106 | IRS-CI Detroit Field Office — SA Business Cards (Zacheranik & Pletscher) | irs-ci-package/exhibits/ | Physical business cards received 22/04/2026 in Roseville, MI; SA Clint Zacheranik (Rm Protocols: EAD 24675 EI 2026 (22/04/2026 02:52, Tracker row 514) + DESYP G 315579 EI 2026 EMP/Confidential (22/04/2026 03:56, Tracker row 515). Email thread: emails/2026-04-21-KEFODE-REPLY-THREAD.md. |709, 313-234-2434) & SA Henry Pletscher (Rm 251, 313-234-2469), 985 Michigan Ave, Detroit; cross-ref IRS-CI Case 26236541. See IRS-CI-DETROIT-BUSINESS-CARDS-22Apr2026.md. |
 
 | E-107 | IRS-CI Dual-Agent Email Receipt Confirmation (Pletscher + Zacheranik) | irs-ci-package/exhibits/ | Written email receipts from both IRS-CI Special Agents confirming binder delivery. SA Henry S. Pletscher II (22/04/2026 12:45:20 AM EDT): "I did receive the binder today." SA Clint J. Zacheranik (22/04/2026 2:04:32 PM EDT): "I confirm my receipt of the binder as well as your email below." Chain of custody for IRS-CI Case 26236541 fully closed. Committed 71a0c59. Day 1,776 / Protocol #517. |
+| E-108 | Senator Slotkin Office Update — IMA00176193 | irs-ci-package/exhibits/ | Email update to Senator Slotkin caseworkers (Angel + Ana) re IRS-CI binder delivery 21/04/2026; IMA reference IMA00176193; Case 26236541. SENT — AWAITING REPLY. Day 1,775 / Protocol #515. Committed f8aeecb. |
+| E-109 | IRS-CI Mirror Workflow Verification (Case 26236541) | irs-ci-package/exhibits/ | Heredoc fix verification — confirms commit b15117e handles filenames containing token Case without shell injection. Day 1,776. NOTE: File in exhibits folder named E-108; renumbered to E-109 in this index to resolve collision with Slotkin exhibit. |
