@@ -34,7 +34,7 @@
   - **Strategy note (per 25/04/2026 αναστολή decision):** Track 1 contests a refusal-to-act; provisional suspension confers limited benefit because there is no executory act to suspend. Default posture: **DO NOT purchase 8202** unless filer later elects interim relief. €50 saved.
  - Statutory basis: ΠΔ 18/1989 Άρθρο 36 sets €150 for αίτηση ακυρώσεως, €50 for αναστολή/ασφαλιστικά/διόρθωση-ερμηνεία
 - **Action required:** Verify against live AADE schedule at https://www.aade.gr/e-paravolo no earlier than the week of intended filing
-- Do NOT purchase e-Παράβολο until verified
+- **UPDATE 27/04/2026:** e-Παράβολο Code 8202 / EUR 50 for ΣτΕ αναστολή ALREADY PURCHASED AND PAID. Ready to attach to filing.
 
 ---
 
