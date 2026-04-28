@@ -1,0 +1,4 @@
+"Topic","","","","Why They Differ"
+"Depth of forward guidance","Full routing matrix with drafted templates for each contingency","Strategic framework with pre-staging priorities","Summary confirmation only","GPT-5.5 Thinking treated this as an operational briefing; Claude Opus 4.7 Thinking as strategic analysis; Nemotron 3 Super as acknowledgement"
+"Authority count precision","Flagged 11 nodes vs. stated 10; recommends correction","Accepted ""10 authorities"" as stated","Accepted ""10 authorities"" as stated","GPT-5.5 Thinking caught the OLAF email/FNS double-count discrepancy"
+"E-117a evidence preservation","Recommends screenshot + URL + timestamp + browser/IP","Recommends HTTP headers + TLS handshake timestamp + referring URL triad","Notes it as logged","Claude Opus 4.7 Thinking prioritizes forensic-grade preservation; GPT-5.5 Thinking prioritizes repeatability"
