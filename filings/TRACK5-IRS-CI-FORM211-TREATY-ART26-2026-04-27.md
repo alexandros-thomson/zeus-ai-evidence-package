@@ -1,7 +1,7 @@
 # TRACK 5 — IRS-CI Form 211 + 1953 Treaty Art. 26 Invocation
 
 **Drafted:** 27/04/2026 (Day 1,789)
-**Status:** SHELL — requires final review before submission
+**Status:** FILED — Form 211 submitted electronically via wo.for.irs.gov on 28/04/2026 00:00 EDT
 **Execution window:** Tuesday 28/04/2026 (per escalation plan)
 **Tone Gate:** Formal administrative register throughout
 
@@ -72,3 +72,22 @@
 | OLAF report | 24711 |
 | IC3 complaints | I2502040432132952, 3ebed7bb80d04e73 |
 | Protocol tracker | evidence/MASTER-PROTOCOL-TRACKER.csv |
+
+---
+
+## SUBMISSION CONFIRMATION
+
+| Field | Value |
+|-------|-------|
+| Form | IRS Form 211 (Application for Award for Original Information) |
+| Portal | wo.for.irs.gov/s/form211 |
+| Submitted | 28/04/2026 00:00 EDT |
+| Claimant | Kostadinos J Kyprianos |
+| Reported taxpayer | John Kyprianos (16441 Waterman Dr, Roseville, MI 48066) |
+| Tax year | 2021 |
+| Amount | $110,000 |
+| Cross-refs | IRS-CI Case 26236541; Form 3949-A ref F3949A477FDA6F; Form 14157 (Case 26236541) |
+| Attachments | None (evidence repo referenced in narrative) |
+| Evidence repo | https://github.com/alexandros-thomson/zeus-ai-evidence-package |
+| IRS acknowledgment | Expected within 30-60 days by mail |
+| Mail address for docs | IRS Whistleblower Office - ICE, 1973 N. Rulon White Blvd. M/S 4110, Ogden, UT 84404 |
