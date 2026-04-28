@@ -1,7 +1,7 @@
 # IRS-CI EVIDENCE BINDER — EXHIBIT INDEX
-## Reconciled April 27, 2026 (Day 1,789)
+## Reconciled April 28, 2026 (Day 1,789)
 
-**Total exhibits: E-01 through E-109**
+**Total exhibits: E-01 through E-114; E-201**
 **Numbering reconciled across zeus-ai-evidence-package and justice-for-john-automation repos**
 
 | Exhibit | Title | Location | Notes |
@@ -126,3 +126,4 @@
 | E-112 | ΚΕΦΟΚ Αττικής Triple-Nested Phantom Closure (POST-FREEZE) | irs-ci-package/exhibits/ | Three sequential myAADE eTickets (375683 / 502801 / 585962) closed via escalating semantics: silent → zero-text → 'already answered' boilerplate. Layer 3 = Art. 242 ΠΚ false certification. Sister-directorate obstruction to ΚΕΦΟΔΕ. Includes Layer-Case-Closuretype-Violationtype.csv. Day 1,780 / Protocol #525. |
 | E-113 | EAD Prot. 25919 EI 2026 — GDPR Supplement to ΚΕΦΟΔΕ Silent-Rejection Complaint (POST-FREEZE) | irs-ci-package/exhibits/ | GDPR Art. 5(1)(d) / 12(3) / 15 / 34 supplement to parent EAD Prot. 1316/2026. Lighter instrument; locks EAD into GDPR analysis. Day 1,780 / Protocol #524. |
 | E-114 | EAD Prot. 26141 EI 2026 — Ενδικοφανής Προσφυγή Against ΚΕΦΟΔΕ Αττικής (Signal #7, POST-FREEZE) | irs-ci-package/exhibits/ | Heaviest administrative instrument: formal Art. 4 N.2690/1999 quasi-judicial appeal. Mandatory EAD adjudication. Both AFMs (044594747 + 051422558) bound into single proceeding. EAD decision is itself appealable to Administrative Courts. Day 1,780 / Protocol #526. |
+| E-201 | OLAF-AFIS Bounce NDR — Obstructed EU Channel (28/04/2026) | irs-ci-package/exhibits/ | Mailer-daemon NDR 550 5.1.1 from OLAF.AFIS@ec.europa.eu — non-public channel; preserved as evidence of obstructed-EU-channel pattern. Immediately followed by corrective send to OLAF-FMB-SPE (Protocol #533). Day 1,789 / Protocol #532. |
